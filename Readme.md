@@ -213,6 +213,10 @@ output    | js object | n/a              | Output to stdout (`output-stdout`)
 
 ## Version history
 
+**v1.0.1**
+
+- Fix binary path in package.json
+
 **v1.0.0**
 
 - Initial public release

@@ -1,10 +1,10 @@
 {
   "name": "forward-ferret",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A command-line application for processing UK election data.",
   "main": "dist/forward-ferret.js",
   "bin": {
-	  "ferret" : ".bin/ferret.js"
+	  "ferret" : "./bin/ferret.js"
   },
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha"
