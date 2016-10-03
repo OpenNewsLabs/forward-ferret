@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="30" name="Eastwood" electorate="50476" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Scottish National Party gain from Labour in Eastwood">
+      <Candidate previousSittingMember="+" paId="182802" sex="F" firstName="Helen" surname="Taylor Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182803" sex="F" firstName="Liz" surname="Harvey Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182804" sex="F" firstName="Jean" surname="Hayes Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="182805" sex="M" firstName="James" surname="Davidson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" electorate="58093" gainOrHold="hold" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="false" paStyleMessageText="Scottish National Party hold Perthshire South &amp; Kinross-shire">
+      <Candidate previousSittingMember="+" paId="182953" sex="M" firstName="Rob" surname="Hawkins Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182954" sex="M" firstName="John" surname="MacDonald Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182955" sex="F" firstName="Pamela" surname="Cameron Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182956" sex="M" firstName="Carl" surname="Johnson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182957" sex="M" firstName="Mike" surname="Hill Test">
+        <Party paId="8770" name="Stronger Community Party" abbreviation="Community" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

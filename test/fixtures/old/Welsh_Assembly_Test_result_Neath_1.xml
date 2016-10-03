@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:42:30+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="27" name="Neath" electorate="57533" turnout="31849" percentageTurnout="55.36" percentageChangeTurnout="+13.91" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="7065" percentageMajority="22.18" percentageChangeMajority="+13.91" swing="13.55" swingTo="LD" swingFrom="Lab">
+      <Candidate elected="*" paId="181835" sex="M" firstName="Malcolm" surname="Taylor Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="14671" percentageShare="46.06" percentageShareChange="-7.34" />
+      </Candidate>
+      <Candidate paId="181836" sex="M" firstName="Andrew" surname="Harper Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="7606" percentageShare="23.88" percentageShareChange="+19.76" />
+      </Candidate>
+      <Candidate paId="181834" sex="M" firstName="Chris" surname="Smith Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="6600" percentageShare="20.72" percentageShareChange="+9.07" />
+      </Candidate>
+      <Candidate paId="181837" sex="M" firstName="Neil" surname="Evans Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="1267" percentageShare="3.98" percentageShareChange="-22.63" />
+      </Candidate>
+      <Candidate paId="181838" sex="M" firstName="Tim" surname="Williams Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="823" percentageShare="2.58" />
+      </Candidate>
+      <Candidate paId="181839" sex="M" firstName="Simon" surname="Webb Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="535" percentageShare="1.68" />
+      </Candidate>
+      <Candidate paId="181840" sex="M" firstName="Roger" surname="Nolan Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="347" percentageShare="1.09" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="27" name="Neath" turnout="23849" percentageTurnout="41.45" winningParty="Lab" majority="6390" percentageMajority="26.79">
+      <Candidate paId="61015" firstName="Gwenda" surname="Thomas" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12736" percentageShare="53.40" />
+      </Candidate>
+      <Candidate paId="60878" firstName="Alun" surname="Llewelyn" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="6346" percentageShare="26.61" />
+      </Candidate>
+      <Candidate paId="70761" firstName="Alex" surname="Powell" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2780" percentageShare="11.66" />
+      </Candidate>
+      <Candidate paId="71309" firstName="Michael" surname="Green" sex="M">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="1004" percentageShare="4.21" />
+      </Candidate>
+      <Candidate paId="66385" firstName="Mathew" surname="McCarthy" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="983" percentageShare="4.12" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

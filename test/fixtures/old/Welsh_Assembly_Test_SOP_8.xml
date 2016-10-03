@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="8" totalNumberOfConstituencies="40" totalVotes="320435">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W" />
+  <Parties>
+    <Party paId="8624" name="Labour" abbreviation="Lab" totalSeats="4" gains="1" losses="3" totalVotes="121040" percentageShare="37.77" percentageChange="-7.81" />
+    <Party paId="8623" name="Conservative" abbreviation="C" totalSeats="3" gains="3" losses="1" totalVotes="97100" percentageShare="30.30" percentageChange="+10.34" />
+    <Party paId="8626" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="42210" percentageShare="13.17" percentageChange="+3.98" />
+    <Party paId="8627" name="Plaid Cymru" abbreviation="PC" losses="1" totalVotes="38223" percentageShare="11.93" percentageChange="-11.89" />
+    <Party paId="8628" name="Green" abbreviation="Green" totalVotes="13052" percentageShare="4.07" />
+    <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" totalVotes="8373" percentageShare="2.61" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="437" percentageShare="0.14" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="8" name="Caerphilly" />
+    <Constituency number="13" name="Carmarthen East &amp; Dinefwr" />
+    <Constituency number="17" name="Clwyd West" />
+    <Constituency number="22" name="Islwyn" />
+    <Constituency number="28" name="Newport East" />
+    <Constituency number="31" name="Pontypridd" />
+    <Constituency number="33" name="Rhondda" />
+    <Constituency number="35" name="Swansea West" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

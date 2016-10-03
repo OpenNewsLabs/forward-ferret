@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:17:16+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="36" name="Torfaen" electorate="61126" turnout="42501" percentageTurnout="69.53" percentageChangeTurnout="+33.00" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="14056" percentageMajority="33.07" percentageChangeMajority="+33.00" swing="0.49" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181893" sex="M" firstName="Ian" surname="Stewart Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="21098" percentageShare="49.64" percentageShareChange="+3.43" />
+      </Candidate>
+      <Candidate paId="181895" sex="M" firstName="Bob" surname="Fisher Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="7042" percentageShare="16.57" percentageShareChange="+4.40" />
+      </Candidate>
+      <Candidate paId="181892" sex="M" firstName="Mark" surname="Day Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="5653" percentageShare="13.30" percentageShareChange="-1.51" />
+      </Candidate>
+      <Candidate paId="181894" sex="M" firstName="Christopher" surname="Weiss Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="4654" percentageShare="10.95" percentageShareChange="+7.13" />
+      </Candidate>
+      <Candidate paId="181897" sex="M" firstName="Chris" surname="Dunn Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="3022" percentageShare="7.11" />
+      </Candidate>
+      <Candidate paId="181896" sex="M" firstName="Peter" surname="Smith Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1032" percentageShare="2.43" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="36" name="Torfaen" turnout="22328" percentageTurnout="36.53" winningParty="Lab" majority="6088" percentageMajority="27.27">
+      <Candidate paId="60991" firstName="Lynne" surname="Neagle" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="10318" percentageShare="46.21" />
+      </Candidate>
+      <Candidate paId="71319" firstName="Elizabeth" surname="Haynes" sex="F">
+        <Party paId="5744" name="Independent" abbreviation="Ind" votes="4230" percentageShare="18.94" />
+      </Candidate>
+      <Candidate paId="66520" firstName="Natasha" surname="Asghar" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3306" percentageShare="14.81" />
+      </Candidate>
+      <Candidate paId="60896" firstName="Jeff" surname="Rees" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2716" percentageShare="12.16" />
+      </Candidate>
+      <Candidate paId="71318" firstName="Susan" surname="Harwood" sex="F">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="906" percentageShare="4.06" />
+      </Candidate>
+      <Candidate paId="70778" firstName="Will" surname="Griffiths" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="852" percentageShare="3.82" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

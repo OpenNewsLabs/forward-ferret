@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:46:51+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="30" name="Ogmore" electorate="55442" turnout="42452" percentageTurnout="76.57" percentageChangeTurnout="+40.02" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="14370" percentageMajority="33.85" percentageChangeMajority="+40.02" swing="41.62" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181855" sex="M" firstName="Stuart" surname="Berry Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="22485" percentageShare="52.97" percentageShareChange="+38.43" />
+      </Candidate>
+      <Candidate paId="181856" sex="M" firstName="David" surname="Robinson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="8115" percentageShare="19.12" percentageShareChange="-44.82" />
+      </Candidate>
+      <Candidate paId="181858" sex="M" firstName="Keith" surname="Francis Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="4332" percentageShare="10.20" percentageShareChange="-6.47" />
+      </Candidate>
+      <Candidate paId="181857" sex="M" firstName="Chris" surname="Bell Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="3870" percentageShare="9.12" percentageShareChange="+4.26" />
+      </Candidate>
+      <Candidate paId="181860" sex="M" firstName="Kevin" surname="Moore Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="2015" percentageShare="4.75" />
+      </Candidate>
+      <Candidate paId="181859" sex="F" firstName="Anne" surname="McCartney Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1635" percentageShare="3.85" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="30" name="Ogmore" turnout="20264" percentageTurnout="36.55" winningParty="Lab" majority="9576" percentageMajority="47.26">
+      <Candidate paId="60988" firstName="Janice" surname="Gregory" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12955" percentageShare="63.93" />
+      </Candidate>
+      <Candidate paId="60883" firstName="Danny" surname="Clark" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3379" percentageShare="16.67" />
+      </Candidate>
+      <Candidate paId="66516" firstName="Martyn" surname="Hughes" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2945" percentageShare="14.53" />
+      </Candidate>
+      <Candidate paId="60579" firstName="Gerald" surname="Francis" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="985" percentageShare="4.86" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

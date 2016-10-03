@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="23" name="Llanelli" electorate="58838" gainOrHold="hold" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="false" paStyleMessageText="Labour hold Llanelli">
+      <Candidate paId="181807" sex="M" firstName="Richard" surname="Peacock Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181808" sex="M" firstName="John" surname="McDonnell Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181809" sex="M" firstName="Ken" surname="Marshall Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181810" sex="M" firstName="Edward" surname="Gibson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181811" sex="M" firstName="Michael" surname="Lawrence Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181813" sex="M" firstName="James" surname="Thompson Test">
+        <Party paId="8768" name="People First" abbreviation="PF" />
+      </Candidate>
+      <Candidate paId="181812" sex="M" firstName="Geoff" surname="O'Brien Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

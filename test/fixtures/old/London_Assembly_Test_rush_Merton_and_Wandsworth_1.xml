@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="11" name="Merton &amp; Wandsworth" electorate="374585" gainOrHold="hold" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="false" paStyleMessageText="Conservative hold Merton &amp; Wandsworth">
+      <Candidate elected="*" paId="181983" sex="M" firstName="Raymond" surname="Burt Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181984" sex="M" firstName="Paul" surname="Robinson Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181985" sex="M" firstName="Peter" surname="Stewart Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181986" sex="M" firstName="Dave" surname="Jones Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181987" sex="F" firstName="Kate" surname="Begg Test">
+        <Party paId="8588" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181988" sex="F" firstName="Margaret" surname="Williams Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

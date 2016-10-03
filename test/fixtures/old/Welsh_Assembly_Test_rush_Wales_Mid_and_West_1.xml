@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="104" name="Wales Mid &amp; West" electorate="433147">
+      <Candidate elected="*" paId="181554" sex="M" firstName="Mark" surname="O'Brien Test" partyListRank="1">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181561" sex="F" firstName="Amanda" surname="Turner Test" partyListRank="1">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="181562" sex="M" firstName="Bill" surname="Smyth Test" partyListRank="2">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="181582" sex="M" firstName="Jim" surname="Gray Test" partyListRank="1">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</TopUpRush>
+

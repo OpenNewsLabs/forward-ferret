@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='2'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Adur' paId='3170' type='Non-Met' proportion='half' winningParty='C' gainOrHold='no change' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='10'/>
+        <Party name='Ind' paId='318' seats='4'/>
+        <Party name='Green' paId='316' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='Ind' paId='318' change='+3'/>
+        <Party name='Green' paId='316' change='+1'/>
+        <Party name='UKIP' paId='317' change='-2'/>
+        <Party name='C' paId='313' change='-1'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='19'/>
+        <Party name='Ind' paId='318' seats='5'/>
+        <Party name='UKIP' paId='317' seats='4'/>
+        <Party name='Green' paId='316' seats='1'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

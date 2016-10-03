@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpResult revision="1" declarationTime="2016-04-27T18:39:11+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="102" name="Highlands &amp; Islands" electorate="335283" turnout="183773" percentageTurnout="54.81" percentageChangeTurnout="+1.42" winningParty="SNP" majority="88080" percentageMajority="47.93" percentageChangeMajority="+1.42" swing="7.43" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" paId="183069" sex="M" firstName="John" surname="Lee Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183070" sex="M" firstName="Michael" surname="Edwards Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183076" sex="M" firstName="Nigel" surname="Cannon Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="183084" sex="F" firstName="Anne" surname="Harrison Test" partyListRank="1">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="183092" sex="M" firstName="Paul" surname="Booth Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="183093" sex="M" firstName="Brian" surname="Fletcher Test" partyListRank="2">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183104" sex="M" firstName="Steven" surname="Bennett Test" partyListRank="1">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Party paId="8447" abbreviation="SNP" name="Scottish National Party" votes="107887" percentageShare="58.71" percentageShareChange="+11.18" />
+      <Party paId="8444" abbreviation="Lab" name="Labour" votes="19807" percentageShare="10.78" percentageShareChange="-3.68" />
+      <Party paId="8443" abbreviation="C" name="Conservative" votes="16778" percentageShare="9.13" percentageShareChange="-2.51" />
+      <Party paId="8446" abbreviation="LD" name="Liberal Democrat" votes="16778" percentageShare="9.13" percentageShareChange="-3.01" />
+      <Party paId="8448" abbreviation="Green" name="Green" votes="12366" percentageShare="6.73" percentageShareChange="+1.66" />
+      <Party paId="8507" abbreviation="SCP" name="Scottish Christian Party" votes="4112" percentageShare="2.24" percentageShareChange="+0.26" />
+      <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" votes="4091" percentageShare="2.23" />
+      <Party paId="8465" abbreviation="Ind" name="Independent" votes="980" percentageShare="0.53" />
+      <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" votes="897" percentageShare="0.49" percentageShareChange="-1.40" />
+      <Party paId="8518" abbreviation="Solidarity" name="Solidarity" votes="77" percentageShare="0.04" percentageShareChange="-0.07" />
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament Test" date="2011-05-05" type="S">
+    <Constituency number="102" name="Highlands &amp; Islands" turnout="179010" percentageTurnout="53.39" winningParty="SNP" majority="59198" percentageMajority="33.07">
+      <Candidate elected="*" paId="60424" firstName="Jamie" surname="McGrigor" sex="M">
+        <Party paId="5665" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60448" firstName="Mary" surname="Scanlon" sex="F">
+        <Party paId="5665" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="66493" firstName="Rhoda" surname="Grant" sex="F">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60819" firstName="Dave" surname="Stewart" sex="M">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60711" firstName="John" surname="Finnie" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60712" firstName="Jean" surname="Urquhart" sex="F">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60713" firstName="Mike" surname="MacKenzie" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Party paId="5669" abbreviation="SNP" name="Scottish National Party" votes="85082" percentageShare="47.53" candidatesElected="3" />
+      <Party paId="5666" abbreviation="Lab" name="Labour" votes="25884" percentageShare="14.46" candidatesElected="2" />
+      <Party paId="5668" abbreviation="LD" name="Liberal Democrat" votes="21729" percentageShare="12.14" />
+      <Party paId="5665" abbreviation="C" name="Conservative" votes="20843" percentageShare="11.64" candidatesElected="2" />
+      <Party paId="5670" abbreviation="Green" name="Green" votes="9076" percentageShare="5.07" />
+      <Party paId="5717" abbreviation="SCP" name="Scottish Christian Party" votes="3541" percentageShare="1.98" />
+      <Party paId="5729" abbreviation="UKIP" name="UK Independence Party" votes="3372" percentageShare="1.88" />
+      <Party paId="6176" abbreviation="Pensioners" name="All Scotland Pensioners Party" votes="2770" percentageShare="1.55" />
+      <Party paId="6175" abbreviation="BBB" name="Ban Bankers Bonuses" votes="1764" percentageShare="0.99" />
+      <Party paId="5698" abbreviation="Lib" name="Liberal" votes="1696" percentageShare="0.95" />
+      <Party paId="5726" abbreviation="Soc Lab" name="Socialist Labour Party" votes="1406" percentageShare="0.79" />
+      <Party paId="5673" abbreviation="BNP" name="British National Party" votes="1134" percentageShare="0.63" />
+      <Party paId="5722" abbreviation="SSP" name="Scottish Socialist Party" votes="509" percentageShare="0.28" />
+      <Party paId="5727" abbreviation="Solidarity" name="Solidarity" votes="204" percentageShare="0.11" />
+    </Constituency>
+  </PreviousElection>
+</TopUpResult>
+

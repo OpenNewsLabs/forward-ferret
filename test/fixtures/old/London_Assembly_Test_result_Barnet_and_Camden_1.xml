@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:53:07+01:00">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="1" name="Barnet &amp; Camden" electorate="385774" turnout="261312" percentageTurnout="67.74" percentageChangeTurnout="+25.78" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="87341" percentageMajority="33.42" percentageChangeMajority="+25.78" swing="10.34" swingTo="Lab" swingFrom="C">
+      <Candidate elected="*" previousSittingMember="*" paId="181923" sex="M" firstName="Michael" surname="Booth Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" votes="130400" percentageShare="49.90" percentageShareChange="+5.21" />
+      </Candidate>
+      <Candidate paId="181922" sex="M" firstName="Stephen" surname="Williams Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" votes="43059" percentageShare="16.48" percentageShareChange="-15.47" />
+      </Candidate>
+      <Candidate paId="181924" sex="F" firstName="Julia" surname="Stewart Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" votes="36687" percentageShare="14.04" percentageShareChange="+5.78" />
+      </Candidate>
+      <Candidate paId="181925" sex="M" firstName="Terry" surname="Skinner Test">
+        <Party paId="8571" name="Green" abbreviation="Green" votes="31313" percentageShare="11.98" percentageShareChange="+1.27" />
+      </Candidate>
+      <Candidate paId="181926" sex="M" firstName="Ian" surname="Bell Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" votes="19853" percentageShare="7.60" percentageShareChange="+3.21" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="1" name="Barnet &amp; Camden" turnout="167090" percentageTurnout="41.96" winningParty="Lab" majority="21299" percentageMajority="12.75">
+      <Candidate paId="76026" firstName="Andrew" surname="Dismore" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="74677" percentageShare="44.69" />
+      </Candidate>
+      <Candidate paId="80394" firstName="Brian" surname="Coleman" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="53378" percentageShare="31.95" />
+      </Candidate>
+      <Candidate paId="80409" firstName="Audrey" surname="Poppy" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="17904" percentageShare="10.72" />
+      </Candidate>
+      <Candidate paId="84747" firstName="Chris" surname="Richards" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="13800" percentageShare="8.26" />
+      </Candidate>
+      <Candidate paId="80432" firstName="Michael" surname="Corby" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="7331" percentageShare="4.39" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

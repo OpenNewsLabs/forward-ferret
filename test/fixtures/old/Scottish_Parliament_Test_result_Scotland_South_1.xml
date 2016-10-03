@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpResult revision="1" declarationTime="2016-04-27T18:32:07+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="107" name="Scotland South" electorate="525784" turnout="325793" percentageTurnout="61.96" percentageChangeTurnout="+8.93" winningParty="SNP" majority="58646" percentageMajority="18.00" percentageChangeMajority="+8.93" swing="1.17" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="183386" sex="M" firstName="Mark" surname="Walsh Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183387" sex="M" firstName="Nicholas" surname="Davis Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183388" sex="M" firstName="John" surname="Phillips Test" partyListRank="3">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183394" sex="M" firstName="Ian" surname="Wright Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183395" sex="F" firstName="Karen" surname="Lewis Test" partyListRank="2">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="183396" sex="M" firstName="Michael" surname="Lewis Test" partyListRank="3">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183412" sex="M" firstName="Bob" surname="Love Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Party paId="8447" abbreviation="SNP" name="Scottish National Party" votes="138879" percentageShare="42.63" percentageShareChange="+1.65" />
+      <Party paId="8444" abbreviation="Lab" name="Labour" votes="80233" percentageShare="24.63" percentageShareChange="-0.69" />
+      <Party paId="8443" abbreviation="C" name="Conservative" votes="68889" percentageShare="21.15" percentageShareChange="+1.65" />
+      <Party paId="8446" abbreviation="LD" name="Liberal Democrat" votes="16588" percentageShare="5.09" percentageShareChange="-0.32" />
+      <Party paId="8448" abbreviation="Green" name="Green" votes="12701" percentageShare="3.90" percentageShareChange="+0.84" />
+      <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" votes="4233" percentageShare="1.30" percentageShareChange="+0.14" />
+      <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" votes="3320" percentageShare="1.02" />
+      <Party paId="8518" abbreviation="Solidarity" name="Solidarity" votes="908" percentageShare="0.28" percentageShareChange="-0.01" />
+      <Party paId="8732" abbreviation="CSSInd" name="Clydesdale &amp; South Scotland Independent" votes="42" percentageShare="0.01" />
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament Test" date="2011-05-05" type="S">
+    <Constituency number="107" name="Scotland South" turnout="278866" percentageTurnout="53.04" winningParty="SNP" majority="43675" percentageMajority="15.66">
+      <Candidate elected="*" paId="66488" firstName="Claudia" surname="Beamish" sex="F">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="66489" firstName="Graeme" surname="Pearson" sex="M">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60556" firstName="Jim" surname="Hume" sex="M">
+        <Party paId="5668" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="60736" firstName="Aileen" surname="McLeod" sex="F">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60735" firstName="Joan" surname="McAlpine" sex="F">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60675" firstName="Paul" surname="Wheelhouse" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60652" firstName="Chic" surname="Brodie" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Party paId="5669" abbreviation="SNP" name="Scottish National Party" votes="114270" percentageShare="40.98" candidatesElected="4" />
+      <Party paId="5666" abbreviation="Lab" name="Labour" votes="70595" percentageShare="25.32" candidatesElected="2" />
+      <Party paId="5665" abbreviation="C" name="Conservative" votes="54352" percentageShare="19.49" />
+      <Party paId="5668" abbreviation="LD" name="Liberal Democrat" votes="15096" percentageShare="5.41" candidatesElected="1" />
+      <Party paId="5670" abbreviation="Green" name="Green" votes="8535" percentageShare="3.06" />
+      <Party paId="6176" abbreviation="Pensioners" name="All Scotland Pensioners Party" votes="4418" percentageShare="1.58" />
+      <Party paId="5729" abbreviation="UKIP" name="UK Independence Party" votes="3243" percentageShare="1.16" />
+      <Party paId="5726" abbreviation="Soc Lab" name="Socialist Labour Party" votes="2906" percentageShare="1.04" />
+      <Party paId="5673" abbreviation="BNP" name="British National Party" votes="2017" percentageShare="0.72" />
+      <Party paId="5717" abbreviation="SCP" name="Scottish Christian Party" votes="1924" percentageShare="0.69" />
+      <Party paId="5727" abbreviation="Solidarity" name="Solidarity" votes="813" percentageShare="0.29" />
+      <Party paId="5722" abbreviation="SSP" name="Scottish Socialist Party" votes="697" percentageShare="0.25" />
+    </Constituency>
+  </PreviousElection>
+</TopUpResult>
+

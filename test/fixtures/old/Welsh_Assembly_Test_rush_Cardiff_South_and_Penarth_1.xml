@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="11" name="Cardiff South &amp; Penarth" electorate="75038" gainOrHold="hold" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="false" paStyleMessageText="Labour hold Cardiff South &amp; Penarth">
+      <Candidate paId="181732" sex="F" firstName="Kim" surname="Smith Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181733" sex="M" firstName="Tony" surname="Wright Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181734" sex="F" firstName="Louise" surname="Harvey Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181735" sex="M" firstName="Eddie" surname="Bennett Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181736" sex="M" firstName="David" surname="Webb Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181737" sex="M" firstName="Robert" surname="Francis Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="48" name="Glasgow Provan" electorate="55118" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Scottish National Party gain from Labour in Glasgow Provan">
+      <Candidate paId="182882" sex="M" firstName="Douglas" surname="Davies Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182883" sex="M" firstName="Robert" surname="Peacock Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182884" sex="M" firstName="Derek" surname="Davies Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="182885" sex="M" firstName="Phillip" surname="Smith Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

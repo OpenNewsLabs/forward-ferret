@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="18" name="Cynon Valley" electorate="52133">
+      <Candidate paId="181777" sex="M" firstName="David" surname="Phillips Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181778" sex="M" firstName="Eddie" surname="Allen Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181779" sex="F" firstName="Mary" surname="Williams Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181780" sex="F" firstName="Liz" surname="Davies Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181781" sex="M" firstName="Peter" surname="Khan Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181782" sex="F" firstName="Sylvia" surname="Miller Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="18" name="Cynon Valley" turnout="18760" percentageTurnout="35.98" winningParty="Lab" majority="6515" percentageMajority="34.73">
+      <Candidate paId="60981" firstName="Christine" surname="Chapman" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11626" percentageShare="61.97" />
+      </Candidate>
+      <Candidate paId="60882" firstName="Dafydd Trystan" surname="Davies" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="5111" percentageShare="27.24" />
+      </Candidate>
+      <Candidate paId="66511" firstName="Dan" surname="Saxton" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="1531" percentageShare="8.16" />
+      </Candidate>
+      <Candidate paId="60938" firstName="Ian" surname="Walton" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="492" percentageShare="2.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

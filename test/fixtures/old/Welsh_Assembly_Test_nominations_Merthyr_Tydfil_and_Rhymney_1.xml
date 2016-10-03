@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="24" name="Merthyr Tydfil &amp; Rhymney" electorate="55031">
+      <Candidate paId="181814" sex="M" firstName="Bruce" surname="Berry Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181815" sex="F" firstName="Pamela" surname="Shaw Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181816" sex="M" firstName="James" surname="Smith Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181817" sex="M" firstName="Richard" surname="Hall Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181818" sex="M" firstName="Angus" surname="Williams Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181819" sex="M" firstName="Martin" surname="Clark Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="24" name="Merthyr Tydfil &amp; Rhymney" turnout="19320" percentageTurnout="35.11" winningParty="Lab" majority="7051" percentageMajority="36.50">
+      <Candidate paId="60984" firstName="Huw" surname="Lewis" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="10483" percentageShare="54.26" />
+      </Candidate>
+      <Candidate paId="71320" firstName="Tony" surname="Rogers" sex="M">
+        <Party paId="5744" name="Independent" abbreviation="Ind" votes="3432" percentageShare="17.76" />
+      </Candidate>
+      <Candidate paId="60576" firstName="Amy" surname="Kitcher" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2480" percentageShare="12.84" />
+      </Candidate>
+      <Candidate paId="60903" firstName="Noel" surname="Turner" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1701" percentageShare="8.80" />
+      </Candidate>
+      <Candidate paId="66515" firstName="Chris" surname="O'Brien" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="1224" percentageShare="6.34" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

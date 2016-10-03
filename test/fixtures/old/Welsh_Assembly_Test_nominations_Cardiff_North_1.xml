@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="10" name="Cardiff North" electorate="66934">
+      <Candidate paId="181725" sex="M" firstName="David" surname="Fletcher Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181726" previousSittingMember="*" sex="M" firstName="John" surname="Jackson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181727" sex="M" firstName="Charles" surname="Walker Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181728" sex="M" firstName="Harry" surname="Green Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181729" sex="M" firstName="John" surname="O'Brien Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181731" sex="M" firstName="Rob" surname="Webb Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181730" sex="M" firstName="Anthony" surname="Stevenson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="10" name="Cardiff North" turnout="34431" percentageTurnout="51.44" winningParty="Lab" majority="1782" percentageMajority="5.18">
+      <Candidate paId="60976" firstName="Julie" surname="Morgan" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="16384" percentageShare="47.59" />
+      </Candidate>
+      <Candidate paId="60750" firstName="Jonathan" surname="Morgan" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="14602" percentageShare="42.41" />
+      </Candidate>
+      <Candidate paId="70768" firstName="Ben" surname="Foday" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1850" percentageShare="5.37" />
+      </Candidate>
+      <Candidate paId="60475" firstName="Matt" surname="Smith" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1595" percentageShare="4.63" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

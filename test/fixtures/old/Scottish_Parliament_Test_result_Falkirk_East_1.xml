@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:33:08+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="38" name="Falkirk East" electorate="56408" turnout="35948" percentageTurnout="63.73" percentageChangeTurnout="+13.79" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="5475" percentageMajority="15.23" percentageChangeMajority="+13.79" swing="1.34" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="182840" sex="M" firstName="David" surname="Griffiths Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="19033" percentageShare="52.95" percentageShareChange="+2.17" />
+      </Candidate>
+      <Candidate paId="182838" sex="M" firstName="Peter" surname="Squire Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="13558" percentageShare="37.72" percentageShareChange="-0.51" />
+      </Candidate>
+      <Candidate paId="182839" sex="M" firstName="David" surname="Simpson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="2165" percentageShare="6.02" percentageShareChange="+3.44" />
+      </Candidate>
+      <Candidate paId="182837" sex="M" firstName="Geoffrey" surname="Moore Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1192" percentageShare="3.32" percentageShareChange="-5.11" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="38" name="Falkirk East" turnout="28168" percentageTurnout="49.94" winningParty="SNP" majority="3535" percentageMajority="12.55">
+      <Candidate paId="60676" firstName="Angus" surname="MacDonald" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14302" percentageShare="50.77" />
+      </Candidate>
+      <Candidate paId="60807" firstName="Cathy" surname="Peattie" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10767" percentageShare="38.22" />
+      </Candidate>
+      <Candidate paId="70854" firstName="Lynn" surname="Munro" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2372" percentageShare="8.42" />
+      </Candidate>
+      <Candidate paId="71058" firstName="Ross" surname="Laird" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="727" percentageShare="2.58" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

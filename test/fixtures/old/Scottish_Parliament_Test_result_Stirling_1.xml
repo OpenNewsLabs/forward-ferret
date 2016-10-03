@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:51:04+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="71" name="Stirling" electorate="51458" turnout="29534" percentageTurnout="57.39" percentageChangeTurnout="-1.69" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="8913" percentageMajority="30.18" percentageChangeMajority="-1.69" swing="5.77" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="182984" sex="M" firstName="Gordon" surname="White Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14913" percentageShare="50.49" percentageShareChange="+1.63" />
+      </Candidate>
+      <Candidate paId="182982" sex="F" firstName="Louise" surname="Hussain Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="6000" percentageShare="20.32" percentageShareChange="-9.90" />
+      </Candidate>
+      <Candidate paId="182981" sex="M" firstName="Ian" surname="Davies Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="5435" percentageShare="18.40" percentageShareChange="+3.24" />
+      </Candidate>
+      <Candidate paId="182983" sex="M" firstName="Mark" surname="Jones Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="3186" percentageShare="10.79" percentageShareChange="+6.53" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="71" name="Stirling" turnout="30406" percentageTurnout="59.09" winningParty="SNP" majority="5670" percentageMajority="18.65">
+      <Candidate paId="60705" firstName="Bruce" surname="Crawford" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14858" percentageShare="48.87" />
+      </Candidate>
+      <Candidate paId="60836" firstName="John" surname="Hendry" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9188" percentageShare="30.22" />
+      </Candidate>
+      <Candidate paId="60629" firstName="Neil" surname="Benny" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4610" percentageShare="15.16" />
+      </Candidate>
+      <Candidate paId="70741" firstName="Graham" surname="Reed" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1296" percentageShare="4.26" />
+      </Candidate>
+      <Candidate paId="70920" firstName="Jack" surname="Black" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="454" percentageShare="1.49" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="32" name="Edinburgh Eastern" electorate="55773">
+      <Candidate paId="182812" sex="F" firstName="Rosie" surname="Lee Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182813" previousSittingMember="+" sex="M" firstName="Bill" surname="Dixon Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182814" sex="F" firstName="Jean" surname="Reid Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182815" sex="M" firstName="Robert" surname="Graham Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="32" name="Edinburgh Eastern" turnout="30728" percentageTurnout="55.09" winningParty="SNP" majority="2233" percentageMajority="7.27">
+      <Candidate paId="60671" firstName="Kenny" surname="MacAskill" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14552" percentageShare="47.36" />
+      </Candidate>
+      <Candidate paId="60802" firstName="Ewan" surname="Aitken" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12319" percentageShare="40.09" />
+      </Candidate>
+      <Candidate paId="60506" firstName="Cameron" surname="Buchanan" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2630" percentageShare="8.56" />
+      </Candidate>
+      <Candidate paId="70871" firstName="Martin" surname="Veart" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1227" percentageShare="3.99" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

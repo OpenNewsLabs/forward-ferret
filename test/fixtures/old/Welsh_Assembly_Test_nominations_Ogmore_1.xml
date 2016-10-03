@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="30" name="Ogmore" electorate="55442">
+      <Candidate paId="181855" sex="M" firstName="Stuart" surname="Berry Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181856" sex="M" firstName="David" surname="Robinson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181857" sex="M" firstName="Chris" surname="Bell Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181858" sex="M" firstName="Keith" surname="Francis Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181859" sex="F" firstName="Anne" surname="McCartney Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181860" sex="M" firstName="Kevin" surname="Moore Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="30" name="Ogmore" turnout="20264" percentageTurnout="36.55" winningParty="Lab" majority="9576" percentageMajority="47.26">
+      <Candidate paId="60988" firstName="Janice" surname="Gregory" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12955" percentageShare="63.93" />
+      </Candidate>
+      <Candidate paId="60883" firstName="Danny" surname="Clark" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3379" percentageShare="16.67" />
+      </Candidate>
+      <Candidate paId="66516" firstName="Martyn" surname="Hughes" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2945" percentageShare="14.53" />
+      </Candidate>
+      <Candidate paId="60579" firstName="Gerald" surname="Francis" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="985" percentageShare="4.86" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

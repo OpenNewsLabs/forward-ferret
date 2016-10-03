@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:15:53+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="27" name="Dunfermline" electorate="55479" turnout="39960" percentageTurnout="72.03" percentageChangeTurnout="+19.22" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="7540" percentageMajority="18.87" percentageChangeMajority="+19.22" swing="5.78" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" paId="182793" sex="M" firstName="Alex" surname="Field Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="22242" percentageShare="55.66" percentageShareChange="+18.08" />
+      </Candidate>
+      <Candidate paId="182790" sex="M" firstName="Alan" surname="Norman Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="14702" percentageShare="36.79" percentageShareChange="+29.65" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182791" sex="M" firstName="Brian" surname="Harvey Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1815" percentageShare="4.54" percentageShareChange="-31.02" />
+      </Candidate>
+      <Candidate paId="182792" sex="F" firstName="Joyce" surname="Adams Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="1201" percentageShare="3.01" percentageShareChange="-16.71" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="27" name="Dunfermline" turnout="29299" percentageTurnout="52.81" winningParty="SNP" majority="590" percentageMajority="2.01">
+      <Candidate paId="60726" firstName="Bill" surname="Walker" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11010" percentageShare="37.58" />
+      </Candidate>
+      <Candidate paId="66483" firstName="Alex" surname="Rowley" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10420" percentageShare="35.56" />
+      </Candidate>
+      <Candidate paId="60766" firstName="Jim" surname="Tolson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="5776" percentageShare="19.71" />
+      </Candidate>
+      <Candidate paId="60504" firstName="James" surname="Reekie" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2093" percentageShare="7.14" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+  <PreviousElection name="Dunfermline" date="2013-10-24" type="B">
+    <Constituency number="1" name="Dunfermline" turnout="24200" percentageTurnout="42.65" winningParty="Lab" majority="2873" percentageMajority="11.87">
+      <Candidate paId="0" firstName="" surname="Hilton" sex="M">
+        <Party paId="7231" name="Labour" abbreviation="Lab" votes="10275" percentageShare="42.46" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Somerville" sex="M">
+        <Party paId="7233" name="Scottish National Party" abbreviation="SNP" votes="7402" percentageShare="30.59" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Leslie" sex="M">
+        <Party paId="7232" name="Liberal Democrat" abbreviation="LD" votes="2852" percentageShare="11.79" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Reekie" sex="M">
+        <Party paId="7230" name="Conservative" abbreviation="C" votes="2009" percentageShare="8.30" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Adams" sex="M">
+        <Party paId="7236" name="UK Independence Party" abbreviation="UKIP" votes="908" percentageShare="3.75" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Kitson" sex="M">
+        <Party paId="7235" name="Green" abbreviation="Green" votes="593" percentageShare="2.45" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Black" sex="M">
+        <Party paId="7234" name="Independent" abbreviation="Ind" votes="161" percentageShare="0.67" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

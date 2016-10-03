@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="9" name="Cardiff Central" electorate="64347" gainOrHold="hold" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="false" paStyleMessageText="Labour hold Cardiff Central">
+      <Candidate paId="181718" sex="F" firstName="Jacqui" surname="Taylor Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181719" sex="M" firstName="Gordon" surname="Davies Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181720" sex="M" firstName="George" surname="Bennett Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181721" sex="M" firstName="Bill" surname="Henderson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181722" sex="M" firstName="Michael" surname="Hussain Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181724" sex="M" firstName="John" surname="Docherty Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="183514" sex="M" firstName="Bill" surname="Smith">
+        <Party paId="8771" name="Independent Bill Smith" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181723" sex="M" firstName="Mark" surname="Taylor Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

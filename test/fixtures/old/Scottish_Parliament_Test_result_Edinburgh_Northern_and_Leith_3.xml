@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="3" declarationTime="2016-04-27T19:05:27+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" electorate="59138" turnout="48289" percentageTurnout="81.65" percentageChangeTurnout="+29.43" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="1695" percentageMajority="3.51" percentageChangeMajority="+29.43" swing="0.79" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" paId="182817" sex="M" firstName="David" surname="Baker Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="15990" percentageShare="33.11" percentageShareChange="-8.52" />
+      </Candidate>
+      <Candidate paId="182819" sex="M" firstName="Philip" surname="Moffatt Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14295" percentageShare="29.60" percentageShareChange="-10.10" />
+      </Candidate>
+      <Candidate paId="182816" sex="M" firstName="Jim" surname="McCarthy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="11351" percentageShare="23.51" percentageShareChange="+14.03" />
+      </Candidate>
+      <Candidate paId="182820" sex="M" firstName="Nick" surname="Wood Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" votes="3393" percentageShare="7.03" />
+      </Candidate>
+      <Candidate paId="182818" sex="M" firstName="Gerry" surname="Lee Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="3260" percentageShare="6.75" percentageShareChange="-2.43" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" turnout="30885" percentageTurnout="52.23" winningParty="Lab" majority="595" percentageMajority="1.93">
+      <Candidate paId="60803" firstName="Malcolm" surname="Chisholm" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12858" percentageShare="41.63" />
+      </Candidate>
+      <Candidate paId="60672" firstName="Shirley-Anne" surname="Somerville" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="12263" percentageShare="39.71" />
+      </Candidate>
+      <Candidate paId="71125" firstName="Sheila" surname="Low" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2928" percentageShare="9.48" />
+      </Candidate>
+      <Candidate paId="66475" firstName="Dan" surname="Farthing" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="2836" percentageShare="9.18" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

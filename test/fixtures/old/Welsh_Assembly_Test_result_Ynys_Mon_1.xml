@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:45:23+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="40" name="Ynys Mon" electorate="49431" turnout="39035" percentageTurnout="78.97" percentageChangeTurnout="+30.28" winningParty="Lab" gainOrHold="gain" sittingParty="PC" majority="7396" percentageMajority="18.95" percentageChangeMajority="+30.28" swing="18.53" swingTo="Lab" swingFrom="PC">
+      <Candidate elected="*" paId="181916" sex="M" firstName="Philip" surname="Braid Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="14494" percentageShare="37.13" percentageShareChange="+10.92" />
+      </Candidate>
+      <Candidate paId="181915" sex="F" firstName="Hilary" surname="McCartney Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="7098" percentageShare="18.18" percentageShareChange="-11.03" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181918" sex="M" firstName="Edward" surname="Young Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="5969" percentageShare="15.29" percentageShareChange="-26.13" />
+      </Candidate>
+      <Candidate paId="181917" sex="M" firstName="Derek" surname="Anderson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="5315" percentageShare="13.62" percentageShareChange="+10.46" />
+      </Candidate>
+      <Candidate paId="181920" sex="M" firstName="Jon" surname="Clark Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="2955" percentageShare="7.57" />
+      </Candidate>
+      <Candidate paId="181919" sex="M" firstName="Ed" surname="Newton Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="2245" percentageShare="5.75" />
+      </Candidate>
+      <Candidate paId="181921" sex="M" firstName="John" surname="Cameron Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="959" percentageShare="2.46" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="40" name="Ynys Mon" turnout="24067" percentageTurnout="48.69" winningParty="PC" majority="2937" percentageMajority="12.20">
+      <Candidate paId="60893" firstName="Ieuan Wyn" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="9969" percentageShare="41.42" />
+      </Candidate>
+      <Candidate paId="60631" firstName="Paul" surname="Williams" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="7032" percentageShare="29.22" />
+      </Candidate>
+      <Candidate paId="66530" firstName="Joe" surname="Lock" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="6307" percentageShare="26.21" />
+      </Candidate>
+      <Candidate paId="70780" firstName="Rhys" surname="Taylor" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="759" percentageShare="3.15" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+  <PreviousElection name="Ynys Mon" date="2013-08-01" type="B">
+    <Constituency number="1" name="Ynys Mon" turnout="21635" percentageTurnout="42.40" winningParty="PC" majority="9166" percentageMajority="42.37">
+      <Candidate paId="0" firstName="" surname="ap Iorwerth" sex="M">
+        <Party paId="7226" name="Plaid Cymru" abbreviation="PC" votes="12601" percentageShare="58.24" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Michael" sex="M">
+        <Party paId="7224" name="Labour" abbreviation="Lab" votes="3435" percentageShare="15.88" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Gill" sex="M">
+        <Party paId="7228" name="UK Independence Party" abbreviation="UKIP" votes="3099" percentageShare="14.32" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Fairlamb" sex="M">
+        <Party paId="7223" name="Conservative" abbreviation="C" votes="1843" percentageShare="8.52" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Jones" sex="M">
+        <Party paId="7229" name="Socialist Labour Party" abbreviation="Soc Lab" votes="348" percentageShare="1.61" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Churchman" sex="M">
+        <Party paId="7225" name="Liberal Democrat" abbreviation="LD" votes="309" percentageShare="1.43" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

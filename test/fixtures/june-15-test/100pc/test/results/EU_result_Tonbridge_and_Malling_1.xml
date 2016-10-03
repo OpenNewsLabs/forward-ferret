@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T19:11:34+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="334" name="Tonbridge &amp; Malling" electorate="91206">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="50955" percentageTurnout="55.87" winningAnswerText="Remain a member of the EU" majority="1237" percentageMajority="2.43">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="26096" percentageShare="51.21" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="24859" percentageShare="48.79" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

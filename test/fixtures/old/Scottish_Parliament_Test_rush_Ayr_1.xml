@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="11" name="Ayr" electorate="61563" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Scottish National Party gain from Conservative in Ayr">
+      <Candidate previousSittingMember="*" paId="182720" sex="M" firstName="Michael" surname="Nicholson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182721" sex="M" firstName="Sean" surname="Scott Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182722" sex="M" firstName="Peter" surname="Bennett Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="182723" sex="M" firstName="Richard" surname="Williams Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

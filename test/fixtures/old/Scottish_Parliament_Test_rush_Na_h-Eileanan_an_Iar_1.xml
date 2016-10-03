@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="61" name="Na h-Eileanan an Iar" electorate="21834" gainOrHold="gain" winningPartyAbbreviation="LD" winningPartyName="Liberal Democrat" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="true" paStyleMessageText="Liberal Democrat gain from Scottish National Party in Na h-Eileanan an Iar">
+      <Candidate paId="182935" sex="M" firstName="Tom" surname="Harris Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182936" sex="M" firstName="Oliver" surname="Roberts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate elected="*" paId="182937" sex="M" firstName="Stephen" surname="Henderson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182938" sex="M" firstName="Dennis" surname="Bentley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182939" sex="M" firstName="Stewart" surname="Jackson Test">
+        <Party paId="8507" name="Scottish Christian Party" abbreviation="SCP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

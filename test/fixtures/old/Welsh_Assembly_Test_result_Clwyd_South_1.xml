@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:13:44+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="16" name="Clwyd South" electorate="54499" turnout="32358" percentageTurnout="59.37" percentageChangeTurnout="+22.61" winningParty="PC" gainOrHold="gain" sittingParty="Lab" majority="5761" percentageMajority="17.80" percentageChangeMajority="+22.61" swing="20.83" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" paId="181768" sex="M" firstName="Peter" surname="Sheppard Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="15764" percentageShare="48.72" percentageShareChange="+30.16" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181766" sex="M" firstName="Graham" surname="George Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="10003" percentageShare="30.91" percentageShareChange="-11.51" />
+      </Candidate>
+      <Candidate paId="181765" sex="M" firstName="Andrew" surname="Lewis Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="3452" percentageShare="10.67" percentageShareChange="-18.48" />
+      </Candidate>
+      <Candidate paId="181770" sex="M" firstName="David" surname="Shaw Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1576" percentageShare="4.87" />
+      </Candidate>
+      <Candidate paId="181767" sex="M" firstName="Nick" surname="Forbes Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="1265" percentageShare="3.91" percentageShareChange="-5.96" />
+      </Candidate>
+      <Candidate paId="181769" sex="M" firstName="David" surname="Wood Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="298" percentageShare="0.92" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="16" name="Clwyd South" turnout="20037" percentageTurnout="36.77" winningParty="Lab" majority="2659" percentageMajority="13.27">
+      <Candidate paId="60979" firstName="Ken" surname="Skates" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8500" percentageShare="42.42" />
+      </Candidate>
+      <Candidate paId="60478" firstName="Paul" surname="Rogers" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="5841" percentageShare="29.15" />
+      </Candidate>
+      <Candidate paId="60520" firstName="Mabon" surname="ap Gwynfor" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3719" percentageShare="18.56" />
+      </Candidate>
+      <Candidate paId="60937" firstName="Bruce" surname="Roberts" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1977" percentageShare="9.87" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

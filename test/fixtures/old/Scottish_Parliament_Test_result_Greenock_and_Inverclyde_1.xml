@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:04:04+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="51" name="Greenock &amp; Inverclyde" electorate="56989" turnout="35253" percentageTurnout="61.86" percentageChangeTurnout="+12.36" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="5696" percentageMajority="16.16" percentageChangeMajority="+12.36" swing="19.50" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="182898" sex="M" firstName="Anthony" surname="Holmes Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="17613" percentageShare="49.96" percentageShareChange="+7.86" />
+      </Candidate>
+      <Candidate paId="182895" sex="M" firstName="Roy" surname="Griffiths Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="11917" percentageShare="33.80" percentageShareChange="+26.68" />
+      </Candidate>
+      <Candidate paId="182896" sex="M" firstName="George" surname="Jackson Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="4501" percentageShare="12.77" percentageShareChange="-31.15" />
+      </Candidate>
+      <Candidate paId="182897" sex="M" firstName="Tim" surname="Hope Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="1222" percentageShare="3.47" percentageShareChange="-3.39" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="51" name="Greenock &amp; Inverclyde" turnout="28208" percentageTurnout="49.50" winningParty="Lab" majority="511" percentageMajority="1.81">
+      <Candidate paId="60817" firstName="Duncan" surname="McNeil" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12387" percentageShare="43.91" />
+      </Candidate>
+      <Candidate paId="60685" firstName="Stuart" surname="McMillan" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11876" percentageShare="42.10" />
+      </Candidate>
+      <Candidate paId="60447" firstName="Graeme" surname="Brooks" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2011" percentageShare="7.13" />
+      </Candidate>
+      <Candidate paId="60560" firstName="Ross" surname="Finnie" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1934" percentageShare="6.86" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

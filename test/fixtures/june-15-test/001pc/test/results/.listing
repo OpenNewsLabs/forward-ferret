@@ -1,0 +1,12 @@
+drwxr-s---   2 ftpclient ftpclient      394 Jun 15 17:11 .
+drwxr-s---   4 ftpclient ftpclient       54 Apr  4 09:42 ..
+-rw-r--r--   1 ftpclient ftpclient       15 Jun 15 17:11 .timestamp
+-rw-r--r--   1 ftpclient ftpclient      856 Jun 15 17:11 EU_result_Greenwich_1.xml
+-rw-r--r--   1 ftpclient ftpclient      865 Jun 15 17:11 EU_result_Harrow_1.xml
+-rw-r--r--   1 ftpclient ftpclient      632 Jun 15 17:11 EU_running_totals_1.xml
+-rw-r--r--   1 ftpclient ftpclient      632 Jun 15 17:11 EU_running_totals_2.xml
+-rw-r--r--   1 ftpclient ftpclient      686 Jun 15 17:10 EU_rush_Cherwell_1.xml
+-rw-r--r--   1 ftpclient ftpclient      700 Jun 15 17:11 EU_rush_Gibraltar_1.xml
+-rw-r--r--   1 ftpclient ftpclient      688 Jun 15 17:10 EU_rush_Greenwich_1.xml
+-rw-r--r--   1 ftpclient ftpclient      698 Jun 15 17:10 EU_rush_Harrow_1.xml
+-rw-r--r--   1 ftpclient ftpclient      700 Jun 15 17:11 EU_rush_Worcester_1.xml

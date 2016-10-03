@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="44" name="Glasgow Cathcart" electorate="58525">
+      <Candidate paId="182861" sex="M" firstName="Joseph" surname="Cooke Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182862" sex="M" firstName="Alastair" surname="Rule Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182863" sex="M" firstName="David" surname="Hill Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182864" previousSittingMember="*" sex="M" firstName="Ken" surname="Ord Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182865" sex="M" firstName="James" surname="Morris Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="182866" sex="M" firstName="Ian" surname="Miller Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="44" name="Glasgow Cathcart" turnout="26222" percentageTurnout="44.80" winningParty="SNP" majority="1592" percentageMajority="6.07">
+      <Candidate paId="60678" firstName="James" surname="Dornan" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11918" percentageShare="45.45" />
+      </Candidate>
+      <Candidate paId="60810" firstName="Charlie" surname="Gordon" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10326" percentageShare="39.38" />
+      </Candidate>
+      <Candidate paId="60444" firstName="Richard" surname="Sullivan" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2410" percentageShare="9.19" />
+      </Candidate>
+      <Candidate paId="60525" firstName="Eileen" surname="Baxendale" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1118" percentageShare="4.26" />
+      </Candidate>
+      <Candidate paId="70957" firstName="John" surname="McKee" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="450" percentageShare="1.72" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

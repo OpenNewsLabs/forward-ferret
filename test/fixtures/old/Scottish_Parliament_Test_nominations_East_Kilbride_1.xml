@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="28" name="East Kilbride" electorate="58251">
+      <Candidate paId="182794" sex="M" firstName="Chris" surname="Lowe Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182795" sex="M" firstName="Ron" surname="Bradley Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182796" sex="M" firstName="Ian" surname="Robinson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182797" previousSittingMember="*" sex="M" firstName="Barry" surname="Shaw Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="28" name="East Kilbride" turnout="29911" percentageTurnout="51.35" winningParty="SNP" majority="1949" percentageMajority="6.52">
+      <Candidate paId="60493" firstName="Linda" surname="Fabiani" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14359" percentageShare="48.01" />
+      </Candidate>
+      <Candidate paId="60798" firstName="Andy" surname="Kerr" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12410" percentageShare="41.49" />
+      </Candidate>
+      <Candidate paId="66480" firstName="Graham" surname="Simpson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2260" percentageShare="7.56" />
+      </Candidate>
+      <Candidate paId="60763" firstName="Douglas" surname="Herbison" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="468" percentageShare="1.56" />
+      </Candidate>
+      <Candidate paId="70994" firstName="John" surname="Houston" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="414" percentageShare="1.38" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

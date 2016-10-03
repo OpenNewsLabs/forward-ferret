@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="21" name="Cunninghame North" electorate="56548">
+      <Candidate paId="182763" sex="M" firstName="Gareth" surname="Wilson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182764" sex="M" firstName="Gary" surname="Jackson Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182765" sex="F" firstName="Judy" surname="Browne Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182766" previousSittingMember="*" sex="M" firstName="Andy" surname="Wilson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="21" name="Cunninghame North" turnout="29536" percentageTurnout="52.23" winningParty="SNP" majority="6117" percentageMajority="20.71">
+      <Candidate paId="60738" firstName="Kenneth" surname="Gibson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="15539" percentageShare="52.61" />
+      </Candidate>
+      <Candidate paId="60792" firstName="Allan" surname="Wilson" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9422" percentageShare="31.90" />
+      </Candidate>
+      <Candidate paId="60427" firstName="Maurice" surname="Golden" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4032" percentageShare="13.65" />
+      </Candidate>
+      <Candidate paId="70868" firstName="Mallika" surname="Punukollu" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="543" percentageShare="1.84" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

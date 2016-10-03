@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:56:26+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="28" name="East Kilbride" electorate="58251" turnout="38311" percentageTurnout="65.77" percentageChangeTurnout="+14.42" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2898" percentageMajority="7.56" percentageChangeMajority="+14.42" swing="19.44" swingTo="LD" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182797" sex="M" firstName="Barry" surname="Shaw Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="18313" percentageShare="47.80" percentageShareChange="-0.20" />
+      </Candidate>
+      <Candidate paId="182796" sex="M" firstName="Ian" surname="Robinson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="15415" percentageShare="40.24" percentageShareChange="+38.67" />
+      </Candidate>
+      <Candidate paId="182794" sex="M" firstName="Chris" surname="Lowe Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="3270" percentageShare="8.54" percentageShareChange="+0.98" />
+      </Candidate>
+      <Candidate paId="182795" sex="M" firstName="Ron" surname="Bradley Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1313" percentageShare="3.43" percentageShareChange="-38.06" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="28" name="East Kilbride" turnout="29911" percentageTurnout="51.35" winningParty="SNP" majority="1949" percentageMajority="6.52">
+      <Candidate paId="60493" firstName="Linda" surname="Fabiani" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14359" percentageShare="48.01" />
+      </Candidate>
+      <Candidate paId="60798" firstName="Andy" surname="Kerr" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12410" percentageShare="41.49" />
+      </Candidate>
+      <Candidate paId="66480" firstName="Graham" surname="Simpson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2260" percentageShare="7.56" />
+      </Candidate>
+      <Candidate paId="60763" firstName="Douglas" surname="Herbison" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="468" percentageShare="1.56" />
+      </Candidate>
+      <Candidate paId="70994" firstName="John" surname="Houston" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="414" percentageShare="1.38" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="33" name="Rhondda" electorate="52532" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Conservative gain from Labour in Rhondda">
+      <Candidate elected="*" paId="181873" sex="F" firstName="Jill" surname="White Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181874" sex="M" firstName="Ian" surname="Harris Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181875" sex="M" firstName="Jon" surname="Miller Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="181876" sex="M" firstName="Ian" surname="Bradley Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181877" sex="M" firstName="John" surname="Harvey Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181878" sex="M" firstName="Simon" surname="Gibson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

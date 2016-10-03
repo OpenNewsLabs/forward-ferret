@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="19" name="Delyn" electorate="53996" gainOrHold="gain" winningPartyAbbreviation="PC" winningPartyName="Plaid Cymru" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Plaid Cymru gain from Labour in Delyn">
+      <Candidate paId="181783" sex="M" firstName="Richard" surname="Bennett Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181784" sex="M" firstName="Daniel" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181785" sex="M" firstName="Frank" surname="Robinson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="181786" sex="M" firstName="Donald" surname="Miller Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181787" sex="M" firstName="Nigel" surname="MacDonald Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

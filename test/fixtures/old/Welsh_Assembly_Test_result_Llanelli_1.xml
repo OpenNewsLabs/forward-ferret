@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:15:22+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="23" name="Llanelli" electorate="58838" turnout="28487" percentageTurnout="48.42" percentageChangeTurnout="+4.11" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="4342" percentageMajority="15.24" percentageChangeMajority="+4.11" swing="7.47" swingTo="Lab" swingFrom="PC">
+      <Candidate elected="*" paId="181808" sex="M" firstName="John" surname="McDonnell Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="12999" percentageShare="45.63" percentageShareChange="+5.90" />
+      </Candidate>
+      <Candidate paId="181810" sex="M" firstName="Edward" surname="Gibson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="8657" percentageShare="30.39" percentageShareChange="-9.04" />
+      </Candidate>
+      <Candidate paId="181812" sex="M" firstName="Geoff" surname="O'Brien Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="3322" percentageShare="11.66" />
+      </Candidate>
+      <Candidate paId="181807" sex="M" firstName="Richard" surname="Peacock Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="1297" percentageShare="4.55" percentageShareChange="-6.49" />
+      </Candidate>
+      <Candidate paId="181809" sex="M" firstName="Ken" surname="Marshall Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="976" percentageShare="3.43" percentageShareChange="+1.32" />
+      </Candidate>
+      <Candidate paId="181811" sex="M" firstName="Michael" surname="Lawrence Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="786" percentageShare="2.76" />
+      </Candidate>
+      <Candidate paId="181813" sex="M" firstName="James" surname="Thompson Test">
+        <Party paId="8768" name="People First" abbreviation="PF" votes="450" percentageShare="1.58" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="23" name="Llanelli" turnout="26070" percentageTurnout="44.31" winningParty="Lab" majority="80" percentageMajority="0.31">
+      <Candidate paId="60457" firstName="Keith" surname="Davies" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="10359" percentageShare="39.74" />
+      </Candidate>
+      <Candidate paId="60891" firstName="Helen Mary" surname="Jones" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="10279" percentageShare="39.43" />
+      </Candidate>
+      <Candidate paId="66514" firstName="Andrew" surname="Morgan" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2880" percentageShare="11.05" />
+      </Candidate>
+      <Candidate paId="71234" firstName="Sian" surname="Caiach" sex="F">
+        <Party paId="6184" name="Putting Llanelli First" abbreviation="Llanelli" votes="2004" percentageShare="7.69" />
+      </Candidate>
+      <Candidate paId="70776" firstName="Cheryl" surname="Philpott" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="548" percentageShare="2.10" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

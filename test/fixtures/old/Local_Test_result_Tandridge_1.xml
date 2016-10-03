@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Tandridge' paId='3228' type='Non-Met' proportion='third' winningParty='C' gainOrHold='no change' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='12'/>
+        <Party name='LD' paId='315' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+2'/>
+        <Party name='LD' paId='315' change='-2'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='37'/>
+        <Party name='LD' paId='315' seats='4'/>
+        <Party name='Ind' paId='318' seats='1'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

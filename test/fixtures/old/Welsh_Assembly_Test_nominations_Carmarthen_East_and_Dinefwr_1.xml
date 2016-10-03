@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="13" name="Carmarthen East &amp; Dinefwr" electorate="54243">
+      <Candidate paId="181746" sex="M" firstName="Ron" surname="Williams Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181747" sex="M" firstName="Ian" surname="James Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181748" sex="M" firstName="Martin" surname="Robinson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181749" sex="M" firstName="Andrew" surname="Coleman Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181750" sex="M" firstName="Tony" surname="Jeremy Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181751" sex="M" firstName="Steven" surname="Williamson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="13" name="Carmarthen East &amp; Dinefwr" turnout="27828" percentageTurnout="51.30" winningParty="PC" majority="4148" percentageMajority="14.91">
+      <Candidate paId="60905" firstName="Rhodri Glyn" surname="Thomas" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="12501" percentageShare="44.92" />
+      </Candidate>
+      <Candidate paId="66525" firstName="Anthony" surname="Jones" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8353" percentageShare="30.02" />
+      </Candidate>
+      <Candidate paId="66509" firstName="Henrietta" surname="Hensher" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="5635" percentageShare="20.25" />
+      </Candidate>
+      <Candidate paId="70774" firstName="Will" surname="Griffiths" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1339" percentageShare="4.81" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

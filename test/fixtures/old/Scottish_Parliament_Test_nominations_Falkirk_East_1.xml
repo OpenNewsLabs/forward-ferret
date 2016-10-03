@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="38" name="Falkirk East" electorate="56408">
+      <Candidate paId="182837" sex="M" firstName="Geoffrey" surname="Moore Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182838" sex="M" firstName="Peter" surname="Squire Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182839" sex="M" firstName="David" surname="Simpson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182840" previousSittingMember="*" sex="M" firstName="David" surname="Griffiths Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="38" name="Falkirk East" turnout="28168" percentageTurnout="49.94" winningParty="SNP" majority="3535" percentageMajority="12.55">
+      <Candidate paId="60676" firstName="Angus" surname="MacDonald" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14302" percentageShare="50.77" />
+      </Candidate>
+      <Candidate paId="60807" firstName="Cathy" surname="Peattie" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10767" percentageShare="38.22" />
+      </Candidate>
+      <Candidate paId="70854" firstName="Lynn" surname="Munro" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2372" percentageShare="8.42" />
+      </Candidate>
+      <Candidate paId="71058" firstName="Ross" surname="Laird" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="727" percentageShare="2.58" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

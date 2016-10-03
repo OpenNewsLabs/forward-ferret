@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="18" name="Coatbridge &amp; Chryston" electorate="51206">
+      <Candidate paId="182750" sex="M" firstName="Tim" surname="Newton Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182751" previousSittingMember="*" sex="M" firstName="John" surname="Lee Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182752" sex="M" firstName="Robert" surname="Ross Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182753" sex="F" firstName="Rosie" surname="Turner Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182754" previousSittingMember="+" sex="M" firstName="Francis" surname="Lowe Test">
+        <Party paId="8448" name="Green" abbreviation="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="18" name="Coatbridge &amp; Chryston" turnout="23279" percentageTurnout="45.46" winningParty="Lab" majority="2741" percentageMajority="11.77">
+      <Candidate paId="60789" firstName="Elaine" surname="Smith" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12161" percentageShare="52.24" />
+      </Candidate>
+      <Candidate paId="60659" firstName="John" surname="Wilson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="9420" percentageShare="40.47" />
+      </Candidate>
+      <Candidate paId="71056" firstName="Jason" surname="Lingiah" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1317" percentageShare="5.66" />
+      </Candidate>
+      <Candidate paId="70731" firstName="Rod" surname="Ackland" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="381" percentageShare="1.64" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

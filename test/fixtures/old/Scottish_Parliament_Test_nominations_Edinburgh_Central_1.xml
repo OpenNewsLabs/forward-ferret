@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="31" name="Edinburgh Central" electorate="53606">
+      <Candidate paId="182806" previousSittingMember="+" sex="M" firstName="Adrian" surname="Lewis Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182807" previousSittingMember="+" sex="M" firstName="David" surname="Gardner Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182808" sex="M" firstName="John" surname="Hall Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182809" sex="M" firstName="David" surname="Owen Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182810" sex="M" firstName="Alun" surname="Marshall Test">
+        <Party paId="8448" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="182811" sex="M" firstName="John" surname="Jones Test">
+        <Party paId="8730" name="Scottish Libertarian Party" abbreviation="SLP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="31" name="Edinburgh Central" turnout="29014" percentageTurnout="54.12" winningParty="SNP" majority="237" percentageMajority="0.82">
+      <Candidate paId="60670" firstName="Marco" surname="Biagi" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="9480" percentageShare="32.67" />
+      </Candidate>
+      <Candidate paId="60801" firstName="Sarah" surname="Boyack" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9243" percentageShare="31.86" />
+      </Candidate>
+      <Candidate paId="60566" firstName="Alex" surname="Cole-Hamilton" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="5937" percentageShare="20.46" />
+      </Candidate>
+      <Candidate paId="60433" firstName="Iain" surname="McGill" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4354" percentageShare="15.01" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

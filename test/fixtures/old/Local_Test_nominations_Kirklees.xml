@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Kirklees' paId='3125' type='Metro' proportion='third'>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='34' seatsOffered='12' unopposedReturns='0' candidates='23'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='18' seatsOffered='4' unopposedReturns='0' candidates='23'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='4' seatsOffered='2' unopposedReturns='0' candidates='21'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='10' seatsOffered='4' unopposedReturns='0' candidates='23'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='14'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='3' seatsOffered='1' unopposedReturns='0' candidates='7'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

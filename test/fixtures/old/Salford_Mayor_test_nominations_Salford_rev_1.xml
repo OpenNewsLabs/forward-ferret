@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionNominations revision='1'>
+  <Election name='Salford Mayor test' type='M' date='2016-05-04'>
+    <Constituency number='4' name='Salford' electorate='174800' paId='469' boundaryChange='false'>
+      <Candidate firstName='Christopher' surname='Donnelly Test' sex='M' paId='3846'>
+        <Party name='Conservative' abbreviation='C' paId='1044'/>
+      </Candidate>
+      <Candidate firstName='Jennifer' surname='Simpson Test' sex='F' paId='3845'>
+        <Party name='Labour' abbreviation='Lab' paId='1045'/>
+      </Candidate>
+      <Candidate firstName='William' surname='Wilkinson Test' sex='M' paId='3847'>
+        <Party name='Green' abbreviation='Green' paId='1220'/>
+      </Candidate>
+      <Candidate firstName='Tom' surname='Martin Test' sex='M' paId='3848'>
+        <Party name='UK Independence Party' abbreviation='UKIP' paId='1047'/>
+      </Candidate>
+      <PreviousFirstRoundResultsSummary>
+        <Candidate firstName='Ian' surname='Stewart' sex='M' rushText='Former Eccles MP Ian Stewart' paId='2016' votes='20663'>
+          <Party name='Labour' abbreviation='Lab' paId='649'/>
+        </Candidate>
+        <Candidate firstName='Karen' surname='Garrido' sex='F' paId='2009' votes='8055'>
+          <Party name='Conservative' abbreviation='C' paId='648'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Bernard' surname='Gill' sex='M' paId='2010' votes='3368'>
+          <Party name='United Kingdom Independence Party' abbreviation='UKIP' paId='657'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Pat' surname='Ward' sex='M' paId='2017' votes='2665'>
+          <Party name='Independent Pat Ward' abbreviation='Ind' paId='653'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Norman' surname='Owen' sex='M' paId='2015' votes='2148'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='650'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Eddy' surname='O&apos;Sullivan' sex='M' paId='2014' votes='2026'>
+          <Party name='British National Party' abbreviation='BNP' paId='656'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Paul' surname='Massey' sex='M' paId='2011' votes='1995'>
+          <Party name='Independent Paul Massey' abbreviation='Ind' paId='652'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Michael' surname='Felse' sex='M' paId='2008' votes='1616'>
+          <Party name='English Democrats' abbreviation='Eng Dem' paId='654'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Joe' surname='O&apos;Neill' sex='M' paId='2013' votes='1273'>
+          <Party name='Green' abbreviation='Green' paId='651'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Michael' surname='Moulding' sex='M' paId='2012' votes='1065'>
+          <Party name='Community Action Party - Exposing Political Fraudsters' abbreviation='Comm Action' paId='655'/>
+        </Candidate>
+        <CandidatesElected>
+          <Candidate firstName='Ian' surname='Stewart' sex='M' rushText='Former Eccles MP Ian Stewart' paId='2016'>
+            <Party name='Labour' abbreviation='Lab' paId='649'/>
+          </Candidate>
+        </CandidatesElected>
+      </PreviousFirstRoundResultsSummary>
+    </Constituency>
+  </Election>
+</ElectionNominations>

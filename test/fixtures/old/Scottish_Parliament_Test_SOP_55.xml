@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="55" totalNumberOfConstituencies="73" totalVotes="1853685">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="49" gains="13" losses="4" totalVotes="917751" percentageShare="49.51" percentageChange="+4.18" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" totalSeats="3" gains="2" losses="12" totalVotes="321232" percentageShare="17.33" percentageChange="-14.52" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalSeats="2" gains="2" losses="1" totalVotes="312602" percentageShare="16.86" percentageChange="+3.19" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" losses="1" totalVotes="288513" percentageShare="15.56" percentageChange="+7.56" />
+    <Party paId="8465" name="Independent" abbreviation="Ind" totalVotes="8536" percentageShare="0.46" percentageChange="-0.09" />
+    <Party paId="8448" name="Green" abbreviation="Green" totalVotes="2910" percentageShare="0.16" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="2141" percentageShare="0.12" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Aberdeen Central" />
+    <Constituency number="2" name="Aberdeen Donside" />
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" />
+    <Constituency number="4" name="Aberdeenshire East" />
+    <Constituency number="5" name="Aberdeenshire West" />
+    <Constituency number="6" name="Airdrie &amp; Shotts" />
+    <Constituency number="7" name="Almond Valley" />
+    <Constituency number="9" name="Angus South" />
+    <Constituency number="10" name="Argyll &amp; Bute" />
+    <Constituency number="12" name="Banffshire &amp; Buchan Coast" />
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="14" name="Carrick, Cumnock &amp; Doon Valley" />
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" />
+    <Constituency number="16" name="Clydebank &amp; Milngavie" />
+    <Constituency number="17" name="Clydesdale" />
+    <Constituency number="18" name="Coatbridge &amp; Chryston" />
+    <Constituency number="19" name="Cowdenbeath" />
+    <Constituency number="20" name="Cumbernauld &amp; Kilsyth" />
+    <Constituency number="23" name="Dumbarton" />
+    <Constituency number="24" name="Dumfriesshire" />
+    <Constituency number="27" name="Dunfermline" />
+    <Constituency number="28" name="East Kilbride" />
+    <Constituency number="29" name="East Lothian" />
+    <Constituency number="30" name="Eastwood" />
+    <Constituency number="32" name="Edinburgh Eastern" />
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" />
+    <Constituency number="34" name="Edinburgh Pentlands" />
+    <Constituency number="35" name="Edinburgh Southern" />
+    <Constituency number="38" name="Falkirk East" />
+    <Constituency number="39" name="Falkirk West" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="41" name="Fife North East" />
+    <Constituency number="42" name="Galloway &amp; Dumfries West" />
+    <Constituency number="43" name="Glasgow Anniesland" />
+    <Constituency number="45" name="Glasgow Kelvin" />
+    <Constituency number="46" name="Glasgow Maryhill &amp; Springburn" />
+    <Constituency number="49" name="Glasgow Shettleston" />
+    <Constituency number="50" name="Glasgow Southside" />
+    <Constituency number="51" name="Greenock &amp; Inverclyde" />
+    <Constituency number="53" name="Inverness &amp; Nairn" />
+    <Constituency number="57" name="Midlothian North &amp; Musselburgh" />
+    <Constituency number="58" name="Midlothian South, Tweeddale &amp; Lauderdale" />
+    <Constituency number="59" name="Moray" />
+    <Constituency number="60" name="Motherwell &amp; Wishaw" />
+    <Constituency number="62" name="Orkney Islands" />
+    <Constituency number="63" name="Paisley" />
+    <Constituency number="64" name="Perthshire North" />
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" />
+    <Constituency number="66" name="Renfrewshire North &amp; West" />
+    <Constituency number="67" name="Renfrewshire South" />
+    <Constituency number="68" name="Rutherglen" />
+    <Constituency number="70" name="Skye, Lochaber &amp; Badenoch" />
+    <Constituency number="71" name="Stirling" />
+    <Constituency number="72" name="Strathkelvin &amp; Bearsden" />
+    <Constituency number="73" name="Uddingston &amp; Bellshill" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

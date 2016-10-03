@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="62" name="Orkney Islands" electorate="16393">
+      <Candidate paId="182940" sex="M" firstName="Mark" surname="Newton Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182941" sex="M" firstName="John" surname="Roberts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182942" previousSittingMember="*" sex="M" firstName="Andrew" surname="Allan Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182943" sex="M" firstName="Gordon" surname="Owen Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182944" sex="M" firstName="John" surname="Davies Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="62" name="Orkney Islands" turnout="8152" percentageTurnout="49.73" winningParty="LD" majority="860" percentageMajority="10.55">
+      <Candidate paId="60770" firstName="Liam" surname="McArthur" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="2912" percentageShare="35.72" />
+      </Candidate>
+      <Candidate paId="70886" firstName="James" surname="Stockan" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="2052" percentageShare="25.17" />
+      </Candidate>
+      <Candidate paId="60697" firstName="Donna" surname="Heddle" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="2044" percentageShare="25.07" />
+      </Candidate>
+      <Candidate paId="60434" firstName="Jamie" surname="Halcro Johnston" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="686" percentageShare="8.42" />
+      </Candidate>
+      <Candidate paId="70727" firstName="William" surname="Sharkey" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="458" percentageShare="5.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

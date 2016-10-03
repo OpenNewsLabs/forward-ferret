@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:54:50+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="66" name="Renfrewshire North &amp; West" electorate="49060" turnout="36155" percentageTurnout="73.70" percentageChangeTurnout="+17.65" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2946" percentageMajority="8.15" percentageChangeMajority="+17.65" swing="1.23" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="182961" sex="M" firstName="Richard" surname="Muir Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14425" percentageShare="39.90" percentageShareChange="-1.96" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182959" sex="M" firstName="Sean" surname="Davies Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="11479" percentageShare="31.75" percentageShareChange="-4.42" />
+      </Candidate>
+      <Candidate paId="182958" sex="M" firstName="Martin" surname="Gibson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="5839" percentageShare="16.15" percentageShareChange="-3.81" />
+      </Candidate>
+      <Candidate paId="182960" sex="F" firstName="Jenny" surname="Begg Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="2612" percentageShare="7.22" percentageShareChange="+5.22" />
+      </Candidate>
+      <Candidate paId="182962" sex="F" firstName="Lynne" surname="Ritchie Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" votes="1197" percentageShare="3.31" />
+      </Candidate>
+      <Candidate paId="182963" sex="M" firstName="Iain" surname="Johnson Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" votes="603" percentageShare="1.67" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="66" name="Renfrewshire North &amp; West" turnout="27495" percentageTurnout="56.04" winningParty="SNP" majority="1564" percentageMajority="5.69">
+      <Candidate paId="60701" firstName="Derek" surname="Mackay" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11510" percentageShare="41.86" />
+      </Candidate>
+      <Candidate paId="60832" firstName="Stuart" surname="Clark" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9946" percentageShare="36.17" />
+      </Candidate>
+      <Candidate paId="60454" firstName="Annabel" surname="Goldie" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="5489" percentageShare="19.96" />
+      </Candidate>
+      <Candidate paId="70739" firstName="Andrew" surname="Page" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="550" percentageShare="2.00" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

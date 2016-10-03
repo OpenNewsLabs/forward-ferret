@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="70" name="Skye, Lochaber &amp; Badenoch" electorate="57024">
+      <Candidate paId="182976" sex="M" firstName="Richard" surname="Lewis Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182977" sex="M" firstName="Ian" surname="Muir Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182978" sex="F" firstName="Jenny" surname="Ross Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182979" sex="F" firstName="Jean" surname="Pearson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182980" sex="M" firstName="Tom" surname="Thornton Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="70" name="Skye, Lochaber &amp; Badenoch" turnout="31915" percentageTurnout="55.97" winningParty="SNP" majority="4995" percentageMajority="15.65">
+      <Candidate paId="60704" firstName="Dave" surname="Thompson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14737" percentageShare="46.18" />
+      </Candidate>
+      <Candidate paId="66473" firstName="Alan" surname="MacRae" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="9742" percentageShare="30.52" />
+      </Candidate>
+      <Candidate paId="60835" firstName="Linda" surname="Stewart" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="4112" percentageShare="12.88" />
+      </Candidate>
+      <Candidate paId="60516" firstName="Kerensa" surname="Carr" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2834" percentageShare="8.88" />
+      </Candidate>
+      <Candidate paId="70997" firstName="Ronnie" surname="Campbell" sex="M">
+        <Party paId="5705" name="No Description" abbreviation="ND" votes="490" percentageShare="1.54" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

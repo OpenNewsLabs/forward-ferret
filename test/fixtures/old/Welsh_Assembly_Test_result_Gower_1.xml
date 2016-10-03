@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:42:24+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="21" name="Gower" electorate="61909" turnout="41264" percentageTurnout="66.65" percentageChangeTurnout="+23.41" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="9143" percentageMajority="22.16" percentageChangeMajority="+23.41" swing="1.99" swingTo="Lab" swingFrom="C">
+      <Candidate elected="*" previousSittingMember="+" paId="181796" sex="M" firstName="Mike" surname="Smith Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="18349" percentageShare="44.47" percentageShareChange="-3.59" />
+      </Candidate>
+      <Candidate paId="181795" sex="F" firstName="Monica" surname="Miller Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="9206" percentageShare="22.31" percentageShareChange="-7.58" />
+      </Candidate>
+      <Candidate paId="181798" sex="M" firstName="Simon" surname="Pritchard Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="8166" percentageShare="19.79" percentageShareChange="+7.65" />
+      </Candidate>
+      <Candidate paId="181797" sex="M" firstName="Gerry" surname="Lee Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="2916" percentageShare="7.07" percentageShareChange="-2.85" />
+      </Candidate>
+      <Candidate paId="181800" sex="M" firstName="Bill" surname="Wilkins Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1395" percentageShare="3.38" />
+      </Candidate>
+      <Candidate paId="181799" sex="M" firstName="Bob" surname="Watt Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1232" percentageShare="2.99" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="21" name="Gower" turnout="26773" percentageTurnout="43.25" winningParty="Lab" majority="4864" percentageMajority="18.17">
+      <Candidate paId="61016" firstName="Edwina" surname="Hart" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12866" percentageShare="48.06" />
+      </Candidate>
+      <Candidate paId="60754" firstName="Caroline" surname="Jones" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="8002" percentageShare="29.89" />
+      </Candidate>
+      <Candidate paId="60885" firstName="Darren" surname="Price" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3249" percentageShare="12.14" />
+      </Candidate>
+      <Candidate paId="70775" firstName="Peter" surname="May" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2656" percentageShare="9.92" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:28:13+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="32" name="Preseli Pembrokeshire" electorate="57758" turnout="33758" percentageTurnout="58.45" percentageChangeTurnout="+11.32" winningParty="C" gainOrHold="hold" sittingParty="C" majority="5506" percentageMajority="16.31" percentageChangeMajority="+11.32" swing="5.28" swingTo="PC" swingFrom="C">
+      <Candidate elected="*" previousSittingMember="*" paId="181867" sex="M" firstName="Keith" surname="Campbell Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="16460" percentageShare="48.76" percentageShareChange="+6.36" />
+      </Candidate>
+      <Candidate paId="181870" sex="M" firstName="John" surname="Marsh Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="10954" percentageShare="32.45" percentageShareChange="+16.92" />
+      </Candidate>
+      <Candidate paId="181868" sex="M" firstName="Tony" surname="Price Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="3778" percentageShare="11.19" percentageShareChange="-23.22" />
+      </Candidate>
+      <Candidate paId="181869" sex="M" firstName="Robert" surname="Campbell Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="1238" percentageShare="3.67" percentageShareChange="-3.99" />
+      </Candidate>
+      <Candidate paId="181871" sex="M" firstName="Paul" surname="Braid Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="805" percentageShare="2.38" />
+      </Candidate>
+      <Candidate paId="181872" sex="M" firstName="Geoffrey" surname="Lloyd Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="523" percentageShare="1.55" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="32" name="Preseli Pembrokeshire" turnout="27218" percentageTurnout="47.12" winningParty="C" majority="2175" percentageMajority="7.99">
+      <Candidate paId="60757" firstName="Paul" surname="Davies" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="11541" percentageShare="42.40" />
+      </Candidate>
+      <Candidate paId="66529" firstName="Terry" surname="Mills" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="9366" percentageShare="34.41" />
+      </Candidate>
+      <Candidate paId="60489" firstName="Rhys" surname="Sinnett" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="4226" percentageShare="15.53" />
+      </Candidate>
+      <Candidate paId="60942" firstName="Rob" surname="Kilmister" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2085" percentageShare="7.66" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

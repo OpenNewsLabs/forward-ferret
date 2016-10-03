@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="47" name="Glasgow Pollok" electorate="58429">
+      <Candidate paId="182877" sex="M" firstName="Alex" surname="McCartney Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182878" previousSittingMember="*" sex="M" firstName="Charles" surname="Wright Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182879" sex="M" firstName="Martin" surname="Bennett Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182880" previousSittingMember="+" sex="M" firstName="Eric" surname="Bentley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182881" sex="M" firstName="Michael" surname="Hughes Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="47" name="Glasgow Pollok" turnout="22915" percentageTurnout="39.22" winningParty="Lab" majority="623" percentageMajority="2.72">
+      <Candidate paId="60813" firstName="Johann" surname="Lamont" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10875" percentageShare="47.46" />
+      </Candidate>
+      <Candidate paId="60681" firstName="Chris" surname="Stephens" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10252" percentageShare="44.74" />
+      </Candidate>
+      <Candidate paId="60463" firstName="Andrew" surname="Morrison" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1298" percentageShare="5.66" />
+      </Candidate>
+      <Candidate paId="60641" firstName="Isabel" surname="Nelson" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="490" percentageShare="2.14" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

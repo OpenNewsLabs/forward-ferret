@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="13" totalNumberOfConstituencies="73" totalVotes="450239">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="13" gains="3" totalVotes="231601" percentageShare="51.44" percentageChange="+5.72" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalVotes="89513" percentageShare="19.88" percentageChange="+5.85" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" losses="3" totalVotes="72446" percentageShare="16.09" percentageChange="-14.90" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalVotes="51742" percentageShare="11.49" percentageChange="+3.13" />
+    <Party paId="8465" name="Independent" abbreviation="Ind" totalVotes="3393" percentageShare="0.75" percentageChange="+0.15" />
+    <Party paId="8448" name="Green" abbreviation="Green" totalVotes="718" percentageShare="0.16" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="826" percentageShare="0.18" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="2" name="Aberdeen Donside" />
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" />
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" />
+    <Constituency number="16" name="Clydebank &amp; Milngavie" />
+    <Constituency number="18" name="Coatbridge &amp; Chryston" />
+    <Constituency number="24" name="Dumfriesshire" />
+    <Constituency number="27" name="Dunfermline" />
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" />
+    <Constituency number="38" name="Falkirk East" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="64" name="Perthshire North" />
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

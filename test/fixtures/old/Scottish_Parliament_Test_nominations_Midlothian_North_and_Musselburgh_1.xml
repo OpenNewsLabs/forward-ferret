@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="57" name="Midlothian North &amp; Musselburgh" electorate="58246">
+      <Candidate paId="182919" sex="M" firstName="Tony" surname="Ritchie Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182920" sex="M" firstName="Simon" surname="Lewis Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182921" sex="M" firstName="David" surname="Palmer Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182922" previousSittingMember="*" sex="M" firstName="Tim" surname="Gray Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="57" name="Midlothian North &amp; Musselburgh" turnout="29818" percentageTurnout="51.19" winningParty="SNP" majority="2996" percentageMajority="10.05">
+      <Candidate paId="60692" firstName="Colin" surname="Beattie" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14079" percentageShare="47.22" />
+      </Candidate>
+      <Candidate paId="60824" firstName="Bernard" surname="Harkins" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="11083" percentageShare="37.17" />
+      </Candidate>
+      <Candidate paId="60512" firstName="Scott" surname="Douglas" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2541" percentageShare="8.52" />
+      </Candidate>
+      <Candidate paId="70858" firstName="Ian" surname="Younger" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1254" percentageShare="4.21" />
+      </Candidate>
+      <Candidate paId="71032" firstName="Alan" surname="Hay" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="861" percentageShare="2.89" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='2'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Three Rivers' paId='3229' type='Non-Met' proportion='third' winningParty='C' gainOrHold='gain' sittingParty='NOC'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='8'/>
+        <Party name='Lab' paId='314' seats='3'/>
+        <Party name='LD' paId='315' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+4'/>
+        <Party name='Lab' paId='314' change='+2'/>
+        <Party name='LD' paId='315' change='-6'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='21'/>
+        <Party name='LD' paId='315' seats='13'/>
+        <Party name='Lab' paId='314' seats='5'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

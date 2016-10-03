@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="42" name="Galloway &amp; Dumfries West" electorate="56611">
+      <Candidate paId="182853" sex="F" firstName="Anne" surname="Dhillon Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182854" sex="M" firstName="Andrew" surname="Lloyd Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182855" sex="M" firstName="Andrew" surname="Campbell Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182856" previousSittingMember="+" sex="M" firstName="Michael" surname="Hope Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="42" name="Galloway &amp; Dumfries West" turnout="29997" percentageTurnout="52.99" winningParty="C" majority="862" percentageMajority="2.87">
+      <Candidate paId="60442" firstName="Alex" surname="Fergusson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="11071" percentageShare="36.91" />
+      </Candidate>
+      <Candidate paId="60736" firstName="Aileen" surname="McLeod" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10209" percentageShare="34.03" />
+      </Candidate>
+      <Candidate paId="66485" firstName="Willie" surname="Scobie" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7954" percentageShare="26.52" />
+      </Candidate>
+      <Candidate paId="71040" firstName="Joe" surname="Rosiejak" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="763" percentageShare="2.54" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

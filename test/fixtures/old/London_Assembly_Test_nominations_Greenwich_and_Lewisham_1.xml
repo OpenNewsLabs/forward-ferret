@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="8" name="Greenwich &amp; Lewisham" electorate="365369">
+      <Candidate paId="181965" sex="M" firstName="David" surname="Harper Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181966" previousSittingMember="*" sex="M" firstName="Doug" surname="Taylor Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181967" sex="M" firstName="Michael" surname="Khan Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181968" sex="F" firstName="Julia" surname="Bell Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181970" sex="F" firstName="Jane" surname="Flynn Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181969" sex="M" firstName="Keith" surname="Williams Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="8" name="Greenwich &amp; Lewisham" turnout="131752" percentageTurnout="36.62" winningParty="Lab" majority="38037" percentageMajority="28.87">
+      <Candidate paId="76017" firstName="Len" surname="Duvall" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="65366" percentageShare="49.61" />
+      </Candidate>
+      <Candidate paId="76004" firstName="Alex" surname="Wilson" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="27329" percentageShare="20.74" />
+      </Candidate>
+      <Candidate paId="80415" firstName="Roger" surname="Sedgley" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="12427" percentageShare="9.43" />
+      </Candidate>
+      <Candidate paId="84767" firstName="John" surname="Russell" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="9393" percentageShare="7.13" />
+      </Candidate>
+      <Candidate paId="84774" firstName="Barbara" surname="Raymond" sex="F">
+        <Party paId="6829" name="People Before Profit" abbreviation="PBP" votes="6873" percentageShare="5.22" />
+      </Candidate>
+      <Candidate paId="80426" firstName="Paul" surname="Oakley" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="4997" percentageShare="3.79" />
+      </Candidate>
+      <Candidate paId="84734" firstName="Roberta" surname="Woods" sex="F">
+        <Party paId="6427" name="British National Party" abbreviation="BNP" votes="3551" percentageShare="2.70" />
+      </Candidate>
+      <Candidate paId="84748" firstName="Tess" surname="Culnane" sex="F">
+        <Party paId="6446" name="National Front" abbreviation="NF" votes="1816" percentageShare="1.38" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

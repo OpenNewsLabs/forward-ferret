@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="25" name="Dundee City East" electorate="54404">
+      <Candidate paId="182780" sex="M" firstName="Richard" surname="Taylor Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182781" sex="F" firstName="Lynne" surname="Jones Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182782" sex="M" firstName="Bob" surname="Wilson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182783" previousSittingMember="*" sex="M" firstName="Oliver" surname="Smith Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182784" sex="M" firstName="David" surname="Campbell Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="25" name="Dundee City East" turnout="25753" percentageTurnout="47.34" winningParty="SNP" majority="10679" percentageMajority="41.47">
+      <Candidate paId="60665" firstName="Shona" surname="Robison" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16541" percentageShare="64.23" />
+      </Candidate>
+      <Candidate paId="60796" firstName="Mohammed" surname="Asif" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="5862" percentageShare="22.76" />
+      </Candidate>
+      <Candidate paId="60627" firstName="Brian" surname="Docherty" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2550" percentageShare="9.90" />
+      </Candidate>
+      <Candidate paId="60555" firstName="Allan" surname="Petrie" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="800" percentageShare="3.11" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

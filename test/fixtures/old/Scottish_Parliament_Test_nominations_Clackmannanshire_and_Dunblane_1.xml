@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" electorate="49415">
+      <Candidate paId="182736" sex="M" firstName="Richard" surname="Knight Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182737" sex="M" firstName="Tony" surname="Reid Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182738" sex="M" firstName="Stephen" surname="Campbell Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182739" previousSittingMember="*" sex="M" firstName="Daniel" surname="O'Brien Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" turnout="27416" percentageTurnout="55.48" winningParty="SNP" majority="3609" percentageMajority="13.16">
+      <Candidate paId="60656" firstName="Keith" surname="Brown" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13253" percentageShare="48.34" />
+      </Candidate>
+      <Candidate paId="60786" firstName="Richard" surname="Simpson" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9644" percentageShare="35.18" />
+      </Candidate>
+      <Candidate paId="66387" firstName="Callum" surname="Campbell" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="3501" percentageShare="12.77" />
+      </Candidate>
+      <Candidate paId="60543" firstName="Tim" surname="Brett" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1018" percentageShare="3.71" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

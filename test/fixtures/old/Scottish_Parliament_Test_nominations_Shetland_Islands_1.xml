@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="69" name="Shetland Islands" electorate="17505">
+      <Candidate paId="182972" sex="M" firstName="Mike" surname="Davies Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182973" sex="M" firstName="Paul" surname="Cunningham Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182974" previousSittingMember="*" sex="M" firstName="Ray" surname="Wilson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182975" sex="M" firstName="Eric" surname="Nolan Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="69" name="Shetland Islands" turnout="9391" percentageTurnout="53.65" winningParty="LD" majority="1617" percentageMajority="17.22">
+      <Candidate paId="60771" firstName="Tavish" surname="Scott" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="4462" percentageShare="47.51" />
+      </Candidate>
+      <Candidate paId="70877" firstName="Billy" surname="Fox" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="2845" percentageShare="30.29" />
+      </Candidate>
+      <Candidate paId="60712" firstName="Jean" surname="Urquhart" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="1134" percentageShare="12.08" />
+      </Candidate>
+      <Candidate paId="66487" firstName="Jamie" surname="Kerr" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="620" percentageShare="6.60" />
+      </Candidate>
+      <Candidate paId="70785" firstName="Sandy" surname="Cross" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="330" percentageShare="3.51" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

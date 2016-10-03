@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="6" name="Ealing &amp; Hillingdon" electorate="443975" gainOrHold="gain" winningPartyAbbreviation="LD" winningPartyName="Liberal Democrat" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Liberal Democrat gain from Labour in Ealing &amp; Hillingdon">
+      <Candidate paId="181954" sex="M" firstName="Andrew" surname="Lord Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181955" sex="M" firstName="Michael" surname="Johnson Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate elected="*" paId="181956" sex="M" firstName="Brian" surname="Fletcher Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181957" sex="M" firstName="Peter" surname="Webb Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181958" sex="F" firstName="Angela" surname="Stewart Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

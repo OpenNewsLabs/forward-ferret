@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="2">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="4" name="City &amp; East" electorate="501400">
+      <Candidate paId="181939" sex="M" firstName="Ashley" surname="Waller Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181940" sex="M" firstName="Ian" surname="Wallace Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181941" sex="F" firstName="Eleanor" surname="Lee Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181942" sex="F" firstName="Elizabeth" surname="Dixon Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181945" sex="M" firstName="Rob" surname="Brown Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181943" sex="M" firstName="Mark" surname="Hill Test">
+        <Party paId="8605" name="Respect (George Galloway)" abbreviation="Respect GG" />
+      </Candidate>
+      <Candidate paId="181946" sex="M" firstName="Malcolm" surname="Johnson Test">
+        <Party paId="8726" name="Take Back The City" abbreviation="TBTC" />
+      </Candidate>
+      <Candidate paId="181944" sex="M" firstName="Nigel" surname="Ross Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="4" name="City &amp; East" turnout="170988" percentageTurnout="33.71" winningParty="Lab" majority="82744" percentageMajority="48.39">
+      <Candidate paId="76016" firstName="John" surname="Biggs" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="107667" percentageShare="62.97" />
+      </Candidate>
+      <Candidate paId="80391" firstName="John" surname="Moss" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="24923" percentageShare="14.58" />
+      </Candidate>
+      <Candidate paId="80411" firstName="Chris" surname="Smith" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="10891" percentageShare="6.37" />
+      </Candidate>
+      <Candidate paId="84761" firstName="Richard" surname="Macmillan" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="7351" percentageShare="4.30" />
+      </Candidate>
+      <Candidate paId="84759" firstName="Paul" surname="Borg" sex="M">
+        <Party paId="6427" name="British National Party" abbreviation="BNP" votes="7031" percentageShare="4.11" />
+      </Candidate>
+      <Candidate paId="84762" firstName="Kamran" surname="Malik" sex="M">
+        <Party paId="6828" name="Communities United Party" abbreviation="Communities" votes="6774" percentageShare="3.96" />
+      </Candidate>
+      <Candidate paId="80421" firstName="Steven" surname="Woolfe" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="5243" percentageShare="3.07" />
+      </Candidate>
+      <Candidate paId="84760" firstName="Paul" surname="Davies" sex="M">
+        <Party paId="6431" name="Communist League" abbreviation="Comm L" votes="1108" percentageShare="0.65" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:16:40+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="11" name="Cardiff South &amp; Penarth" electorate="75038" turnout="44228" percentageTurnout="58.94" percentageChangeTurnout="+22.32" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="8913" percentageMajority="20.15" percentageChangeMajority="+22.32" swing="1.31" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181733" sex="M" firstName="Tony" surname="Wright Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="18786" percentageShare="42.48" percentageShareChange="-7.80" />
+      </Candidate>
+      <Candidate paId="181732" sex="F" firstName="Kim" surname="Smith Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="9873" percentageShare="22.32" percentageShareChange="-5.17" />
+      </Candidate>
+      <Candidate paId="181735" sex="M" firstName="Eddie" surname="Bennett Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="6452" percentageShare="14.59" percentageShareChange="+2.49" />
+      </Candidate>
+      <Candidate paId="181734" sex="F" firstName="Louise" surname="Harvey Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="4983" percentageShare="11.27" percentageShareChange="+1.13" />
+      </Candidate>
+      <Candidate paId="181737" sex="M" firstName="Robert" surname="Francis Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="2348" percentageShare="5.31" />
+      </Candidate>
+      <Candidate paId="181736" sex="M" firstName="David" surname="Webb Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1786" percentageShare="4.04" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="11" name="Cardiff South &amp; Penarth" turnout="27479" percentageTurnout="36.62" winningParty="Lab" majority="6259" percentageMajority="22.78">
+      <Candidate paId="60456" firstName="Vaughan" surname="Gething" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="13814" percentageShare="50.27" />
+      </Candidate>
+      <Candidate paId="60751" firstName="Ben" surname="Gray" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="7555" percentageShare="27.49" />
+      </Candidate>
+      <Candidate paId="60897" firstName="Liz" surname="Musa" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3324" percentageShare="12.10" />
+      </Candidate>
+      <Candidate paId="60573" firstName="Sian" surname="Cliff" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2786" percentageShare="10.14" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

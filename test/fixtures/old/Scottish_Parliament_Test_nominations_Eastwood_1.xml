@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="30" name="Eastwood" electorate="50476">
+      <Candidate paId="182802" previousSittingMember="+" sex="F" firstName="Helen" surname="Taylor Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182803" previousSittingMember="*" sex="F" firstName="Liz" surname="Harvey Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182804" sex="F" firstName="Jean" surname="Hayes Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182805" previousSittingMember="+" sex="M" firstName="James" surname="Davidson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="30" name="Eastwood" turnout="31924" percentageTurnout="63.25" winningParty="Lab" majority="2012" percentageMajority="6.30">
+      <Candidate paId="60800" firstName="Ken" surname="Macintosh" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12662" percentageShare="39.66" />
+      </Candidate>
+      <Candidate paId="60432" firstName="Jackson" surname="Carlaw" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="10650" percentageShare="33.36" />
+      </Candidate>
+      <Candidate paId="60669" firstName="Stewart" surname="Maxwell" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="7777" percentageShare="24.36" />
+      </Candidate>
+      <Candidate paId="70870" firstName="Gordon" surname="Cochrane" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="835" percentageShare="2.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

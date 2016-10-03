@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionResult roundNumber='1' revision='1' declarationTime='2016-04-20T17:19:43'>
+  <Election name='London mayor test' type='M' date='2016-05-04'>
+    <Constituency number='1' name='London' electorate='5634331' turnout='3334573' percentageTurnout='59.18' validVotes='3334573' quota='1667287' paId='509' boundaryChange='false' percentageChangeTurnout='+21.14'>
+      <Round number='1' revision='1' declarationTime='2016-04-20T17:19:43'>
+        <Candidate firstName='Richard' surname='Smith Test' sex='M' paId='3815' votes='1104786'>
+          <Party name='Labour' abbreviation='Lab' paId='1081'/>
+        </Candidate>
+        <Candidate firstName='Greg' surname='Taylor Test' sex='M' paId='3814' votes='955100'>
+          <Party name='Conservative' abbreviation='C' paId='1080'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Derek' surname='Campbell Test' sex='M' paId='3816' votes='387541'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='1082'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Brian' surname='Bennett Test' sex='M' paId='3817' votes='332765'>
+          <Party name='Green' abbreviation='Green' paId='1083'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Steve' surname='Marshall Test' sex='M' paId='3813' votes='287540'>
+          <Party name='UK Independence Party' abbreviation='UKIP' paId='1099'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Christopher' surname='Stevenson Test' sex='M' paId='3822' votes='89658'>
+          <Party name='Women&apos;s Equality Party' abbreviation='Women' paId='1214'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Graham' surname='Boyd Test' sex='M' paId='3823' votes='57645'>
+          <Party name='Respect' abbreviation='Respect' paId='1215'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Philip' surname='Harrison Test' sex='M' paId='3818' votes='46894'>
+          <Party name='British National Party' abbreviation='BNP' paId='1210'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='John' surname='Cox Test' sex='M' paId='3819' votes='43672'>
+          <Party name='Britain First' abbreviation='Brit' paId='1211'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Gavin' surname='Smith Test' sex='M' paId='3820' votes='17563'>
+          <Party name='Cannabis is Safer than Alcohol' abbreviation='Cannabis' paId='1212'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Christopher' surname='Hussain Test' sex='M' paId='3821' votes='9866'>
+          <Party name='One Love Party' abbreviation='Love' paId='1213'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='William' surname='Powell Test' sex='M' paId='3824' votes='1543'>
+          <Party name='Independent William Powell Test' abbreviation='Ind' paId='1272'/>
+        </Candidate>
+      </Round>
+    </Constituency>
+  </Election>
+</ElectionResult>

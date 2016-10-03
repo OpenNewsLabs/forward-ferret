@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:58:32+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="46" name="Glasgow Maryhill &amp; Springburn" electorate="56622" turnout="27483" percentageTurnout="48.54" percentageChangeTurnout="+12.28" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="7729" percentageMajority="28.12" percentageChangeMajority="+12.28" swing="24.23" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="182876" sex="M" firstName="Andrew" surname="Dunn Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14011" percentageShare="50.98" percentageShareChange="+9.13" />
+      </Candidate>
+      <Candidate paId="182873" sex="M" firstName="Stephen" surname="Ellis Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="6282" percentageShare="22.86" percentageShareChange="+16.91" />
+      </Candidate>
+      <Candidate paId="182875" sex="M" firstName="Rob" surname="Hughes Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4767" percentageShare="17.35" percentageShareChange="+13.29" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182874" sex="M" firstName="Robert" surname="Henderson Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="2423" percentageShare="8.82" percentageShareChange="-39.33" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="46" name="Glasgow Maryhill &amp; Springburn" turnout="20531" percentageTurnout="36.26" winningParty="Lab" majority="1292" percentageMajority="6.29">
+      <Candidate paId="60812" firstName="Patricia" surname="Ferguson" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9884" percentageShare="48.14" />
+      </Candidate>
+      <Candidate paId="60680" firstName="Bob" surname="Doris" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="8592" percentageShare="41.85" />
+      </Candidate>
+      <Candidate paId="70856" firstName="Stephanie" surname="Murray" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1222" percentageShare="5.95" />
+      </Candidate>
+      <Candidate paId="66465" firstName="Sophie" surname="Bridger" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="833" percentageShare="4.06" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

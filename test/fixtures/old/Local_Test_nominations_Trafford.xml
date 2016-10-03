@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Trafford' paId='3145' type='Metro' proportion='third'>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='3' seatsOffered='2' unopposedReturns='0' candidates='21'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='34' seatsOffered='10' unopposedReturns='0' candidates='21'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='25' seatsOffered='9' unopposedReturns='0' candidates='21'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='1' seatsOffered='0' unopposedReturns='0' candidates='2'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='21'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='8'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

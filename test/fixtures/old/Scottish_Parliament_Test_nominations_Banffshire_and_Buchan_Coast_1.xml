@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="12" name="Banffshire &amp; Buchan Coast" electorate="53698">
+      <Candidate paId="182724" sex="M" firstName="Tim" surname="Robinson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182725" sex="M" firstName="John" surname="Stewart Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182726" sex="M" firstName="Geoff" surname="Harris Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182727" previousSittingMember="*" sex="M" firstName="Phil" surname="Wilson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="12" name="Banffshire &amp; Buchan Coast" turnout="25004" percentageTurnout="46.56" winningParty="SNP" majority="12220" percentageMajority="48.87">
+      <Candidate paId="60653" firstName="Stewart" surname="Stevenson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16812" percentageShare="67.24" />
+      </Candidate>
+      <Candidate paId="70894" firstName="Michael" surname="Watt" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4592" percentageShare="18.37" />
+      </Candidate>
+      <Candidate paId="60783" firstName="Alan" surname="Duffill" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="2642" percentageShare="10.57" />
+      </Candidate>
+      <Candidate paId="66460" firstName="Galen" surname="Milne" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="958" percentageShare="3.83" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Gateshead' paId='3124' type='Metro' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='17'/>
+        <Party name='LD' paId='315' seats='5'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='LD' paId='315' change='+1'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='54'/>
+        <Party name='LD' paId='315' seats='12'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

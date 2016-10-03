@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="7" name="Bridgend" electorate="59104">
+      <Candidate paId="181706" sex="M" firstName="Terry" surname="Simpson Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181707" previousSittingMember="*" sex="F" firstName="Margaret" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181708" sex="M" firstName="Christopher" surname="Hill Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181709" sex="M" firstName="Robert" surname="Griffiths Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181710" sex="M" firstName="Ken" surname="James Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181711" sex="M" firstName="Martin" surname="Brennan Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="7" name="Bridgend" turnout="24035" percentageTurnout="40.67" winningParty="Lab" majority="6775" percentageMajority="28.19">
+      <Candidate paId="60973" firstName="Carwyn" surname="Jones" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="13499" percentageShare="56.16" />
+      </Candidate>
+      <Candidate paId="66507" firstName="Alex" surname="Williams" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="6724" percentageShare="27.98" />
+      </Candidate>
+      <Candidate paId="60907" firstName="Tim" surname="Thomas" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2076" percentageShare="8.64" />
+      </Candidate>
+      <Candidate paId="70772" firstName="Briony" surname="Davies" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1736" percentageShare="7.22" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

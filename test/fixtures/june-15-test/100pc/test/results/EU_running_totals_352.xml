@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RunningTotals xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumRunningTotals.xsd" numberOfResults="352" totalVotingAreas="382">
+  <Referendum name="EU" date="2016-06-23">
+    <Proposition text="Should the UK remain a member of the EU or leave the EU?">
+      <Answer text="Remain a member of the EU" shortText="Remain Test" votingAreas="195" votes="10895486" percentageShare="51.61" />
+      <Answer text="Leave the EU" shortText="Leave Test" votingAreas="157" votes="10216969" percentageShare="48.39" />
+    </Proposition>
+  </Referendum>
+</RunningTotals>
+

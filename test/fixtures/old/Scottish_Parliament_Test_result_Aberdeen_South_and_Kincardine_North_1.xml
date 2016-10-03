@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:22:57+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" electorate="54338" turnout="33241" percentageTurnout="61.17" percentageChangeTurnout="+8.36" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2926" percentageMajority="8.80" percentageChangeMajority="+8.36" swing="9.34" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182691" sex="M" firstName="John" surname="Byrne Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14240" percentageShare="42.84" percentageShareChange="+1.21" />
+      </Candidate>
+      <Candidate paId="182688" sex="M" firstName="Barry" surname="Walker Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="11314" percentageShare="34.04" percentageShareChange="+19.90" />
+      </Candidate>
+      <Candidate paId="182690" sex="M" firstName="Peter" surname="Nolan Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5345" percentageShare="16.08" percentageShareChange="-1.32" />
+      </Candidate>
+      <Candidate paId="182689" sex="M" firstName="David" surname="Sheppard Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="2342" percentageShare="7.05" percentageShareChange="-12.55" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" turnout="28697" percentageTurnout="52.81" winningParty="SNP" majority="6323" percentageMajority="22.03">
+      <Candidate paId="60644" firstName="Maureen" surname="Watt" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11947" percentageShare="41.63" />
+      </Candidate>
+      <Candidate paId="60777" firstName="Greg" surname="Williams" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="5624" percentageShare="19.60" />
+      </Candidate>
+      <Candidate paId="60551" firstName="John" surname="Sleigh" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="4994" percentageShare="17.40" />
+      </Candidate>
+      <Candidate paId="60421" firstName="Stewart" surname="Whyte" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4058" percentageShare="14.14" />
+      </Candidate>
+      <Candidate paId="70884" firstName="Marie" surname="Boulton" sex="F">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="1860" percentageShare="6.48" />
+      </Candidate>
+      <Candidate paId="70885" firstName="Ross" surname="Willett" sex="M">
+        <Party paId="6174" name="National Front" abbreviation="Nat Front" votes="214" percentageShare="0.75" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

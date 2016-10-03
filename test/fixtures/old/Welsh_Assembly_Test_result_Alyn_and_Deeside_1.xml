@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:24:59+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="3" name="Alyn &amp; Deeside" electorate="61751" turnout="38577" percentageTurnout="62.47" percentageChangeTurnout="+25.60" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="9283" percentageMajority="24.06" percentageChangeMajority="+25.60" swing="0.22" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181686" sex="M" firstName="Robert" surname="Wood Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="16941" percentageShare="43.91" percentageShareChange="-8.69" />
+      </Candidate>
+      <Candidate paId="181685" sex="F" firstName="Barbara" surname="Baker Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="7658" percentageShare="19.85" percentageShareChange="-8.24" />
+      </Candidate>
+      <Candidate paId="181687" sex="M" firstName="David" surname="Harvey Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="4991" percentageShare="12.94" percentageShareChange="+5.36" />
+      </Candidate>
+      <Candidate paId="181688" sex="M" firstName="Paul" surname="Smith Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="4134" percentageShare="10.72" percentageShareChange="+3.21" />
+      </Candidate>
+      <Candidate paId="181689" sex="M" firstName="Ian" surname="Harris Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="3244" percentageShare="8.41" />
+      </Candidate>
+      <Candidate paId="181690" sex="M" firstName="Jim" surname="Begg Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1609" percentageShare="4.17" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="3" name="Alyn &amp; Deeside" turnout="22769" percentageTurnout="36.87" winningParty="Lab" majority="5581" percentageMajority="24.51">
+      <Candidate paId="60929" firstName="Carl" surname="Sargeant" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11978" percentageShare="52.61" />
+      </Candidate>
+      <Candidate paId="66505" firstName="John" surname="Bell" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="6397" percentageShare="28.10" />
+      </Candidate>
+      <Candidate paId="60928" firstName="Pete" surname="Williams" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1725" percentageShare="7.58" />
+      </Candidate>
+      <Candidate paId="70742" firstName="Shane" surname="Brennan" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1710" percentageShare="7.51" />
+      </Candidate>
+      <Candidate paId="71199" firstName="Michael" surname="Whitby" sex="M">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="959" percentageShare="4.21" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Harlow' paId='3196' type='Non-Met' proportion='third'>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='12' seatsOffered='4' unopposedReturns='0' candidates='11'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='19' seatsOffered='7' unopposedReturns='0' candidates='11'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='2' seatsOffered='0' unopposedReturns='0' candidates='11'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='4'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='1'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="17" name="Clwyd West" electorate="57980">
+      <Candidate paId="181771" previousSittingMember="*" sex="M" firstName="Harry" surname="Wright Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181772" sex="M" firstName="Simon" surname="Jones Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181773" sex="M" firstName="Alun" surname="Lewis Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181774" previousSittingMember="+" sex="M" firstName="Paul" surname="Watson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181775" sex="M" firstName="Alan" surname="Abbott Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181776" sex="M" firstName="David" surname="Harrison Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="17" name="Clwyd West" turnout="25153" percentageTurnout="43.38" winningParty="C" majority="4248" percentageMajority="16.89">
+      <Candidate paId="60753" firstName="Darren" surname="Millar" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="10890" percentageShare="43.30" />
+      </Candidate>
+      <Candidate paId="60980" firstName="Crispin" surname="Jones" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="6642" percentageShare="26.41" />
+      </Candidate>
+      <Candidate paId="60888" firstName="Eifion" surname="Lloyd Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="5775" percentageShare="22.96" />
+      </Candidate>
+      <Candidate paId="60575" firstName="Brian" surname="Cossey" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1846" percentageShare="7.34" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

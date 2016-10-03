@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:54:09+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="19" name="Cowdenbeath" electorate="54284" turnout="26127" percentageTurnout="48.13" percentageChangeTurnout="+0.84" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="7377" percentageMajority="28.24" percentageChangeMajority="+0.84" swing="16.55" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" paId="182758" sex="M" firstName="Brian" surname="Dixon Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="12859" percentageShare="49.22" percentageShareChange="+7.62" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182756" sex="M" firstName="Alex" surname="Page Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="5482" percentageShare="20.98" percentageShareChange="-25.48" />
+      </Candidate>
+      <Candidate paId="182757" sex="M" firstName="Richard" surname="Ward Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4946" percentageShare="18.93" percentageShareChange="+15.05" />
+      </Candidate>
+      <Candidate paId="182755" sex="F" firstName="Margaret" surname="Williamson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2840" percentageShare="10.87" percentageShareChange="+3.89" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="19" name="Cowdenbeath" turnout="25670" percentageTurnout="47.29" winningParty="Lab" majority="1247" percentageMajority="4.86">
+      <Candidate paId="60790" firstName="Helen" surname="Eadie" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="11926" percentageShare="46.46" />
+      </Candidate>
+      <Candidate paId="60660" firstName="Ian" surname="Chisholm" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10679" percentageShare="41.60" />
+      </Candidate>
+      <Candidate paId="66478" firstName="Belinda" surname="Don" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1792" percentageShare="6.98" />
+      </Candidate>
+      <Candidate paId="70866" firstName="Keith" surname="Legg" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="997" percentageShare="3.88" />
+      </Candidate>
+      <Candidate paId="70955" firstName="Mike" surname="Heenan" sex="M">
+        <Party paId="6177" name="Land Party" abbreviation="Land" votes="276" percentageShare="1.08" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+  <PreviousElection name="Cowdenbeath" date="2014-01-23" type="B">
+    <Constituency number="1" name="Cowdenbeath" turnout="20062" percentageTurnout="34.78" winningParty="Lab" majority="5488" percentageMajority="27.36">
+      <Candidate paId="0" firstName="" surname="Rowley" sex="M">
+        <Party paId="7422" name="Labour" abbreviation="Lab" votes="11192" percentageShare="55.79" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="McGarry" sex="M">
+        <Party paId="7425" name="Scottish National Party" abbreviation="SNP" votes="5704" percentageShare="28.43" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Dempsey" sex="M">
+        <Party paId="7421" name="Conservative" abbreviation="C" votes="1893" percentageShare="9.44" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Baykal" sex="M">
+        <Party paId="7427" name="UK Independence Party" abbreviation="UKIP" votes="610" percentageShare="3.04" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Holden" sex="M">
+        <Party paId="7424" name="Liberal Democrat" abbreviation="LD" votes="425" percentageShare="2.12" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Graham" sex="M">
+        <Party paId="7429" name="The Victims Final Right Party" abbreviation="Victims" votes="187" percentageShare="0.93" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Trolland" sex="M">
+        <Party paId="7428" name="Scottish Democratic Alliance" abbreviation="SDA" votes="51" percentageShare="0.25" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

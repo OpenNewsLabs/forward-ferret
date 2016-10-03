@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionNominations revision='2'>
+  <Election name='London mayor test' type='M' date='2016-05-04'>
+    <Constituency number='1' name='London' electorate='5634331' paId='509' boundaryChange='false'>
+      <Candidate firstName='Greg' surname='Taylor Test' sex='M' paId='3814'>
+        <Party name='Conservative' abbreviation='C' paId='1080'/>
+      </Candidate>
+      <Candidate firstName='Richard' surname='Smith Test' sex='M' paId='3815'>
+        <Party name='Labour' abbreviation='Lab' paId='1081'/>
+      </Candidate>
+      <Candidate firstName='Derek' surname='Campbell Test' sex='M' paId='3816'>
+        <Party name='Liberal Democrat' abbreviation='LD' paId='1082'/>
+      </Candidate>
+      <Candidate firstName='Brian' surname='Bennett Test' sex='M' paId='3817'>
+        <Party name='Green' abbreviation='Green' paId='1083'/>
+      </Candidate>
+      <Candidate firstName='John' surname='Cox Test' sex='M' paId='3819'>
+        <Party name='Britain First' abbreviation='Brit' paId='1211'/>
+      </Candidate>
+      <Candidate firstName='Gavin' surname='Smith Test' sex='M' paId='3820'>
+        <Party name='Cannabis is Safer than Alcohol' abbreviation='Cannabis' paId='1212'/>
+      </Candidate>
+      <Candidate firstName='Christopher' surname='Hussain Test' sex='M' paId='3821'>
+        <Party name='One Love Party' abbreviation='Love' paId='1213'/>
+      </Candidate>
+      <Candidate firstName='Graham' surname='Boyd Test' sex='M' paId='3823'>
+        <Party name='Respect' abbreviation='Respect' paId='1215'/>
+      </Candidate>
+      <Candidate firstName='Christopher' surname='Stevenson Test' sex='M' paId='3822'>
+        <Party name='Women&apos;s Equality Party' abbreviation='Women' paId='1214'/>
+      </Candidate>
+      <Candidate firstName='Philip' surname='Harrison Test' sex='M' paId='3818'>
+        <Party name='British National Party' abbreviation='BNP' paId='1210'/>
+      </Candidate>
+      <Candidate firstName='William' surname='Powell Test' sex='M' paId='3824'>
+        <Party name='Independent William Powell Test' abbreviation='Ind' paId='1272'/>
+      </Candidate>
+      <Candidate firstName='Steve' surname='Marshall Test' sex='M' paId='3813'>
+        <Party name='UK Independence Party' abbreviation='UKIP' paId='1099'/>
+      </Candidate>
+      <PreviousFirstRoundResultsSummary>
+        <Candidate firstName='Boris' surname='Johnson' sex='M' rushText='Tory Boris Johnson' paId='1972' previousSittingMember='*' votes='971931'>
+          <Party name='Conservative' abbreviation='C' paId='619'/>
+        </Candidate>
+        <Candidate firstName='Ken' surname='Livingstone' sex='M' rushText='Labour&apos;s Ken Livingstone' paId='1973' votes='889918'>
+          <Party name='Labour' abbreviation='Lab' paId='620'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Jenny' surname='Jones' sex='F' paId='1975' votes='98913'>
+          <Party name='Green' abbreviation='Green' paId='622'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Brian' surname='Paddick' sex='M' paId='1974' votes='91774'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='621'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Siobhan' surname='Benita' sex='F' paId='1993' votes='83914'>
+          <Party name='Independent' abbreviation='Ind' paId='635'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Lawrence' surname='Webb' sex='M' paId='1984' votes='43274'>
+          <Party name='United Kingdom Independence Party' abbreviation='UKIP' paId='624'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Carlos' surname='Cortiglia' sex='M' paId='1994' votes='28751'>
+          <Party name='British National Party' abbreviation='BNP' paId='623'/>
+        </Candidate>
+        <CandidatesElected>
+          <Candidate firstName='Boris' surname='Johnson' sex='M' rushText='Tory Boris Johnson' paId='1972' previousSittingMember='*'>
+            <Party name='Conservative' abbreviation='C' paId='619'/>
+          </Candidate>
+        </CandidatesElected>
+      </PreviousFirstRoundResultsSummary>
+    </Constituency>
+  </Election>
+</ElectionNominations>

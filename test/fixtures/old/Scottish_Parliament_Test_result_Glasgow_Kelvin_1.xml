@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:55:49+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="45" name="Glasgow Kelvin" electorate="61893" turnout="43177" percentageTurnout="69.76" percentageChangeTurnout="+30.10" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="18092" percentageMajority="41.90" percentageChangeMajority="+30.10" swing="3.15" swingTo="SNP" swingFrom="LD">
+      <Candidate elected="*" previousSittingMember="*" paId="182870" sex="M" firstName="Paul" surname="Harper Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="24636" percentageShare="57.06" percentageShareChange="+13.71" />
+      </Candidate>
+      <Candidate paId="182869" sex="F" firstName="Barbara" surname="Edwards Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="6544" percentageShare="15.16" percentageShareChange="+7.42" />
+      </Candidate>
+      <Candidate paId="182867" sex="F" firstName="Ruth" surname="Dhillon Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="5507" percentageShare="12.75" percentageShareChange="+5.24" />
+      </Candidate>
+      <Candidate paId="182868" sex="M" firstName="Andrew" surname="White Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="3373" percentageShare="7.81" percentageShareChange="-31.94" />
+      </Candidate>
+      <Candidate paId="182871" sex="M" firstName="Peter" surname="Cunningham Test">
+        <Party paId="8448" name="Green" abbreviation="Green" votes="2192" percentageShare="5.08" />
+      </Candidate>
+      <Candidate paId="182872" sex="M" firstName="Stephen" surname="Griffiths Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" votes="925" percentageShare="2.14" percentageShareChange="+0.49" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="45" name="Glasgow Kelvin" turnout="24548" percentageTurnout="39.66" winningParty="SNP" majority="882" percentageMajority="3.59">
+      <Candidate paId="60679" firstName="Sandra" surname="White" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10640" percentageShare="43.34" />
+      </Candidate>
+      <Candidate paId="60811" firstName="Pauline" surname="McNeill" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9758" percentageShare="39.75" />
+      </Candidate>
+      <Candidate paId="60527" firstName="Natalie" surname="McKee" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1900" percentageShare="7.74" />
+      </Candidate>
+      <Candidate paId="60507" firstName="Ruth" surname="Davidson" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1845" percentageShare="7.52" />
+      </Candidate>
+      <Candidate paId="70958" firstName="Tom" surname="Muirhead" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="405" percentageShare="1.65" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

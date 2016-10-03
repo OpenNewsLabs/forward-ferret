@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:57:19+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="69" name="Shetland Islands" electorate="17505" turnout="11737" percentageTurnout="67.05" percentageChangeTurnout="+13.40" winningParty="LD" gainOrHold="hold" sittingParty="LD" majority="1317" percentageMajority="11.22" percentageChangeMajority="+13.40" swing="12.11" swingTo="SNP" swingFrom="LD">
+      <Candidate elected="*" previousSittingMember="*" paId="182974" sex="M" firstName="Ray" surname="Wilson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4693" percentageShare="39.98" percentageShareChange="-7.53" />
+      </Candidate>
+      <Candidate paId="182975" sex="M" firstName="Eric" surname="Nolan Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="3376" percentageShare="28.76" percentageShareChange="+16.69" />
+      </Candidate>
+      <Candidate paId="182973" sex="M" firstName="Paul" surname="Cunningham Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1879" percentageShare="16.01" percentageShareChange="+9.41" />
+      </Candidate>
+      <Candidate paId="182972" sex="M" firstName="Mike" surname="Davies Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1789" percentageShare="15.24" percentageShareChange="+11.73" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="69" name="Shetland Islands" turnout="9391" percentageTurnout="53.65" winningParty="LD" majority="1617" percentageMajority="17.22">
+      <Candidate paId="60771" firstName="Tavish" surname="Scott" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="4462" percentageShare="47.51" />
+      </Candidate>
+      <Candidate paId="70877" firstName="Billy" surname="Fox" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="2845" percentageShare="30.29" />
+      </Candidate>
+      <Candidate paId="60712" firstName="Jean" surname="Urquhart" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="1134" percentageShare="12.08" />
+      </Candidate>
+      <Candidate paId="66487" firstName="Jamie" surname="Kerr" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="620" percentageShare="6.60" />
+      </Candidate>
+      <Candidate paId="70785" firstName="Sandy" surname="Cross" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="330" percentageShare="3.51" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

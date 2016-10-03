@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:58:04+01:00">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="3" name="Brent &amp; Harrow" electorate="382881" turnout="232603" percentageTurnout="60.75" percentageChangeTurnout="+23.69" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="62341" percentageMajority="26.80" percentageChangeMajority="+23.69" swing="23.67" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181933" sex="M" firstName="Graham" surname="Smith Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" votes="111241" percentageShare="47.82" percentageShareChange="+19.84" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181934" sex="M" firstName="John" surname="Davis Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" votes="48900" percentageShare="21.02" percentageShareChange="-27.51" />
+      </Candidate>
+      <Candidate paId="181938" sex="M" firstName="David" surname="Miller Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" votes="27150" percentageShare="11.67" percentageShareChange="+6.27" />
+      </Candidate>
+      <Candidate paId="181935" sex="M" firstName="Chris" surname="Begg Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" votes="17972" percentageShare="7.73" percentageShareChange="-3.09" />
+      </Candidate>
+      <Candidate paId="181936" sex="M" firstName="Stephen" surname="Brown Test">
+        <Party paId="8571" name="Green" abbreviation="Green" votes="16158" percentageShare="6.95" percentageShareChange="-0.32" />
+      </Candidate>
+      <Candidate paId="181937" sex="M" firstName="John" surname="Lloyd Test">
+        <Party paId="8605" name="Respect (George Galloway)" abbreviation="Respect GG" votes="11182" percentageShare="4.81" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="3" name="Brent &amp; Harrow" turnout="145070" percentageTurnout="37.06" winningParty="Lab" majority="29796" percentageMajority="20.54">
+      <Candidate paId="76018" firstName="Navin" surname="Shah" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="70400" percentageShare="48.53" />
+      </Candidate>
+      <Candidate paId="80384" firstName="Sachin" surname="Rajput" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="40604" percentageShare="27.99" />
+      </Candidate>
+      <Candidate paId="84758" firstName="Charlotte" surname="Henry" sex="F">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="15690" percentageShare="10.82" />
+      </Candidate>
+      <Candidate paId="76054" firstName="Shahrar" surname="Ali" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="10546" percentageShare="7.27" />
+      </Candidate>
+      <Candidate paId="80428" firstName="Mick" surname="McGough" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="7830" percentageShare="5.40" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

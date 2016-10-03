@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="54" name="Kilmarnock &amp; Irvine Valley" electorate="63257">
+      <Candidate paId="182907" sex="M" firstName="Andrew" surname="Shaw Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182908" sex="M" firstName="Jonathan" surname="Clark Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182909" sex="M" firstName="Mike" surname="Hamilton Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182910" previousSittingMember="*" sex="M" firstName="Michael" surname="Smith Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="54" name="Kilmarnock &amp; Irvine Valley" turnout="31858" percentageTurnout="50.36" winningParty="SNP" majority="5993" percentageMajority="18.81">
+      <Candidate paId="60688" firstName="Willie" surname="Coffey" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16964" percentageShare="53.25" />
+      </Candidate>
+      <Candidate paId="60820" firstName="Matt" surname="McLaughlin" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10971" percentageShare="34.44" />
+      </Candidate>
+      <Candidate paId="60509" firstName="Grant" surname="Fergusson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="3309" percentageShare="10.39" />
+      </Candidate>
+      <Candidate paId="71041" firstName="Robbie" surname="Simpson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="614" percentageShare="1.93" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

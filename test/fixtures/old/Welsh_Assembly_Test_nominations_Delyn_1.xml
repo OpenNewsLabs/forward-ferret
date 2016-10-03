@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="19" name="Delyn" electorate="53996">
+      <Candidate paId="181783" sex="M" firstName="Richard" surname="Bennett Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181784" sex="M" firstName="Daniel" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181785" sex="M" firstName="Frank" surname="Robinson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181786" sex="M" firstName="Donald" surname="Miller Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181787" sex="M" firstName="Nigel" surname="MacDonald Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="19" name="Delyn" turnout="23194" percentageTurnout="42.96" winningParty="Lab" majority="2881" percentageMajority="12.42">
+      <Candidate paId="60982" firstName="Sandy" surname="Mewies" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="10695" percentageShare="46.11" />
+      </Candidate>
+      <Candidate paId="60484" firstName="Matt" surname="Wright" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="7814" percentageShare="33.69" />
+      </Candidate>
+      <Candidate paId="66521" firstName="Carrie" surname="Harper" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2918" percentageShare="12.58" />
+      </Candidate>
+      <Candidate paId="60939" firstName="Michele" surname="Jones" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1767" percentageShare="7.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

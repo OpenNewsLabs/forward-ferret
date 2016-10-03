@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="3" name="Brent &amp; Harrow" electorate="382881" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Conservative gain from Labour in Brent &amp; Harrow">
+      <Candidate elected="*" paId="181933" sex="M" firstName="Graham" surname="Smith Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181934" sex="M" firstName="John" surname="Davis Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181935" sex="M" firstName="Chris" surname="Begg Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181936" sex="M" firstName="Stephen" surname="Brown Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181937" sex="M" firstName="John" surname="Lloyd Test">
+        <Party paId="8605" name="Respect (George Galloway)" abbreviation="Respect GG" />
+      </Candidate>
+      <Candidate paId="181938" sex="M" firstName="David" surname="Miller Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

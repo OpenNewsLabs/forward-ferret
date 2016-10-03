@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="5" name="Aberdeenshire West" electorate="53779">
+      <Candidate paId="182696" sex="F" firstName="Diana" surname="Harvey Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182697" sex="M" firstName="Sean" surname="Phillips Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182698" sex="M" firstName="Tom" surname="Wilson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182699" previousSittingMember="*" sex="M" firstName="John" surname="Bradley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="5" name="Aberdeenshire West" turnout="28636" percentageTurnout="53.25" winningParty="SNP" majority="4112" percentageMajority="14.36">
+      <Candidate paId="60646" firstName="Dennis" surname="Robertson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="12186" percentageShare="42.55" />
+      </Candidate>
+      <Candidate paId="60765" firstName="Mike" surname="Rumbles" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="8074" percentageShare="28.20" />
+      </Candidate>
+      <Candidate paId="60422" firstName="Nanette" surname="Milne" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="6027" percentageShare="21.05" />
+      </Candidate>
+      <Candidate paId="60842" firstName="Jean" surname="Morrison" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="2349" percentageShare="8.20" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

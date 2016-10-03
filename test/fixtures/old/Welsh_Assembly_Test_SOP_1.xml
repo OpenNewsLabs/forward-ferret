@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="1" totalNumberOfConstituencies="40" totalVotes="43525">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W" />
+  <Parties>
+    <Party paId="8624" name="Labour" abbreviation="Lab" totalSeats="1" totalVotes="22709" percentageShare="52.17" percentageChange="+1.36" />
+    <Party paId="8626" name="Liberal Democrat" abbreviation="LD" totalVotes="6611" percentageShare="15.19" percentageChange="-3.84" />
+    <Party paId="8623" name="Conservative" abbreviation="C" totalVotes="5155" percentageShare="11.84" percentageChange="-11.28" />
+    <Party paId="8627" name="Plaid Cymru" abbreviation="PC" totalVotes="4022" percentageShare="9.24" percentageChange="+2.21" />
+    <Party paId="8628" name="Green" abbreviation="Green" totalVotes="3350" percentageShare="7.70" />
+    <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" totalVotes="1678" percentageShare="3.86" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="28" name="Newport East" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

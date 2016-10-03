@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Wakefield' paId='3146' type='Metro' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='16'/>
+        <Party name='C' paId='313' seats='3'/>
+        <Party name='Ind' paId='318' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+2'/>
+        <Party name='Ind' paId='318' change='+1'/>
+        <Party name='Lab' paId='314' change='-3'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='50'/>
+        <Party name='C' paId='313' seats='8'/>
+        <Party name='Ind' paId='318' seats='3'/>
+        <Party name='UKIP' paId='317' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

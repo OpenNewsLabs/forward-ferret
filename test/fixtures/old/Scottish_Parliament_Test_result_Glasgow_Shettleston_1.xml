@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:00:20+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="49" name="Glasgow Shettleston" electorate="55874" turnout="37416" percentageTurnout="66.96" percentageChangeTurnout="+29.02" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="7348" percentageMajority="19.64" percentageChangeMajority="+29.02" swing="13.19" swingTo="LD" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182889" sex="M" firstName="Michael" surname="Price Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="19689" percentageShare="52.62" percentageShareChange="+4.86" />
+      </Candidate>
+      <Candidate paId="182888" sex="M" firstName="Marc" surname="Muir Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="12341" percentageShare="32.98" percentageShareChange="+31.23" />
+      </Candidate>
+      <Candidate paId="182886" sex="M" firstName="Michael" surname="Campbell Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="3116" percentageShare="8.33" percentageShareChange="+2.84" />
+      </Candidate>
+      <Candidate paId="182887" sex="M" firstName="Joseph" surname="Fox Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1679" percentageShare="4.49" percentageShareChange="-40.51" />
+      </Candidate>
+      <Candidate paId="182890" sex="M" firstName="Mike" surname="Fox Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" votes="591" percentageShare="1.58" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="49" name="Glasgow Shettleston" turnout="21204" percentageTurnout="37.95" winningParty="SNP" majority="586" percentageMajority="2.76">
+      <Candidate paId="60683" firstName="John" surname="Mason" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10128" percentageShare="47.76" />
+      </Candidate>
+      <Candidate paId="60815" firstName="Frank" surname="McAveety" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9542" percentageShare="45.00" />
+      </Candidate>
+      <Candidate paId="60465" firstName="David" surname="Wilson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1163" percentageShare="5.48" />
+      </Candidate>
+      <Candidate paId="70735" firstName="Ruaraidh" surname="Dobson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="371" percentageShare="1.75" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:48:28+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="34" name="Swansea East" electorate="60246" turnout="41377" percentageTurnout="68.68" percentageChangeTurnout="+37.29" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="9239" percentageMajority="22.33" percentageChangeMajority="+37.29" swing="46.69" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181879" sex="F" firstName="Eleanor" surname="O'Donnell Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="22887" percentageShare="55.31" percentageShareChange="+40.75" />
+      </Candidate>
+      <Candidate paId="181881" sex="M" firstName="Christopher" surname="Bell Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="13648" percentageShare="32.98" percentageShareChange="+24.14" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181880" sex="M" firstName="Stephen" surname="Randall Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="2365" percentageShare="5.72" percentageShareChange="-52.64" />
+      </Candidate>
+      <Candidate paId="181882" sex="M" firstName="Rob" surname="Green Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="1195" percentageShare="2.89" percentageShareChange="-9.52" />
+      </Candidate>
+      <Candidate paId="181883" sex="M" firstName="Alan" surname="Brown Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="777" percentageShare="1.88" />
+      </Candidate>
+      <Candidate paId="181884" sex="M" firstName="Michael" surname="Johnson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="505" percentageShare="1.22" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="34" name="Swansea East" turnout="18910" percentageTurnout="31.39" winningParty="Lab" majority="8281" percentageMajority="43.79">
+      <Candidate paId="60459" firstName="Mike" surname="Hedges" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11035" percentageShare="58.36" />
+      </Candidate>
+      <Candidate paId="66518" firstName="Daniel" surname="Boucher" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2754" percentageShare="14.56" />
+      </Candidate>
+      <Candidate paId="60887" firstName="Dic" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2346" percentageShare="12.41" />
+      </Candidate>
+      <Candidate paId="70777" firstName="Sam" surname="Samuel" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1673" percentageShare="8.85" />
+      </Candidate>
+      <Candidate paId="71312" firstName="Joanne" surname="Shannon" sex="F">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="1102" percentageShare="5.83" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

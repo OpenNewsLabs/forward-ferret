@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="10" totalNumberOfConstituencies="73" totalVotes="336872">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="10" gains="1" totalVotes="174353" percentageShare="51.76" percentageChange="+3.67" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalVotes="74497" percentageShare="22.11" percentageChange="+8.80" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" losses="1" totalVotes="47923" percentageShare="14.23" percentageChange="-13.89" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalVotes="38555" percentageShare="11.44" percentageChange="+2.15" />
+    <Party paId="8448" name="Green" abbreviation="Green" totalVotes="718" percentageShare="0.21" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="826" percentageShare="0.25" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="2" name="Aberdeen Donside" />
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" />
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" />
+    <Constituency number="16" name="Clydebank &amp; Milngavie" />
+    <Constituency number="18" name="Coatbridge &amp; Chryston" />
+    <Constituency number="27" name="Dunfermline" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="64" name="Perthshire North" />
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="105" name="Scotland Mid &amp; Fife" electorate="494779">
+      <Candidate elected="*" previousSittingMember="*" paId="183260" sex="M" firstName="Peter" surname="Harper Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183261" sex="M" firstName="Mohammed" surname="Jackson Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183269" sex="M" firstName="David" surname="Kemp Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183289" sex="M" firstName="Jimmy" surname="Cole Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="183301" sex="M" firstName="Nigel" surname="Miller Test" partyListRank="1">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="183302" sex="M" firstName="Mark" surname="Jackson Test" partyListRank="2">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="183316" sex="M" firstName="Ken" surname="Lewis Test" partyListRank="1">
+        <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</TopUpRush>
+

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:13:00+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="9" name="Cardiff Central" electorate="64347" turnout="40594" percentageTurnout="63.09" percentageChangeTurnout="+26.37" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="6849" percentageMajority="16.87" percentageChangeMajority="+26.37" swing="8.36" swingTo="Lab" swingFrom="LD">
+      <Candidate elected="*" previousSittingMember="*" paId="181719" sex="M" firstName="Gordon" surname="Davies Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="15436" percentageShare="38.03" percentageShareChange="+0.13" />
+      </Candidate>
+      <Candidate paId="181720" sex="M" firstName="George" surname="Bennett Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="8587" percentageShare="21.15" percentageShareChange="-16.58" />
+      </Candidate>
+      <Candidate paId="181718" sex="F" firstName="Jacqui" surname="Taylor Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="7845" percentageShare="19.33" percentageShareChange="+4.26" />
+      </Candidate>
+      <Candidate paId="181721" sex="M" firstName="Bill" surname="Henderson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="4598" percentageShare="11.33" percentageShareChange="+4.17" />
+      </Candidate>
+      <Candidate paId="181722" sex="M" firstName="Michael" surname="Hussain Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="2543" percentageShare="6.26" />
+      </Candidate>
+      <Candidate paId="181723" sex="M" firstName="Mark" surname="Taylor Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1009" percentageShare="2.49" />
+      </Candidate>
+      <Candidate paId="181724" sex="M" firstName="John" surname="Docherty Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="345" percentageShare="0.85" percentageShareChange="-1.30" />
+      </Candidate>
+      <Candidate paId="183514" sex="M" firstName="Bill" surname="Smith">
+        <Party paId="8771" name="Independent Bill Smith" abbreviation="Ind" votes="231" percentageShare="0.57" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="9" name="Cardiff Central" turnout="23628" percentageTurnout="36.72" winningParty="Lab" majority="38" percentageMajority="0.16">
+      <Candidate paId="60975" firstName="Jenny" surname="Rathbone" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8954" percentageShare="37.90" />
+      </Candidate>
+      <Candidate paId="60477" firstName="Nigel" surname="Howells" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="8916" percentageShare="37.73" />
+      </Candidate>
+      <Candidate paId="60749" firstName="Matt" surname="Smith" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3559" percentageShare="15.06" />
+      </Candidate>
+      <Candidate paId="66524" firstName="Chris" surname="Williams" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1690" percentageShare="7.15" />
+      </Candidate>
+      <Candidate paId="71310" firstName="Mathab" surname="Khan" sex="M">
+        <Party paId="5744" name="Independent" abbreviation="Ind" votes="509" percentageShare="2.15" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

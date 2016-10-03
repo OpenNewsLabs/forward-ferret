@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="6" totalNumberOfConstituencies="14" totalVotes="1431747">
+  <Election name="London Assembly Test" date="2016-05-04" type="L" />
+  <Parties>
+    <Party paId="8568" name="Conservative" abbreviation="C" totalSeats="3" gains="1" losses="1" totalVotes="570247" percentageShare="39.83" percentageChange="+3.70" />
+    <Party paId="8569" name="Labour" abbreviation="Lab" totalSeats="2" gains="1" losses="2" totalVotes="486521" percentageShare="33.98" percentageChange="-4.34" />
+    <Party paId="8570" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="219359" percentageShare="15.32" percentageChange="+4.85" />
+    <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" totalVotes="67602" percentageShare="4.72" percentageChange="+0.29" />
+    <Party paId="8571" name="Green" abbreviation="Green" totalVotes="61747" percentageShare="4.31" percentageChange="-3.97" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="26271" percentageShare="1.83" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="5" name="Croydon &amp; Sutton" />
+    <Constituency number="6" name="Ealing &amp; Hillingdon" />
+    <Constituency number="7" name="Enfield &amp; Haringey" />
+    <Constituency number="8" name="Greenwich &amp; Lewisham" />
+    <Constituency number="13" name="South West" />
+    <Constituency number="14" name="West Central" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

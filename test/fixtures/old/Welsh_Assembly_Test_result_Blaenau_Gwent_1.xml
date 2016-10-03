@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:49:12+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="5" name="Blaenau Gwent" electorate="53230" turnout="36784" percentageTurnout="69.10" percentageChangeTurnout="+31.13" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="11761" percentageMajority="31.97" percentageChangeMajority="+31.13" swing="13.27" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181696" sex="M" firstName="Ken" surname="Lloyd Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="21064" percentageShare="57.26" percentageShareChange="-6.69" />
+      </Candidate>
+      <Candidate paId="181698" sex="M" firstName="Ian" surname="Jones Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="9303" percentageShare="25.29" percentageShareChange="+19.86" />
+      </Candidate>
+      <Candidate paId="181697" sex="M" firstName="James" surname="King Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="4041" percentageShare="10.99" percentageShareChange="+9.17" />
+      </Candidate>
+      <Candidate paId="181695" sex="M" firstName="Paul" surname="Fletcher Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="1440" percentageShare="3.91" percentageShareChange="-1.36" />
+      </Candidate>
+      <Candidate paId="181699" sex="M" firstName="Andrew" surname="Scott Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="936" percentageShare="2.54" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="5" name="Blaenau Gwent" turnout="20211" percentageTurnout="37.97" winningParty="Lab" majority="9120" percentageMajority="45.12">
+      <Candidate paId="60971" firstName="Alun" surname="Davies" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12926" percentageShare="63.96" />
+      </Candidate>
+      <Candidate paId="71316" firstName="Jayne" surname="Sullivan" sex="F">
+        <Party paId="5744" name="Independent" abbreviation="Ind" votes="3806" percentageShare="18.83" />
+      </Candidate>
+      <Candidate paId="60884" firstName="Darren" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1098" percentageShare="5.43" />
+      </Candidate>
+      <Candidate paId="71317" firstName="Bob" surname="Hayward" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="1066" percentageShare="5.27" />
+      </Candidate>
+      <Candidate paId="71315" firstName="Brian" surname="Urch" sex="M">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="948" percentageShare="4.69" />
+      </Candidate>
+      <Candidate paId="60933" firstName="Martin" surname="Blakebrough" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="367" percentageShare="1.82" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="2" name="Aberconwy" electorate="44978" gainOrHold="hold" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="false" paStyleMessageText="Conservative hold Aberconwy">
+      <Candidate elected="*" previousSittingMember="*" paId="181680" sex="M" firstName="Ray" surname="Harris Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181681" sex="M" firstName="Richard" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181682" sex="M" firstName="Donald" surname="Coleman Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181683" sex="M" firstName="Steve" surname="Gardner Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181684" sex="F" firstName="Hilary" surname="Roberts Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

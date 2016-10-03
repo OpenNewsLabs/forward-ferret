@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Southampton' paId='3164' type='Unitary' proportion='third' winningParty='C' gainOrHold='gain' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='11'/>
+        <Party name='Lab' paId='314' seats='3'/>
+        <Party name='Ind' paId='318' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+6'/>
+        <Party name='Ind' paId='318' change='+2'/>
+        <Party name='Lab' paId='314' change='-8'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='26'/>
+        <Party name='Lab' paId='314' seats='17'/>
+        <Party name='Ind' paId='318' seats='5'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

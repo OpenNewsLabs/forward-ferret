@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="20" name="Dwyfor Meirionnydd" electorate="44669">
+      <Candidate paId="181788" sex="M" firstName="Tony" surname="Hill Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181789" sex="F" firstName="Elizabeth" surname="Turner Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181790" sex="M" firstName="Philip" surname="Hussain Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181791" previousSittingMember="*" sex="M" firstName="Michael" surname="Ward Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181792" sex="M" firstName="Julian" surname="Smith Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181794" sex="M" firstName="Danny" surname="Peacock Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181793" sex="M" firstName="Rob" surname="Bennett Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="20" name="Dwyfor Meirionnydd" turnout="20743" percentageTurnout="46.44" winningParty="PC" majority="5417" percentageMajority="26.11">
+      <Candidate paId="60881" firstName="Dafydd" surname="Elis-Thomas" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="9656" percentageShare="46.55" />
+      </Candidate>
+      <Candidate paId="66512" firstName="Simon" surname="Baynes" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="4239" percentageShare="20.44" />
+      </Candidate>
+      <Candidate paId="71181" firstName="Louise" surname="Hughes" sex="F">
+        <Party paId="5770" name="Voice of Gwynedd" abbreviation="Gwynedd" votes="3225" percentageShare="15.55" />
+      </Candidate>
+      <Candidate paId="66527" firstName="Martyn" surname="Singleton" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="2623" percentageShare="12.65" />
+      </Candidate>
+      <Candidate paId="60940" firstName="Steve" surname="Churchman" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1000" percentageShare="4.82" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

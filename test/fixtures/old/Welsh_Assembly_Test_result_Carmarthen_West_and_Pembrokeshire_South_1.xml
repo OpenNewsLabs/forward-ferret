@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:18:05+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" electorate="58435" turnout="38914" percentageTurnout="66.59" percentageChangeTurnout="+18.41" winningParty="PC" gainOrHold="gain" sittingParty="C" majority="2102" percentageMajority="5.40" percentageChangeMajority="+18.41" swing="15.09" swingTo="PC" swingFrom="C">
+      <Candidate elected="*" previousSittingMember="+" paId="181755" sex="M" firstName="Andrew" surname="McCartney Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="13680" percentageShare="35.15" percentageShareChange="+5.42" />
+      </Candidate>
+      <Candidate paId="181753" sex="M" firstName="Ken" surname="Martin Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="11578" percentageShare="29.75" percentageShareChange="-0.76" />
+      </Candidate>
+      <Candidate paId="181754" sex="M" firstName="John" surname="Stevenson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="5609" percentageShare="14.41" percentageShareChange="+10.52" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181752" sex="M" firstName="James" surname="Knight Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="4312" percentageShare="11.08" percentageShareChange="-24.77" />
+      </Candidate>
+      <Candidate paId="181756" sex="M" firstName="Robert" surname="Hutton Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="2378" percentageShare="6.11" />
+      </Candidate>
+      <Candidate paId="181757" sex="M" firstName="Christopher" surname="Ball Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1001" percentageShare="2.57" />
+      </Candidate>
+      <Candidate paId="181758" sex="M" firstName="Michael" surname="Jones Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="356" percentageShare="0.91" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" turnout="28156" percentageTurnout="48.18" winningParty="C" majority="1504" percentageMajority="5.34">
+      <Candidate paId="60752" firstName="Angela" surname="Burns" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="10095" percentageShare="35.85" />
+      </Candidate>
+      <Candidate paId="60978" firstName="Christine" surname="Gwyther" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8591" percentageShare="30.51" />
+      </Candidate>
+      <Candidate paId="60521" firstName="Nerys" surname="Evans" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="8373" percentageShare="29.74" />
+      </Candidate>
+      <Candidate paId="60574" firstName="Selwyn" surname="Runnett" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1097" percentageShare="3.90" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

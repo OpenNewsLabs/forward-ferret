@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:59:20+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="39" name="Falkirk West" electorate="55739" turnout="36489" percentageTurnout="65.46" percentageChangeTurnout="+14.87" winningParty="Lab" gainOrHold="gain" sittingParty="SNP" majority="1136" percentageMajority="3.11" percentageChangeMajority="+14.87" swing="11.74" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" paId="182842" sex="M" firstName="Tony" surname="Weiss Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="17115" percentageShare="46.90" percentageShareChange="+11.93" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182844" sex="M" firstName="Michael" surname="Foster Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="15979" percentageShare="43.79" percentageShareChange="-11.55" />
+      </Candidate>
+      <Candidate paId="182841" sex="M" firstName="Robert" surname="Clarke Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2407" percentageShare="6.60" percentageShareChange="-0.80" />
+      </Candidate>
+      <Candidate paId="182843" sex="M" firstName="John" surname="Evans Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="988" percentageShare="2.71" percentageShareChange="+0.42" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="39" name="Falkirk West" turnout="28199" percentageTurnout="50.59" winningParty="SNP" majority="5745" percentageMajority="20.37">
+      <Candidate paId="60677" firstName="Michael" surname="Matheson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="15607" percentageShare="55.35" />
+      </Candidate>
+      <Candidate paId="60808" firstName="Dennis" surname="Goldie" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9862" percentageShare="34.97" />
+      </Candidate>
+      <Candidate paId="66481" firstName="Allan" surname="Finnie" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2086" percentageShare="7.40" />
+      </Candidate>
+      <Candidate paId="70733" firstName="Callum" surname="Chomczuk" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="644" percentageShare="2.28" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

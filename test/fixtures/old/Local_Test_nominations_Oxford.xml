@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Oxford' paId='3211' type='Non-Met' proportion='half'>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='8' seatsOffered='4' unopposedReturns='0' candidates='24'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='33' seatsOffered='16' unopposedReturns='0' candidates='24'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='6' seatsOffered='3' unopposedReturns='0' candidates='24'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='1' seatsOffered='1' unopposedReturns='0' candidates='7'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='24'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='2'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

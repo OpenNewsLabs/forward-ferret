@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="107" name="Scotland South" electorate="525784">
+      <Candidate elected="*" previousSittingMember="+" paId="183386" sex="M" firstName="Mark" surname="Walsh Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183387" sex="M" firstName="Nicholas" surname="Davis Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183388" sex="M" firstName="John" surname="Phillips Test" partyListRank="3">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183394" sex="M" firstName="Ian" surname="Wright Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183395" sex="F" firstName="Karen" surname="Lewis Test" partyListRank="2">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="183396" sex="M" firstName="Michael" surname="Lewis Test" partyListRank="3">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183412" sex="M" firstName="Bob" surname="Love Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</TopUpRush>
+

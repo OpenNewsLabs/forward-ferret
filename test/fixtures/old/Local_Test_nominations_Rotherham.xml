@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Rotherham' paId='3134' type='Metro' proportion='all'>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='3' seatsOffered='3' unopposedReturns='0' candidates='17'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='1' seatsOffered='1' unopposedReturns='0' candidates='23'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='47' seatsOffered='47' unopposedReturns='0' candidates='63'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='12' seatsOffered='12' unopposedReturns='0' candidates='41'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='13'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='5'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:36:14+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="24" name="Dumfriesshire" electorate="59716" turnout="35130" percentageTurnout="58.83" percentageChangeTurnout="+5.42" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="12158" percentageMajority="34.61" percentageChangeMajority="+5.42" swing="27.92" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="182779" sex="M" firstName="John" surname="Kerr Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="19920" percentageShare="56.70" percentageShareChange="+30.42" />
+      </Candidate>
+      <Candidate paId="182778" sex="M" firstName="Robert" surname="Williams Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="7762" percentageShare="22.10" percentageShareChange="+17.65" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182777" sex="M" firstName="Peter" surname="Lawrence Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="4975" percentageShare="14.16" percentageShareChange="-25.42" />
+      </Candidate>
+      <Candidate paId="182776" sex="M" firstName="Nick" surname="Murphy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2473" percentageShare="7.04" percentageShareChange="-22.65" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="24" name="Dumfriesshire" turnout="31895" percentageTurnout="53.41" winningParty="Lab" majority="3156" percentageMajority="9.89">
+      <Candidate paId="60795" firstName="Elaine" surname="Murray" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12624" percentageShare="39.58" />
+      </Candidate>
+      <Candidate paId="60428" firstName="Gillian" surname="Dykes" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="9468" percentageShare="29.68" />
+      </Candidate>
+      <Candidate paId="60664" firstName="Aileen" surname="Orr" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="8384" percentageShare="26.29" />
+      </Candidate>
+      <Candidate paId="70732" firstName="Richard" surname="Brodie" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1419" percentageShare="4.45" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

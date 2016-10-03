@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='South Lakeland' paId='3223' type='Non-Met' proportion='third' winningParty='LD' gainOrHold='no change' sittingParty='LD'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='8'/>
+        <Party name='LD' paId='315' seats='4'/>
+        <Party name='Ind' paId='318' seats='3'/>
+        <Party name='Lab' paId='314' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='Ind' paId='318' change='+3'/>
+        <Party name='C' paId='313' change='+2'/>
+        <Party name='LD' paId='315' change='-4'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='LD' paId='315' seats='28'/>
+        <Party name='C' paId='313' seats='17'/>
+        <Party name='Ind' paId='318' seats='4'/>
+        <Party name='Lab' paId='314' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Stockport' paId='3142' type='Metro' proportion='third'>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='13' seatsOffered='2' unopposedReturns='0' candidates='21'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='21' seatsOffered='7' unopposedReturns='0' candidates='21'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='24' seatsOffered='11' unopposedReturns='0' candidates='20'/>
+      <Party name='Ratepayers or Residents' abbreviation='R' paId='320' seatsHeld='5' seatsOffered='1' unopposedReturns='0' candidates='1'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='21'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='17'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

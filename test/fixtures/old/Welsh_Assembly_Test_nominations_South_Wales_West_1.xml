@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="103" name="South Wales West" electorate="407333">
+      <Candidate paId="181495" previousSittingMember="*" sex="M" firstName="Alan" surname="Dhillon Test" partyListRank="1">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181496" previousSittingMember="*" sex="M" firstName="Roger" surname="Jones Test" partyListRank="2">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181497" sex="F" firstName="Charlotte" surname="Davies Test" partyListRank="3">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181498" sex="M" firstName="David" surname="Wood Test" partyListRank="4">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181499" sex="M" firstName="Thomas" surname="Morgan Test" partyListRank="5">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181500" sex="M" firstName="Christopher" surname="Phillips Test" partyListRank="6">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181501" sex="M" firstName="Jonathan" surname="Burns Test" partyListRank="7">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="181502" sex="M" firstName="Michael" surname="Simpson Test" partyListRank="1">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="181503" sex="M" firstName="Neil" surname="Miller Test" partyListRank="2">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="181504" sex="M" firstName="Michael" surname="Gardner Test" partyListRank="3">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="181505" sex="M" firstName="Tim" surname="Cooke Test" partyListRank="4">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="181506" previousSittingMember="*" sex="F" firstName="Caroline" surname="Thompson Test" partyListRank="1">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181507" sex="M" firstName="Kevin" surname="Bell Test" partyListRank="2">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181508" sex="M" firstName="William" surname="Ball Test" partyListRank="3">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181509" sex="F" firstName="Margaret" surname="Stewart Test" partyListRank="4">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181510" sex="M" firstName="Joseph" surname="Lee Test" partyListRank="5">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181511" sex="F" firstName="Linda" surname="Lewis Test" partyListRank="6">
+        <Party paId="8626" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="181512" previousSittingMember="*" sex="F" firstName="Monica" surname="Clark Test" partyListRank="1">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181513" sex="M" firstName="Mark" surname="Stuart Test" partyListRank="2">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181514" sex="M" firstName="Neil" surname="Fletcher Test" partyListRank="3">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181515" sex="M" firstName="Alan" surname="Taylor Test" partyListRank="4">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181516" sex="M" firstName="Chris" surname="Green Test" partyListRank="5">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181517" sex="M" firstName="Hugh" surname="Rule Test" partyListRank="6">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181518" sex="M" firstName="Malcolm" surname="Jones Test" partyListRank="7">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181519" sex="M" firstName="Simon" surname="Miller Test" partyListRank="8">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181520" sex="M" firstName="Stephen" surname="White Test" partyListRank="9">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181521" sex="M" firstName="Richard" surname="Johnson Test" partyListRank="10">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181522" sex="M" firstName="Graham" surname="Jones Test" partyListRank="11">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181523" sex="M" firstName="Mark" surname="Walsh Test" partyListRank="12">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate paId="181524" sex="M" firstName="Robert" surname="Thornton Test" partyListRank="1">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="181525" sex="M" firstName="John" surname="Walker Test" partyListRank="2">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="181526" sex="M" firstName="Keith" surname="Hussain Test" partyListRank="3">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="181527" sex="M" firstName="Neil" surname="Shaw Test" partyListRank="4">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="181528" sex="M" firstName="Robert" surname="Martin Test" partyListRank="5">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="181544" sex="M" firstName="John" surname="Jones Test" partyListRank="1">
+        <Party paId="8766" abbreviation="Abolish" name="Abolish the Welsh Assembly Party" />
+      </Candidate>
+      <Candidate paId="181545" sex="M" firstName="John" surname="Robinson Test" partyListRank="2">
+        <Party paId="8766" abbreviation="Abolish" name="Abolish the Welsh Assembly Party" />
+      </Candidate>
+      <Candidate paId="181546" sex="M" firstName="David" surname="Smith Test" partyListRank="3">
+        <Party paId="8766" abbreviation="Abolish" name="Abolish the Welsh Assembly Party" />
+      </Candidate>
+      <Candidate paId="181547" sex="M" firstName="Peter" surname="Murray Test" partyListRank="4">
+        <Party paId="8766" abbreviation="Abolish" name="Abolish the Welsh Assembly Party" />
+      </Candidate>
+      <Candidate paId="181529" sex="F" firstName="Pamela" surname="Martin Test" partyListRank="1">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181530" sex="M" firstName="Gareth" surname="Thomas Test" partyListRank="2">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181531" sex="F" firstName="Patricia" surname="Cooper Test" partyListRank="3">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181532" sex="M" firstName="Vincent" surname="Cole Test" partyListRank="4">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181533" sex="M" firstName="Patrick" surname="Wallace Test" partyListRank="5">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181534" sex="M" firstName="Simon" surname="Watson Test" partyListRank="6">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181535" sex="M" firstName="Nigel" surname="Roberts Test" partyListRank="7">
+        <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" />
+      </Candidate>
+      <Candidate paId="181548" sex="M" firstName="Philip" surname="Singh Test" partyListRank="1">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181549" sex="M" firstName="Gordon" surname="Taylor Test" partyListRank="2">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181550" sex="M" firstName="Dave" surname="Berry Test" partyListRank="3">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181551" sex="M" firstName="Robert" surname="Watson Test" partyListRank="4">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181552" sex="M" firstName="Peter" surname="Turner Test" partyListRank="5">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181553" sex="M" firstName="Richard" surname="Jones Test" partyListRank="6">
+        <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" />
+      </Candidate>
+      <Candidate paId="181536" sex="M" firstName="John" surname="Holmes Test" partyListRank="1">
+        <Party paId="8663" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="181537" sex="M" firstName="Clive" surname="Williams Test" partyListRank="2">
+        <Party paId="8663" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="181538" sex="M" firstName="Andrew" surname="Young Test" partyListRank="3">
+        <Party paId="8663" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="181539" sex="M" firstName="David" surname="Potter Test" partyListRank="4">
+        <Party paId="8663" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="181540" sex="F" firstName="Jacqui" surname="Chapman Test" partyListRank="1">
+        <Party paId="8667" abbreviation="Welsh Comm" name="Welsh Communist Party" />
+      </Candidate>
+      <Candidate paId="181541" sex="M" firstName="Richard" surname="Jones Test" partyListRank="2">
+        <Party paId="8667" abbreviation="Welsh Comm" name="Welsh Communist Party" />
+      </Candidate>
+      <Candidate paId="181542" sex="M" firstName="Michael" surname="Hope Test" partyListRank="3">
+        <Party paId="8667" abbreviation="Welsh Comm" name="Welsh Communist Party" />
+      </Candidate>
+      <Candidate paId="181543" sex="M" firstName="Robert" surname="Browne Test" partyListRank="4">
+        <Party paId="8667" abbreviation="Welsh Comm" name="Welsh Communist Party" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly Test" date="2011-05-05" type="W">
+    <Constituency number="103" name="South Wales West" turnout="154381" percentageTurnout="37.90" winningParty="Lab" majority="44309" percentageMajority="28.70">
+      <Candidate elected="*" paId="60517" firstName="Suzy" surname="Davies" sex="F">
+        <Party paId="5731" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60518" firstName="Byron" surname="Davies" sex="M">
+        <Party paId="5731" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60964" firstName="Peter" surname="Black" sex="M">
+        <Party paId="5734" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="60923" firstName="Bethan" surname="Jenkins" sex="F">
+        <Party paId="5735" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Party paId="5732" abbreviation="Lab" name="Labour" votes="71766" percentageShare="46.49" />
+      <Party paId="5731" abbreviation="C" name="Conservative" votes="27457" percentageShare="17.79" candidatesElected="2" />
+      <Party paId="5735" abbreviation="PC" name="Plaid Cymru" votes="21258" percentageShare="13.77" candidatesElected="1" />
+      <Party paId="5734" abbreviation="LD" name="Liberal Democrat" votes="10683" percentageShare="6.92" candidatesElected="1" />
+      <Party paId="5765" abbreviation="UKIP" name="UK Independence Party" votes="6619" percentageShare="4.29" />
+      <Party paId="5763" abbreviation="Soc Lab" name="Socialist Labour Party" votes="5057" percentageShare="3.28" />
+      <Party paId="5738" abbreviation="BNP" name="British National Party" votes="4714" percentageShare="3.05" />
+      <Party paId="5736" abbreviation="Green" name="Green" votes="3952" percentageShare="2.56" />
+      <Party paId="5768" abbreviation="CPW" name="Christian Party (Wales)" votes="1602" percentageShare="1.04" />
+      <Party paId="6185" abbreviation="TUSAC" name="Trade Unionists and Socialists Against Cuts" votes="809" percentageShare="0.52" />
+      <Party paId="6170" abbreviation="Welsh Comm" name="Welsh Communist Party" votes="464" percentageShare="0.30" />
+    </Constituency>
+  </PreviousElection>
+</TopUpNominations>
+

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="2">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="1" name="Barnet &amp; Camden" electorate="385774" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Correction: Conservative gain from Labour in Barnet &amp; Camden">
+      <Candidate elected="*" paId="181922" sex="M" firstName="Stephen" surname="Williams Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181923" sex="M" firstName="Michael" surname="Booth Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181924" sex="F" firstName="Julia" surname="Stewart Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181925" sex="M" firstName="Terry" surname="Skinner Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181926" sex="M" firstName="Ian" surname="Bell Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

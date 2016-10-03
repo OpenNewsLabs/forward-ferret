@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="24" name="Dumfriesshire" electorate="59716">
+      <Candidate paId="182776" sex="M" firstName="Nick" surname="Murphy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182777" previousSittingMember="*" sex="M" firstName="Peter" surname="Lawrence Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182778" sex="M" firstName="Robert" surname="Williams Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182779" previousSittingMember="+" sex="M" firstName="John" surname="Kerr Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="24" name="Dumfriesshire" turnout="31895" percentageTurnout="53.41" winningParty="Lab" majority="3156" percentageMajority="9.89">
+      <Candidate paId="60795" firstName="Elaine" surname="Murray" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12624" percentageShare="39.58" />
+      </Candidate>
+      <Candidate paId="60428" firstName="Gillian" surname="Dykes" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="9468" percentageShare="29.68" />
+      </Candidate>
+      <Candidate paId="60664" firstName="Aileen" surname="Orr" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="8384" percentageShare="26.29" />
+      </Candidate>
+      <Candidate paId="70732" firstName="Richard" surname="Brodie" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1419" percentageShare="4.45" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

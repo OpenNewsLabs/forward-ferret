@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="52" name="Hamilton, Larkhall &amp; Stonehouse" electorate="56123">
+      <Candidate paId="182899" previousSittingMember="+" sex="M" firstName="Peter" surname="Johnson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182900" previousSittingMember="+" sex="M" firstName="Peter" surname="Flynn Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182901" sex="F" firstName="Jean" surname="Holden Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182902" previousSittingMember="*" sex="M" firstName="Marcus" surname="Williams Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="52" name="Hamilton, Larkhall &amp; Stonehouse" turnout="25354" percentageTurnout="45.18" winningParty="SNP" majority="2213" percentageMajority="8.73">
+      <Candidate paId="60686" firstName="Christina" surname="McKelvie" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="12202" percentageShare="48.13" />
+      </Candidate>
+      <Candidate paId="60470" firstName="Tom" surname="McCabe" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9989" percentageShare="39.40" />
+      </Candidate>
+      <Candidate paId="60508" firstName="Margaret" surname="Mitchell" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2547" percentageShare="10.05" />
+      </Candidate>
+      <Candidate paId="70873" firstName="Ewan" surname="Hoyle" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="616" percentageShare="2.43" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

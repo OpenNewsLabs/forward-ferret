@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T18:28:46+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="240" name="Peterborough" electorate="132822">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="76208" percentageTurnout="57.38" winningAnswerText="Leave the EU" majority="17354" percentageMajority="22.77">
+        <Answer winning="false" text="Remain a member of the EU" shortText="Remain Test" votes="29427" percentageShare="38.61" />
+        <Answer winning="true" text="Leave the EU" shortText="Leave Test" votes="46781" percentageShare="61.39" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

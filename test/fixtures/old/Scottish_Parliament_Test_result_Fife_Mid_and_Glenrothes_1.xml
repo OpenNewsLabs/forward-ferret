@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:13:49+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" electorate="53701" turnout="27677" percentageTurnout="51.54" percentageChangeTurnout="+2.54" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="4750" percentageMajority="17.16" percentageChangeMajority="+2.54" swing="0.62" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" paId="182848" sex="M" firstName="Michael" surname="Jones Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="12182" percentageShare="44.01" percentageShareChange="-8.28" />
+      </Candidate>
+      <Candidate paId="182846" sex="M" firstName="William" surname="Campbell Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="7432" percentageShare="26.85" percentageShareChange="-9.53" />
+      </Candidate>
+      <Candidate paId="182847" sex="M" firstName="Mick" surname="Waller Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="6462" percentageShare="23.35" percentageShareChange="+20.95" />
+      </Candidate>
+      <Candidate paId="182845" sex="M" firstName="Ian" surname="Griffiths Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1601" percentageShare="5.78" percentageShareChange="-0.58" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" turnout="26313" percentageTurnout="49.00" winningParty="SNP" majority="4188" percentageMajority="15.92">
+      <Candidate paId="60691" firstName="Tricia" surname="Marwick" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13761" percentageShare="52.30" />
+      </Candidate>
+      <Candidate paId="60823" firstName="Claire" surname="Baker" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9573" percentageShare="36.38" />
+      </Candidate>
+      <Candidate paId="60511" firstName="Allan" surname="Smith" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1676" percentageShare="6.37" />
+      </Candidate>
+      <Candidate paId="71095" firstName="Jim" surname="Parker" sex="M">
+        <Party paId="6176" name="All Scotland Pensioners Party" abbreviation="Pensioners" votes="673" percentageShare="2.56" />
+      </Candidate>
+      <Candidate paId="60548" firstName="Callum" surname="Leslie" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="630" percentageShare="2.39" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="13" name="South West" electorate="435715">
+      <Candidate paId="181997" sex="M" firstName="Michael" surname="Boyd Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181998" sex="F" firstName="Jo" surname="Marsh Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181999" sex="M" firstName="Mark" surname="Robertson Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182000" sex="M" firstName="Philip" surname="Smith Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="182001" sex="M" firstName="Leslie" surname="Hope Test">
+        <Party paId="8609" name="The Socialist Party (GB)" abbreviation="SPGB" />
+      </Candidate>
+      <Candidate paId="182002" sex="M" firstName="Michael" surname="Davies Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="13" name="South West" turnout="173562" percentageTurnout="39.52" winningParty="C" majority="19262" percentageMajority="11.10">
+      <Candidate paId="76003" firstName="Tony" surname="Arbour" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="69151" percentageShare="39.84" />
+      </Candidate>
+      <Candidate paId="76021" firstName="Lisa" surname="Homan" sex="F">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="49889" percentageShare="28.74" />
+      </Candidate>
+      <Candidate paId="84773" firstName="Munira" surname="Wilson" sex="F">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="28947" percentageShare="16.68" />
+      </Candidate>
+      <Candidate paId="80419" firstName="Daniel" surname="Goldsmith" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="17070" percentageShare="9.84" />
+      </Candidate>
+      <Candidate paId="80427" firstName="Jeff" surname="Bolter" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="8505" percentageShare="4.90" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="7" name="Enfield &amp; Haringey" electorate="375758" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Conservative gain from Labour in Enfield &amp; Haringey">
+      <Candidate elected="*" paId="181959" sex="M" firstName="Phillip" surname="Green Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181960" sex="M" firstName="Colin" surname="Cooper Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181961" sex="F" firstName="Joan" surname="Francis Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181962" sex="F" firstName="Jane" surname="Mitchell Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181964" sex="M" firstName="Gerry" surname="Roberts Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181963" sex="M" firstName="Andrew" surname="Singh Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

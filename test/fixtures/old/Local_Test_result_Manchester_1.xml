@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Manchester' paId='3129' type='Metro' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='32'/>
+      </ElectedCouncillors>
+      <Changes/>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='96'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

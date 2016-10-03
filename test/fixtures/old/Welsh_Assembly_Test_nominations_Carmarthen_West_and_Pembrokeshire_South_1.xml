@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" electorate="58435">
+      <Candidate paId="181752" previousSittingMember="*" sex="M" firstName="James" surname="Knight Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181753" sex="M" firstName="Ken" surname="Martin Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181754" sex="M" firstName="John" surname="Stevenson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181755" previousSittingMember="+" sex="M" firstName="Andrew" surname="McCartney Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181756" sex="M" firstName="Robert" surname="Hutton Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181758" sex="M" firstName="Michael" surname="Jones Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181757" sex="M" firstName="Christopher" surname="Ball Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" turnout="28156" percentageTurnout="48.18" winningParty="C" majority="1504" percentageMajority="5.34">
+      <Candidate paId="60752" firstName="Angela" surname="Burns" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="10095" percentageShare="35.85" />
+      </Candidate>
+      <Candidate paId="60978" firstName="Christine" surname="Gwyther" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8591" percentageShare="30.51" />
+      </Candidate>
+      <Candidate paId="60521" firstName="Nerys" surname="Evans" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="8373" percentageShare="29.74" />
+      </Candidate>
+      <Candidate paId="60574" firstName="Selwyn" surname="Runnett" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1097" percentageShare="3.90" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

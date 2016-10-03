@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="6" name="Brecon &amp; Radnorshire" electorate="53546" gainOrHold="gain" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="LD" sittingPartyName="Liberal Democrat" change="true" paStyleMessageText="Labour gain from Liberal Democrat in Brecon &amp; Radnorshire">
+      <Candidate paId="181700" sex="M" firstName="Jonathan" surname="Shaw Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181701" sex="M" firstName="Gerald" surname="Henderson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181702" sex="M" firstName="Chris" surname="Moffatt Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181703" sex="F" firstName="Jane" surname="Roberts Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181704" sex="F" firstName="Claire" surname="Clarke Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181705" sex="M" firstName="Jack" surname="Anderson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

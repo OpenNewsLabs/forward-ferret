@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:56:24+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="59" name="Moray" electorate="56215" turnout="39239" percentageTurnout="69.80" percentageChangeTurnout="+18.93" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2549" percentageMajority="6.50" percentageChangeMajority="+18.93" swing="15.89" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182930" sex="M" firstName="Clive" surname="Smith Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="19808" percentageShare="50.48" percentageShareChange="-8.33" />
+      </Candidate>
+      <Candidate paId="182927" sex="F" firstName="Celia" surname="Campbell Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="17259" percentageShare="43.98" percentageShareChange="+23.45" />
+      </Candidate>
+      <Candidate paId="182929" sex="M" firstName="Adrian" surname="Dixon Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="1708" percentageShare="4.35" percentageShareChange="-0.29" />
+      </Candidate>
+      <Candidate paId="182928" sex="M" firstName="Paul" surname="Stewart Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="464" percentageShare="1.18" percentageShareChange="-11.34" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="59" name="Moray" turnout="28596" percentageTurnout="50.87" winningParty="SNP" majority="10944" percentageMajority="38.27">
+      <Candidate paId="60694" firstName="Richard" surname="Lochhead" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16817" percentageShare="58.81" />
+      </Candidate>
+      <Candidate paId="60451" firstName="Douglas" surname="Ross" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="5873" percentageShare="20.54" />
+      </Candidate>
+      <Candidate paId="60826" firstName="Kieron" surname="Green" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3580" percentageShare="12.52" />
+      </Candidate>
+      <Candidate paId="60570" firstName="Jamie" surname="Paterson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1327" percentageShare="4.64" />
+      </Candidate>
+      <Candidate paId="70726" firstName="Donald" surname="Gatt" sex="M">
+        <Party paId="5729" name="UK Independence Party" abbreviation="UKIP" votes="999" percentageShare="3.49" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

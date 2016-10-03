@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:16:41+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="8" name="Caerphilly" electorate="62049" turnout="48217" percentageTurnout="77.71" percentageChangeTurnout="+36.50" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="17416" percentageMajority="36.12" percentageChangeMajority="+36.50" swing="35.96" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181712" sex="M" firstName="Jon" surname="Taylor Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="25494" percentageShare="52.87" percentageShareChange="+39.70" />
+      </Candidate>
+      <Candidate paId="181713" sex="M" firstName="Tony" surname="Jones Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="8078" percentageShare="16.75" percentageShareChange="-32.21" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="181715" sex="F" firstName="Isabel" surname="Newton Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="5860" percentageShare="12.15" percentageShareChange="-17.56" />
+      </Candidate>
+      <Candidate paId="181714" sex="M" firstName="Greg" surname="Hill Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="3809" percentageShare="7.90" percentageShareChange="+3.75" />
+      </Candidate>
+      <Candidate paId="181717" sex="M" firstName="Jeremy" surname="Lee Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="2500" percentageShare="5.18" />
+      </Candidate>
+      <Candidate paId="181716" sex="M" firstName="Charles" surname="Cunningham Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="2476" percentageShare="5.14" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="8" name="Caerphilly" turnout="25570" percentageTurnout="41.21" winningParty="Lab" majority="4924" percentageMajority="19.26">
+      <Candidate paId="60974" firstName="Jeff" surname="Cuthbert" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12521" percentageShare="48.97" />
+      </Candidate>
+      <Candidate paId="60522" firstName="Ron" surname="Davies" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="7597" percentageShare="29.71" />
+      </Candidate>
+      <Candidate paId="66508" firstName="Owen" surname="Meredith" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3368" percentageShare="13.17" />
+      </Candidate>
+      <Candidate paId="60935" firstName="Kay" surname="David" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1062" percentageShare="4.15" />
+      </Candidate>
+      <Candidate paId="71313" firstName="Anthony" surname="King" sex="M">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="1022" percentageShare="4.00" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

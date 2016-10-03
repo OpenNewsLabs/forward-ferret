@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="14" totalNumberOfConstituencies="14" totalVotes="3624755">
+  <Election name="London Assembly Test" date="2016-05-04" type="L" />
+  <Parties>
+    <Party paId="8569" name="Labour" abbreviation="Lab" totalSeats="5" gains="2" losses="5" totalVotes="1350262" percentageShare="37.25" percentageChange="-5.03" />
+    <Party paId="8568" name="Conservative" abbreviation="C" totalSeats="8" gains="4" losses="2" totalVotes="1318813" percentageShare="36.38" percentageChange="+3.67" />
+    <Party paId="8570" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="335621" percentageShare="9.26" percentageChange="+0.48" />
+    <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" totalVotes="277313" percentageShare="7.65" percentageChange="+3.31" />
+    <Party paId="8571" name="Green" abbreviation="Green" totalVotes="246608" percentageShare="6.80" percentageChange="-1.74" />
+    <Party paId="8579" name="Communist League" abbreviation="Comm L" totalVotes="10832" percentageShare="0.30" percentageChange="+0.25" />
+    <Party paId="8588" name="Independent" abbreviation="Ind" totalVotes="2691" percentageShare="0.07" percentageChange="-0.25" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="82615" percentageShare="2.28" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Barnet &amp; Camden" />
+    <Constituency number="2" name="Bexley &amp; Bromley" />
+    <Constituency number="3" name="Brent &amp; Harrow" />
+    <Constituency number="4" name="City &amp; East" />
+    <Constituency number="5" name="Croydon &amp; Sutton" />
+    <Constituency number="6" name="Ealing &amp; Hillingdon" />
+    <Constituency number="7" name="Enfield &amp; Haringey" />
+    <Constituency number="8" name="Greenwich &amp; Lewisham" />
+    <Constituency number="9" name="Havering &amp; Redbridge" />
+    <Constituency number="10" name="Lambeth &amp; Southwark" />
+    <Constituency number="11" name="Merton &amp; Wandsworth" />
+    <Constituency number="12" name="North East" />
+    <Constituency number="13" name="South West" />
+    <Constituency number="14" name="West Central" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

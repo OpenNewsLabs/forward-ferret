@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="15" name="Ceredigion" electorate="56983">
+      <Candidate paId="181759" sex="M" firstName="John" surname="Brennan Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181760" sex="M" firstName="John" surname="Clarke Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181761" sex="M" firstName="John" surname="Thomson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181762" previousSittingMember="*" sex="M" firstName="Adam" surname="Davies Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181763" sex="M" firstName="Doug" surname="Hunt Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181764" sex="M" firstName="David" surname="Morris Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="15" name="Ceredigion" turnout="29076" percentageTurnout="51.03" winningParty="PC" majority="1777" percentageMajority="6.11">
+      <Candidate paId="60889" firstName="Elin" surname="Jones" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="12020" percentageShare="41.34" />
+      </Candidate>
+      <Candidate paId="60936" firstName="Liz" surname="Evans" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="10243" percentageShare="35.23" />
+      </Candidate>
+      <Candidate paId="66510" firstName="Luke" surname="Evetts" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2755" percentageShare="9.48" />
+      </Candidate>
+      <Candidate paId="66526" firstName="Richard" surname="Boudier" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="2544" percentageShare="8.75" />
+      </Candidate>
+      <Candidate paId="66477" firstName="Chris" surname="Simpson" sex="M">
+        <Party paId="5736" name="Green" abbreviation="Green" votes="1514" percentageShare="5.21" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

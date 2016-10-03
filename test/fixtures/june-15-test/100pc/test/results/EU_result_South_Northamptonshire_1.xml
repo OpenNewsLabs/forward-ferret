@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T19:27:36+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="293" name="South Northamptonshire" electorate="69103">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="27856" percentageTurnout="40.31" winningAnswerText="Remain a member of the EU" majority="1974" percentageMajority="7.09">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="14915" percentageShare="53.54" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="12941" percentageShare="46.46" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

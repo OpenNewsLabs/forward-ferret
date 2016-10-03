@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Maidstone' paId='3205' type='Non-Met' proportion='third' winningParty='NOC' gainOrHold='no change' sittingParty='NOC'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='11'/>
+        <Party name='LD' paId='315' seats='3'/>
+        <Party name='Ind' paId='318' seats='3'/>
+        <Party name='Lab' paId='314' seats='1'/>
+        <Party name='UKIP' paId='317' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+2'/>
+        <Party name='UKIP' paId='317' change='+1'/>
+        <Party name='LD' paId='315' change='-3'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='27'/>
+        <Party name='LD' paId='315' seats='17'/>
+        <Party name='Ind' paId='318' seats='6'/>
+        <Party name='UKIP' paId='317' seats='3'/>
+        <Party name='Lab' paId='314' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

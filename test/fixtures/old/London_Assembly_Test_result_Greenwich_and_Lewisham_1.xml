@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:50:22+01:00">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="8" name="Greenwich &amp; Lewisham" electorate="365369" turnout="223427" percentageTurnout="61.15" percentageChangeTurnout="+24.53" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="881" percentageMajority="0.39" percentageChangeMajority="+24.53" swing="14.24" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181966" sex="M" firstName="Doug" surname="Taylor Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" votes="88416" percentageShare="39.57" percentageShareChange="-10.04" />
+      </Candidate>
+      <Candidate paId="181965" sex="M" firstName="David" surname="Harper Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" votes="87535" percentageShare="39.18" percentageShareChange="+18.44" />
+      </Candidate>
+      <Candidate paId="181967" sex="M" firstName="Michael" surname="Khan Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" votes="20454" percentageShare="9.15" percentageShareChange="+2.03" />
+      </Candidate>
+      <Candidate paId="181969" sex="M" firstName="Keith" surname="Williams Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" votes="13021" percentageShare="5.83" percentageShareChange="+2.04" />
+      </Candidate>
+      <Candidate paId="181968" sex="F" firstName="Julia" surname="Bell Test">
+        <Party paId="8571" name="Green" abbreviation="Green" votes="8789" percentageShare="3.93" percentageShareChange="-5.50" />
+      </Candidate>
+      <Candidate paId="181970" sex="F" firstName="Jane" surname="Flynn Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" votes="5212" percentageShare="2.33" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="8" name="Greenwich &amp; Lewisham" turnout="131752" percentageTurnout="36.62" winningParty="Lab" majority="38037" percentageMajority="28.87">
+      <Candidate paId="76017" firstName="Len" surname="Duvall" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="65366" percentageShare="49.61" />
+      </Candidate>
+      <Candidate paId="76004" firstName="Alex" surname="Wilson" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="27329" percentageShare="20.74" />
+      </Candidate>
+      <Candidate paId="80415" firstName="Roger" surname="Sedgley" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="12427" percentageShare="9.43" />
+      </Candidate>
+      <Candidate paId="84767" firstName="John" surname="Russell" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="9393" percentageShare="7.13" />
+      </Candidate>
+      <Candidate paId="84774" firstName="Barbara" surname="Raymond" sex="F">
+        <Party paId="6829" name="People Before Profit" abbreviation="PBP" votes="6873" percentageShare="5.22" />
+      </Candidate>
+      <Candidate paId="80426" firstName="Paul" surname="Oakley" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="4997" percentageShare="3.79" />
+      </Candidate>
+      <Candidate paId="84734" firstName="Roberta" surname="Woods" sex="F">
+        <Party paId="6427" name="British National Party" abbreviation="BNP" votes="3551" percentageShare="2.70" />
+      </Candidate>
+      <Candidate paId="84748" firstName="Tess" surname="Culnane" sex="F">
+        <Party paId="6446" name="National Front" abbreviation="NF" votes="1816" percentageShare="1.38" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

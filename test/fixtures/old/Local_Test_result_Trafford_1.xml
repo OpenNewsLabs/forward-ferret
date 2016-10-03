@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Trafford' paId='3145' type='Metro' proportion='third' winningParty='NOC' gainOrHold='lose to NOC' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='12'/>
+        <Party name='LD' paId='315' seats='5'/>
+        <Party name='C' paId='313' seats='2'/>
+        <Party name='Ind' paId='318' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='Lab' paId='314' change='+4'/>
+        <Party name='LD' paId='315' change='+3'/>
+        <Party name='Ind' paId='318' change='+1'/>
+        <Party name='C' paId='313' change='-8'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='29'/>
+        <Party name='C' paId='313' seats='26'/>
+        <Party name='LD' paId='315' seats='6'/>
+        <Party name='Ind' paId='318' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

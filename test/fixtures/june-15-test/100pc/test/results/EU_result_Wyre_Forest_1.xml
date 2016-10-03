@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T19:15:54+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="381" name="Wyre Forest" electorate="76072">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="40894" percentageTurnout="53.76" winningAnswerText="Remain a member of the EU" majority="3590" percentageMajority="8.78">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="22242" percentageShare="54.39" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="18652" percentageShare="45.61" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

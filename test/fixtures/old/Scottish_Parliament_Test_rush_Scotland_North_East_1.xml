@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="106" name="Scotland North East" electorate="548238">
+      <Candidate elected="*" previousSittingMember="*" paId="183324" sex="M" firstName="Sean" surname="Hall Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183325" sex="M" firstName="Roger" surname="Smith Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="183326" sex="F" firstName="Marilyn" surname="Edwards Test" partyListRank="3">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183334" sex="M" firstName="Neil" surname="Holmes Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="183344" sex="M" firstName="Brian" surname="Rogers Test" partyListRank="1">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183345" sex="M" firstName="Charles" surname="Lord Test" partyListRank="2">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="183351" sex="M" firstName="Michael" surname="Martin Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</TopUpRush>
+

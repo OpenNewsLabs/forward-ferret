@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Ipswich' paId='3203' type='Non-Met' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='10'/>
+        <Party name='C' paId='313' seats='5'/>
+        <Party name='LD' paId='315' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+1'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='30'/>
+        <Party name='C' paId='313' seats='16'/>
+        <Party name='LD' paId='315' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumRecount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumRecount.xsd" revision="1">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="23" name="Bexley" recount="1" />
+  </Referendum>
+</ReferendumRecount>
+

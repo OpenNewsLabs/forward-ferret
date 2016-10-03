@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:21:33+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="33" name="Rhondda" electorate="52532" turnout="28282" percentageTurnout="53.84" percentageChangeTurnout="+15.71" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="2589" percentageMajority="9.15" percentageChangeMajority="+15.71" swing="33.74" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181873" sex="F" firstName="Jill" surname="White Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="13874" percentageShare="49.06" percentageShareChange="+44.22" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181874" sex="M" firstName="Ian" surname="Harris Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="11285" percentageShare="39.90" percentageShareChange="-23.26" />
+      </Candidate>
+      <Candidate paId="181875" sex="M" firstName="Jon" surname="Miller Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="1149" percentageShare="4.06" percentageShareChange="+1.58" />
+      </Candidate>
+      <Candidate paId="181877" sex="M" firstName="John" surname="Harvey Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="747" percentageShare="2.64" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="181876" sex="M" firstName="Ian" surname="Bradley Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="742" percentageShare="2.62" percentageShareChange="-26.89" />
+      </Candidate>
+      <Candidate paId="181878" sex="M" firstName="Simon" surname="Gibson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="485" percentageShare="1.71" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="33" name="Rhondda" turnout="20027" percentageTurnout="38.12" winningParty="Lab" majority="6739" percentageMajority="33.65">
+      <Candidate paId="60989" firstName="Leighton" surname="Andrews" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12650" percentageShare="63.16" />
+      </Candidate>
+      <Candidate paId="60491" firstName="Sera" surname="Evans-Fear" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="5911" percentageShare="29.52" />
+      </Candidate>
+      <Candidate paId="70762" firstName="James" surname="Jeffreys" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="969" percentageShare="4.84" />
+      </Candidate>
+      <Candidate paId="60943" firstName="George" surname="Summers" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="497" percentageShare="2.48" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

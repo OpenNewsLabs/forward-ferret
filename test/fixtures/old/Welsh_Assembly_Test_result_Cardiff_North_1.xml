@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:14:12+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="10" name="Cardiff North" electorate="66934" turnout="44907" percentageTurnout="67.09" percentageChangeTurnout="+15.65" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="8647" percentageMajority="19.26" percentageChangeMajority="+15.65" swing="11.85" swingTo="LD" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181726" sex="M" firstName="John" surname="Jackson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="17745" percentageShare="39.51" percentageShareChange="-8.07" />
+      </Candidate>
+      <Candidate paId="181727" sex="M" firstName="Charles" surname="Walker Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="9098" percentageShare="20.26" percentageShareChange="+15.63" />
+      </Candidate>
+      <Candidate paId="181725" sex="M" firstName="David" surname="Fletcher Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="7065" percentageShare="15.73" percentageShareChange="-26.68" />
+      </Candidate>
+      <Candidate paId="181729" sex="M" firstName="John" surname="O'Brien Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="4634" percentageShare="10.32" />
+      </Candidate>
+      <Candidate paId="181728" sex="M" firstName="Harry" surname="Green Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="3008" percentageShare="6.70" percentageShareChange="+1.33" />
+      </Candidate>
+      <Candidate paId="181730" sex="M" firstName="Anthony" surname="Stevenson Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="2905" percentageShare="6.47" />
+      </Candidate>
+      <Candidate paId="181731" sex="M" firstName="Rob" surname="Webb Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="452" percentageShare="1.01" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="10" name="Cardiff North" turnout="34431" percentageTurnout="51.44" winningParty="Lab" majority="1782" percentageMajority="5.18">
+      <Candidate paId="60976" firstName="Julie" surname="Morgan" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="16384" percentageShare="47.59" />
+      </Candidate>
+      <Candidate paId="60750" firstName="Jonathan" surname="Morgan" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="14602" percentageShare="42.41" />
+      </Candidate>
+      <Candidate paId="70768" firstName="Ben" surname="Foday" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1850" percentageShare="5.37" />
+      </Candidate>
+      <Candidate paId="60475" firstName="Matt" surname="Smith" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1595" percentageShare="4.63" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

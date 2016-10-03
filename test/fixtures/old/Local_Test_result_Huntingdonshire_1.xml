@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Huntingdonshire' paId='3201' type='Non-Met' proportion='third' winningParty='C' gainOrHold='no change' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='9'/>
+        <Party name='Lab' paId='314' seats='6'/>
+        <Party name='LD' paId='315' seats='1'/>
+        <Party name='UKIP' paId='317' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='Lab' paId='314' change='+5'/>
+        <Party name='Ind' paId='318' change='-3'/>
+        <Party name='LD' paId='315' change='-1'/>
+        <Party name='UKIP' paId='317' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='35'/>
+        <Party name='Lab' paId='314' seats='7'/>
+        <Party name='UKIP' paId='317' seats='4'/>
+        <Party name='LD' paId='315' seats='3'/>
+        <Party name='Ind' paId='318' seats='3'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

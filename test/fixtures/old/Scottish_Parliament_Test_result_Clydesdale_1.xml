@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:39:54+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="17" name="Clydesdale" electorate="56828" turnout="36016" percentageTurnout="63.38" percentageChangeTurnout="+10.70" winningParty="C" gainOrHold="gain" sittingParty="SNP" majority="491" percentageMajority="1.36" percentageChangeMajority="+10.70" swing="18.45" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" paId="182744" sex="M" firstName="Frank" surname="Jeremy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="17187" percentageShare="47.72" percentageShareChange="+33.39" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182747" sex="F" firstName="Hazel" surname="Fox Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="16696" percentageShare="46.36" percentageShareChange="-3.52" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182745" sex="M" firstName="Mark" surname="Hill Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1538" percentageShare="4.27" percentageShareChange="-31.52" />
+      </Candidate>
+      <Candidate paId="182746" sex="M" firstName="Frank" surname="McKee Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="287" percentageShare="0.80" />
+      </Candidate>
+      <Candidate paId="182748" sex="M" firstName="Jeff" surname="Singh Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" votes="187" percentageShare="0.52" />
+      </Candidate>
+      <Candidate paId="182749" sex="M" firstName="Barry" surname="Day Test">
+        <Party paId="8732" name="Clydesdale &amp; South Scotland Independent" abbreviation="CSSInd" votes="121" percentageShare="0.34" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="17" name="Clydesdale" turnout="29937" percentageTurnout="52.68" winningParty="SNP" majority="4216" percentageMajority="14.08">
+      <Candidate paId="60658" firstName="Aileen" surname="Campbell" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14931" percentageShare="49.87" />
+      </Candidate>
+      <Candidate paId="60788" firstName="Karen" surname="Gillon" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10715" percentageShare="35.79" />
+      </Candidate>
+      <Candidate paId="60502" firstName="Colin" surname="McGavigan" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4291" percentageShare="14.33" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="16" name="Clwyd South" electorate="54499" gainOrHold="gain" winningPartyAbbreviation="PC" winningPartyName="Plaid Cymru" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Plaid Cymru gain from Labour in Clwyd South">
+      <Candidate paId="181765" sex="M" firstName="Andrew" surname="Lewis Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181766" sex="M" firstName="Graham" surname="George Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181767" sex="M" firstName="Nick" surname="Forbes Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="181768" sex="M" firstName="Peter" surname="Sheppard Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181769" sex="M" firstName="David" surname="Wood Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181770" sex="M" firstName="David" surname="Shaw Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

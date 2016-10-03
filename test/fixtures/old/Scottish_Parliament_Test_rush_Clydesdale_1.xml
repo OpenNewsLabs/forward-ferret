@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="17" name="Clydesdale" electorate="56828" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="true" paStyleMessageText="Conservative gain from Scottish National Party in Clydesdale">
+      <Candidate elected="*" paId="182744" sex="M" firstName="Frank" surname="Jeremy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182745" sex="M" firstName="Mark" surname="Hill Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182746" sex="M" firstName="Frank" surname="McKee Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182747" sex="F" firstName="Hazel" surname="Fox Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182749" sex="M" firstName="Barry" surname="Day Test">
+        <Party paId="8732" name="Clydesdale &amp; South Scotland Independent" abbreviation="CSSInd" />
+      </Candidate>
+      <Candidate paId="182748" sex="M" firstName="Jeff" surname="Singh Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

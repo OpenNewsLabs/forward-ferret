@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Winchester' paId='3236' type='Non-Met' proportion='all' boundaryChange='true' winningParty='C' gainOrHold='no change' sittingParty='C'>
+      <Changes>
+        <Party name='LD' paId='315' change='-7'/>
+        <Party name='C' paId='313' change='-4'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='29'/>
+        <Party name='LD' paId='315' seats='15'/>
+        <Party name='Lab' paId='314' seats='1'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

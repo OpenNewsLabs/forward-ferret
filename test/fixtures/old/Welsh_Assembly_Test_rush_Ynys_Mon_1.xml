@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="40" name="Ynys Mon" electorate="49431" gainOrHold="gain" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="PC" sittingPartyName="Plaid Cymru" change="true" paStyleMessageText="Labour gain from Plaid Cymru in Ynys Mon">
+      <Candidate paId="181915" sex="F" firstName="Hilary" surname="McCartney Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181916" sex="M" firstName="Philip" surname="Braid Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181917" sex="M" firstName="Derek" surname="Anderson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181918" sex="M" firstName="Edward" surname="Young Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181919" sex="M" firstName="Ed" surname="Newton Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181921" sex="M" firstName="John" surname="Cameron Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181920" sex="M" firstName="Jon" surname="Clark Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

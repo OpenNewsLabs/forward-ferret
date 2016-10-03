@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:30:26+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" electorate="58093" turnout="29356" percentageTurnout="50.53" percentageChangeTurnout="-3.20" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="5686" percentageMajority="19.37" percentageChangeMajority="-3.20" swing="1.79" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182956" sex="M" firstName="Carl" surname="Johnson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14134" percentageShare="48.15" percentageShareChange="-3.34" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182953" sex="M" firstName="Rob" surname="Hawkins Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="8448" percentageShare="28.78" percentageShareChange="+0.24" />
+      </Candidate>
+      <Candidate paId="182954" sex="M" firstName="John" surname="MacDonald Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="4677" percentageShare="15.93" percentageShareChange="+3.18" />
+      </Candidate>
+      <Candidate paId="182955" sex="F" firstName="Pamela" surname="Cameron Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="1271" percentageShare="4.33" percentageShareChange="-2.90" />
+      </Candidate>
+      <Candidate paId="182957" sex="M" firstName="Mike" surname="Hill Test">
+        <Party paId="8770" name="Stronger Community Party" abbreviation="Community" votes="826" percentageShare="2.81" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" turnout="31216" percentageTurnout="53.73" winningParty="SNP" majority="7166" percentageMajority="22.96">
+      <Candidate paId="60700" firstName="Roseanna" surname="Cunningham" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16073" percentageShare="51.49" />
+      </Candidate>
+      <Candidate paId="60453" firstName="Elizabeth" surname="Smith" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="8907" percentageShare="28.53" />
+      </Candidate>
+      <Candidate paId="60831" firstName="Patricia" surname="Duncan" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3980" percentageShare="12.75" />
+      </Candidate>
+      <Candidate paId="66472" firstName="Willie" surname="Robertson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="2256" percentageShare="7.23" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

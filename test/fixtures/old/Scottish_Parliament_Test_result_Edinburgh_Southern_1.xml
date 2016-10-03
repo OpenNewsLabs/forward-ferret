@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:41:17+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="35" name="Edinburgh Southern" electorate="54868" turnout="34892" percentageTurnout="63.59" percentageChangeTurnout="+2.00" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="9357" percentageMajority="26.82" percentageChangeMajority="+2.00" swing="12.38" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="182828" sex="M" firstName="John" surname="Scott Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="17881" percentageShare="51.25" percentageShareChange="+21.81" />
+      </Candidate>
+      <Candidate paId="182826" sex="M" firstName="Roy" surname="Davies Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="8524" percentageShare="24.43" percentageShareChange="-2.95" />
+      </Candidate>
+      <Candidate paId="182827" sex="M" firstName="David" surname="Shaw Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5416" percentageShare="15.52" percentageShareChange="-9.03" />
+      </Candidate>
+      <Candidate paId="182825" sex="F" firstName="Janet" surname="Singh Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="3071" percentageShare="8.80" percentageShareChange="-9.83" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="35" name="Edinburgh Southern" turnout="33796" percentageTurnout="61.60" winningParty="SNP" majority="693" percentageMajority="2.05">
+      <Candidate paId="60674" firstName="Jim" surname="Eadie" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="9947" percentageShare="29.43" />
+      </Candidate>
+      <Candidate paId="60805" firstName="Paul" surname="Godzik" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9254" percentageShare="27.38" />
+      </Candidate>
+      <Candidate paId="60767" firstName="Mike" surname="Pringle" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="8297" percentageShare="24.55" />
+      </Candidate>
+      <Candidate paId="60436" firstName="Gavin" surname="Brown" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="6298" percentageShare="18.64" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

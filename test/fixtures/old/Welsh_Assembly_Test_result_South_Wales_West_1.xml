@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpResult revision="1" declarationTime="2016-04-27T18:43:51+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="103" name="South Wales West" electorate="407333" turnout="152097" percentageTurnout="37.34" percentageChangeTurnout="-0.56" winningParty="Lab" majority="20153" percentageMajority="13.25" percentageChangeMajority="-0.56" swing="7.73" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181495" sex="M" firstName="Alan" surname="Dhillon Test" partyListRank="1">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="181502" sex="M" firstName="Michael" surname="Simpson Test" partyListRank="1">
+        <Party paId="8624" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181512" sex="F" firstName="Monica" surname="Clark Test" partyListRank="1">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate elected="*" paId="181513" sex="M" firstName="Mark" surname="Stuart Test" partyListRank="2">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Party paId="8624" abbreviation="Lab" name="Labour" votes="66711" percentageShare="43.86" percentageShareChange="-2.63" />
+      <Party paId="8623" abbreviation="C" name="Conservative" votes="46558" percentageShare="30.61" percentageShareChange="+12.83" />
+      <Party paId="8627" abbreviation="PC" name="Plaid Cymru" votes="22009" percentageShare="14.47" percentageShareChange="+0.70" />
+      <Party paId="8626" abbreviation="LD" name="Liberal Democrat" votes="5667" percentageShare="3.73" percentageShareChange="-3.19" />
+      <Party paId="8663" abbreviation="UKIP" name="UK Independence Party" votes="5232" percentageShare="3.44" percentageShareChange="-0.85" />
+      <Party paId="8628" abbreviation="Green" name="Green" votes="3988" percentageShare="2.62" percentageShareChange="+0.06" />
+      <Party paId="8766" abbreviation="Abolish" name="Abolish the Welsh Assembly Party" votes="809" percentageShare="0.53" />
+      <Party paId="8760" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" votes="677" percentageShare="0.45" />
+      <Party paId="8667" abbreviation="Welsh Comm" name="Welsh Communist Party" votes="334" percentageShare="0.22" percentageShareChange="-0.08" />
+      <Party paId="8649" abbreviation="Loony" name="Monster Raving Loony Party" votes="112" percentageShare="0.07" />
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly Test" date="2011-05-05" type="W">
+    <Constituency number="103" name="South Wales West" turnout="154381" percentageTurnout="37.90" winningParty="Lab" majority="44309" percentageMajority="28.70">
+      <Candidate elected="*" paId="60517" firstName="Suzy" surname="Davies" sex="F">
+        <Party paId="5731" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60518" firstName="Byron" surname="Davies" sex="M">
+        <Party paId="5731" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60964" firstName="Peter" surname="Black" sex="M">
+        <Party paId="5734" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="60923" firstName="Bethan" surname="Jenkins" sex="F">
+        <Party paId="5735" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Party paId="5732" abbreviation="Lab" name="Labour" votes="71766" percentageShare="46.49" />
+      <Party paId="5731" abbreviation="C" name="Conservative" votes="27457" percentageShare="17.79" candidatesElected="2" />
+      <Party paId="5735" abbreviation="PC" name="Plaid Cymru" votes="21258" percentageShare="13.77" candidatesElected="1" />
+      <Party paId="5734" abbreviation="LD" name="Liberal Democrat" votes="10683" percentageShare="6.92" candidatesElected="1" />
+      <Party paId="5765" abbreviation="UKIP" name="UK Independence Party" votes="6619" percentageShare="4.29" />
+      <Party paId="5763" abbreviation="Soc Lab" name="Socialist Labour Party" votes="5057" percentageShare="3.28" />
+      <Party paId="5738" abbreviation="BNP" name="British National Party" votes="4714" percentageShare="3.05" />
+      <Party paId="5736" abbreviation="Green" name="Green" votes="3952" percentageShare="2.56" />
+      <Party paId="5768" abbreviation="CPW" name="Christian Party (Wales)" votes="1602" percentageShare="1.04" />
+      <Party paId="6185" abbreviation="TUSAC" name="Trade Unionists and Socialists Against Cuts" votes="809" percentageShare="0.52" />
+      <Party paId="6170" abbreviation="Welsh Comm" name="Welsh Communist Party" votes="464" percentageShare="0.30" />
+    </Constituency>
+  </PreviousElection>
+</TopUpResult>
+

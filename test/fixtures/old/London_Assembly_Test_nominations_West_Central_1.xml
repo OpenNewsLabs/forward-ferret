@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="14" name="West Central" electorate="350829">
+      <Candidate paId="182003" sex="M" firstName="John" surname="Fletcher Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182004" sex="M" firstName="Nick" surname="Brown Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182005" sex="M" firstName="Bill" surname="Adams Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182006" sex="M" firstName="Brian" surname="Smith Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="182007" sex="M" firstName="Stuart" surname="Chapman Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="14" name="West Central" turnout="146386" percentageTurnout="38.41" winningParty="C" majority="29131" percentageMajority="19.90">
+      <Candidate paId="80388" firstName="Kit" surname="Malthouse" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="73761" percentageShare="50.39" />
+      </Candidate>
+      <Candidate paId="76028" firstName="Todd" surname="Foreman" sex="M">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="44630" percentageShare="30.49" />
+      </Candidate>
+      <Candidate paId="80420" firstName="Susanna" surname="Rustin" sex="F">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="12799" percentageShare="8.74" />
+      </Candidate>
+      <Candidate paId="84777" firstName="Layla" surname="Moran" sex="F">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="10035" percentageShare="6.86" />
+      </Candidate>
+      <Candidate paId="80425" firstName="Elizabeth" surname="Jones" sex="F">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="5161" percentageShare="3.53" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

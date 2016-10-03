@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="15" totalNumberOfConstituencies="40" totalVotes="551419">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W" />
+  <Parties>
+    <Party paId="8624" name="Labour" abbreviation="Lab" totalSeats="7" gains="3" losses="5" totalVotes="194240" percentageShare="35.23" percentageChange="-5.37" />
+    <Party paId="8623" name="Conservative" abbreviation="C" totalSeats="6" gains="4" losses="2" totalVotes="167447" percentageShare="30.37" percentageChange="+5.31" />
+    <Party paId="8627" name="Plaid Cymru" abbreviation="PC" totalSeats="1" gains="1" losses="2" totalVotes="84788" percentageShare="15.38" percentageChange="-6.80" />
+    <Party paId="8626" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="64217" percentageShare="11.65" percentageChange="+1.48" />
+    <Party paId="8628" name="Green" abbreviation="Green" totalVotes="23607" percentageShare="4.28" />
+    <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" totalVotes="16005" percentageShare="2.90" />
+    <Party paId="8637" name="Independent" abbreviation="Ind" totalVotes="678" percentageShare="0.12" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="437" percentageShare="0.08" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="2" name="Aberconwy" />
+    <Constituency number="3" name="Alyn &amp; Deeside" />
+    <Constituency number="8" name="Caerphilly" />
+    <Constituency number="13" name="Carmarthen East &amp; Dinefwr" />
+    <Constituency number="17" name="Clwyd West" />
+    <Constituency number="18" name="Cynon Valley" />
+    <Constituency number="19" name="Delyn" />
+    <Constituency number="20" name="Dwyfor Meirionnydd" />
+    <Constituency number="22" name="Islwyn" />
+    <Constituency number="26" name="Montgomeryshire" />
+    <Constituency number="28" name="Newport East" />
+    <Constituency number="31" name="Pontypridd" />
+    <Constituency number="32" name="Preseli Pembrokeshire" />
+    <Constituency number="33" name="Rhondda" />
+    <Constituency number="35" name="Swansea West" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="10" name="Lambeth &amp; Southwark" electorate="427657" gainOrHold="hold" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="false" paStyleMessageText="Labour hold Lambeth &amp; Southwark">
+      <Candidate paId="181976" sex="M" firstName="Tom" surname="Campbell Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181977" sex="M" firstName="Alex" surname="Allen Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181978" sex="F" firstName="Catherine" surname="Brown Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181979" sex="F" firstName="Barbara" surname="Smyth Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181982" sex="F" firstName="Celia" surname="Wright Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181980" sex="M" firstName="John" surname="Morris Test">
+        <Party paId="8609" name="The Socialist Party (GB)" abbreviation="SPGB" />
+      </Candidate>
+      <Candidate paId="181981" sex="M" firstName="John" surname="Wood Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

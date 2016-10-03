@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalStateOfParties numberOfResults='10' totalNumberOfCouncils='124'>
+  <Election date='2016-05-05' paId='82'/>
+  <Parties>
+    <Party paId='313' name='Conservative' abbreviation='C' totalCouncils='4' changeInControl='-1' seatsWon='64' netChangeInSeats='+5'/>
+    <Party paId='314' name='Labour' abbreviation='Lab' totalCouncils='4' changeInControl='0' seatsWon='74' netChangeInSeats='-5'/>
+    <Party paId='315' name='Liberal Democrat' abbreviation='LD' totalCouncils='0' changeInControl='0' seatsWon='10' netChangeInSeats='0'/>
+    <Party paId='316' name='Green Party' abbreviation='Green' totalCouncils='0' changeInControl='0' seatsWon='3' netChangeInSeats='+1'/>
+    <Party paId='317' name='United Kingdom Independence Party' abbreviation='UKIP' totalCouncils='0' changeInControl='0' seatsWon='4' netChangeInSeats='0'/>
+    <Party paId='318' name='Independent/Other' abbreviation='Ind' totalCouncils='0' changeInControl='0' seatsWon='12' netChangeInSeats='-1'/>
+    <Party name='No Overall Control' abbreviation='NOC' totalCouncils='2' changeInControl='+1' seatsWon='0' netChangeInSeats='0'/>
+  </Parties>
+  <CouncilsIncluded>
+    <Council name='Adur' paId='3170' type='Non-Met' proportion='half'/>
+    <Council name='Amber Valley' paId='3171' type='Non-Met' proportion='third'/>
+    <Council name='Barnsley' paId='3115' type='Metro' proportion='third'/>
+    <Council name='Basildon' paId='3172' type='Non-Met' proportion='third'/>
+    <Council name='Basingstoke &amp; Deane' paId='3173' type='Non-Met' proportion='third'/>
+    <Council name='Blackburn with Darwen' paId='3151' type='Unitary' proportion='third'/>
+    <Council name='Cannock Chase' paId='3178' type='Non-Met' proportion='third'/>
+    <Council name='Carlisle' paId='3179' type='Non-Met' proportion='third'/>
+    <Council name='Castle Point' paId='3180' type='Non-Met' proportion='third'/>
+    <Council name='St Albans' paId='3221' type='Non-Met' proportion='third'/>
+  </CouncilsIncluded>
+</LocalStateOfParties>

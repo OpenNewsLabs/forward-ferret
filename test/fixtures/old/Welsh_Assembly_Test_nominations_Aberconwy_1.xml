@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="2" name="Aberconwy" electorate="44978">
+      <Candidate paId="181680" previousSittingMember="*" sex="M" firstName="Ray" surname="Harris Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181681" sex="M" firstName="Richard" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181682" sex="M" firstName="Donald" surname="Coleman Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181683" sex="M" firstName="Steve" surname="Gardner Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181684" sex="F" firstName="Hilary" surname="Roberts Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="2" name="Aberconwy" turnout="20288" percentageTurnout="45.11" winningParty="C" majority="1567" percentageMajority="7.72">
+      <Candidate paId="60483" firstName="Janet" surname="Finch-Saunders" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="6888" percentageShare="33.95" />
+      </Candidate>
+      <Candidate paId="71235" firstName="Iwan" surname="Hughes" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="5321" percentageShare="26.23" />
+      </Candidate>
+      <Candidate paId="70700" firstName="Eifion" surname="Williams" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="5206" percentageShare="25.66" />
+      </Candidate>
+      <Candidate paId="60931" firstName="Mike" surname="Priestley" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2873" percentageShare="14.16" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

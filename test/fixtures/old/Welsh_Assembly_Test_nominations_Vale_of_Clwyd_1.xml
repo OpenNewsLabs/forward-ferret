@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="37" name="Vale of Clwyd" electorate="56232">
+      <Candidate paId="181898" sex="M" firstName="Tony" surname="Jones Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181899" previousSittingMember="*" sex="M" firstName="Bill" surname="Owen Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181900" sex="M" firstName="Stephen" surname="Lewis Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181901" sex="M" firstName="Norman" surname="Jenkins Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181902" sex="F" firstName="Ann" surname="Burt Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="37" name="Vale of Clwyd" turnout="23056" percentageTurnout="41.00" winningParty="Lab" majority="4011" percentageMajority="17.40">
+      <Candidate paId="60992" firstName="Ann" surname="Jones" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11691" percentageShare="50.71" />
+      </Candidate>
+      <Candidate paId="60480" firstName="Ian" surname="Gunning" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="7680" percentageShare="33.31" />
+      </Candidate>
+      <Candidate paId="66522" firstName="Alun" surname="Lloyd Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2597" percentageShare="11.26" />
+      </Candidate>
+      <Candidate paId="70779" firstName="Heather" surname="Prydderch" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1088" percentageShare="4.72" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

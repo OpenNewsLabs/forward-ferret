@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="5" name="Croydon &amp; Sutton" electorate="400137">
+      <Candidate paId="181947" previousSittingMember="*" sex="M" firstName="Adam" surname="Griffiths Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181948" sex="M" firstName="Jeremy" surname="Edwards Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181949" sex="F" firstName="Janet" surname="Rogers Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181950" sex="M" firstName="Nick" surname="Arnott Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181953" sex="M" firstName="Tony" surname="Smith Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181951" sex="M" firstName="Andrew" surname="Francis Test">
+        <Party paId="8596" name="National Front" abbreviation="NF" />
+      </Candidate>
+      <Candidate paId="181952" sex="F" firstName="Alison" surname="Wallace Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="5" name="Croydon &amp; Sutton" turnout="153819" percentageTurnout="38.45" winningParty="C" majority="9418" percentageMajority="6.12">
+      <Candidate paId="76002" firstName="Steve" surname="O'Connell" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="60152" percentageShare="39.11" />
+      </Candidate>
+      <Candidate paId="76024" firstName="Louisa" surname="Woodley" sex="F">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="50734" percentageShare="32.98" />
+      </Candidate>
+      <Candidate paId="84763" firstName="Abigail" surname="Lock" sex="F">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="21889" percentageShare="14.23" />
+      </Candidate>
+      <Candidate paId="80429" firstName="Winston" surname="McKenzie" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="10757" percentageShare="6.99" />
+      </Candidate>
+      <Candidate paId="80412" firstName="Gordon" surname="Ross" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="10287" percentageShare="6.69" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

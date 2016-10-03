@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:59:30+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="11" name="Ayr" electorate="61563" turnout="43092" percentageTurnout="70.00" percentageChangeTurnout="+15.79" winningParty="SNP" gainOrHold="gain" sittingParty="C" majority="2714" percentageMajority="6.30" percentageChangeMajority="+15.79" swing="4.82" swingTo="SNP" swingFrom="C">
+      <Candidate elected="*" paId="182723" sex="M" firstName="Richard" surname="Williams Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="15035" percentageShare="34.89" percentageShareChange="-0.72" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182720" sex="M" firstName="Michael" surname="Nicholson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="12321" percentageShare="28.59" percentageShareChange="-10.35" />
+      </Candidate>
+      <Candidate paId="182721" sex="M" firstName="Sean" surname="Scott Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="8082" percentageShare="18.76" percentageShareChange="-4.55" />
+      </Candidate>
+      <Candidate paId="182722" sex="M" firstName="Peter" surname="Bennett Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="7654" percentageShare="17.76" percentageShareChange="+15.63" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="11" name="Ayr" turnout="33373" percentageTurnout="54.21" winningParty="C" majority="1113" percentageMajority="3.34">
+      <Candidate paId="60425" firstName="John" surname="Scott" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="12997" percentageShare="38.94" />
+      </Candidate>
+      <Candidate paId="60652" firstName="Chic" surname="Brodie" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11884" percentageShare="35.61" />
+      </Candidate>
+      <Candidate paId="66482" firstName="Gordon" surname="McKenzie" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7779" percentageShare="23.31" />
+      </Candidate>
+      <Candidate paId="70770" firstName="Eileen" surname="Taylor" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="713" percentageShare="2.14" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

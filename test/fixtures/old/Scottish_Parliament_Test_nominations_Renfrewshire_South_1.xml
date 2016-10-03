@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="67" name="Renfrewshire South" electorate="50221">
+      <Candidate paId="182964" sex="M" firstName="Mike" surname="Stevenson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182965" sex="M" firstName="Alan" surname="Stewart Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182966" sex="M" firstName="Derek" surname="Gardner Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182967" sex="M" firstName="George" surname="Morris Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="67" name="Renfrewshire South" turnout="26908" percentageTurnout="53.58" winningParty="Lab" majority="2577" percentageMajority="9.58">
+      <Candidate paId="60833" firstName="Hugh" surname="Henry" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12933" percentageShare="48.06" />
+      </Candidate>
+      <Candidate paId="60702" firstName="Andy" surname="Doig" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10356" percentageShare="38.49" />
+      </Candidate>
+      <Candidate paId="60467" firstName="Alistair" surname="Campbell" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2917" percentageShare="10.84" />
+      </Candidate>
+      <Candidate paId="70738" firstName="Gordon" surname="Anderson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="702" percentageShare="2.61" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

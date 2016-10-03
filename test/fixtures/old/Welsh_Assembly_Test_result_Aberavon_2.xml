@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="2" declarationTime="2016-04-27T19:15:04+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="1" name="Aberavon" electorate="50754" turnout="32986" percentageTurnout="64.99" percentageChangeTurnout="+27.79" winningParty="PC" gainOrHold="gain" sittingParty="Lab" majority="6972" percentageMajority="21.14" percentageChangeMajority="+27.79" swing="45.70" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="181677" sex="F" firstName="Susan" surname="Hughes Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="15353" percentageShare="46.54" percentageShareChange="+31.75" />
+      </Candidate>
+      <Candidate paId="181674" sex="M" firstName="Paul" surname="Moffatt Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="8381" percentageShare="25.41" percentageShareChange="+11.08" />
+      </Candidate>
+      <Candidate paId="181676" sex="M" firstName="Geoffrey" surname="Cooper Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="6195" percentageShare="18.78" percentageShareChange="+12.01" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181675" sex="M" firstName="Kevin" surname="Johnson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="1475" percentageShare="4.47" percentageShareChange="-59.64" />
+      </Candidate>
+      <Candidate paId="181678" sex="M" firstName="Joe" surname="Harris Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="959" percentageShare="2.91" />
+      </Candidate>
+      <Candidate paId="181679" sex="M" firstName="David" surname="Murray Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="623" percentageShare="1.89" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="1" name="Aberavon" turnout="18879" percentageTurnout="37.20" winningParty="Lab" majority="9311" percentageMajority="49.32">
+      <Candidate paId="60455" firstName="David" surname="Rees" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12104" percentageShare="64.11" />
+      </Candidate>
+      <Candidate paId="60904" firstName="Paul" surname="Nicholls-Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2793" percentageShare="14.79" />
+      </Candidate>
+      <Candidate paId="66504" firstName="Tamojen" surname="Morgan" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2704" percentageShare="14.32" />
+      </Candidate>
+      <Candidate paId="60930" firstName="Helen" surname="Ceri Clarke" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1278" percentageShare="6.77" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

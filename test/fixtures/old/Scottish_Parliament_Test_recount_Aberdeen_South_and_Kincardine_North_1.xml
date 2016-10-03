@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recount revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" recount="1" />
+  </Election>
+</Recount>
+

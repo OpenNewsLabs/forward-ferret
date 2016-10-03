@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="31" name="Edinburgh Central" electorate="53606" gainOrHold="gain" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="true" paStyleMessageText="Labour gain from Scottish National Party in Edinburgh Central">
+      <Candidate previousSittingMember="+" paId="182806" sex="M" firstName="Adrian" surname="Lewis Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="182807" sex="M" firstName="David" surname="Gardner Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182808" sex="M" firstName="John" surname="Hall Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182809" sex="M" firstName="David" surname="Owen Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182810" sex="M" firstName="Alun" surname="Marshall Test">
+        <Party paId="8448" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="182811" sex="M" firstName="John" surname="Jones Test">
+        <Party paId="8730" name="Scottish Libertarian Party" abbreviation="SLP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

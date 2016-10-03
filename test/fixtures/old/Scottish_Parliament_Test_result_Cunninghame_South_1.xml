@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T20:01:16+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="22" name="Cunninghame South" electorate="50926" turnout="32964" percentageTurnout="64.73" percentageChangeTurnout="+21.42" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="4265" percentageMajority="12.94" percentageChangeMajority="+21.42" swing="1.15" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" paId="182770" sex="M" firstName="Russell" surname="Davidson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="12343" percentageShare="37.44" percentageShareChange="-12.40" />
+      </Candidate>
+      <Candidate paId="182768" sex="M" firstName="Denis" surname="Kelly Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="8078" percentageShare="24.51" percentageShareChange="-14.69" />
+      </Candidate>
+      <Candidate paId="182767" sex="M" firstName="Gerald" surname="Moore Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="7653" percentageShare="23.22" percentageShareChange="+14.73" />
+      </Candidate>
+      <Candidate paId="182769" sex="M" firstName="Stewart" surname="Smith Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4890" percentageShare="14.83" percentageShareChange="+12.35" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="22" name="Cunninghame South" turnout="22056" percentageTurnout="43.31" winningParty="SNP" majority="2348" percentageMajority="10.65">
+      <Candidate paId="60662" firstName="Margaret" surname="Burgess" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10993" percentageShare="49.84" />
+      </Candidate>
+      <Candidate paId="60793" firstName="Irene" surname="Oldfather" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="8645" percentageShare="39.20" />
+      </Candidate>
+      <Candidate paId="60503" firstName="Alistair" surname="Haw" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1871" percentageShare="8.48" />
+      </Candidate>
+      <Candidate paId="70675" firstName="Ruby" surname="Kirkwood" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="547" percentageShare="2.48" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

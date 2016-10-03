@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T20:05:13+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="36" name="Edinburgh Western" electorate="56338" turnout="30838" percentageTurnout="54.74" percentageChangeTurnout="-4.64" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2127" percentageMajority="6.90" percentageChangeMajority="-4.64" swing="3.73" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" paId="182832" sex="M" firstName="Ray" surname="Baker Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="12093" percentageShare="39.21" percentageShareChange="+3.45" />
+      </Candidate>
+      <Candidate paId="182830" sex="M" firstName="Adrian" surname="Walker Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="9966" percentageShare="32.32" percentageShareChange="+10.90" />
+      </Candidate>
+      <Candidate paId="182829" sex="M" firstName="John" surname="Green Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="4877" percentageShare="15.81" percentageShareChange="+0.73" />
+      </Candidate>
+      <Candidate paId="182831" sex="M" firstName="Bruce" surname="Stuart Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="3902" percentageShare="12.65" percentageShareChange="-15.08" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="36" name="Edinburgh Western" turnout="33452" percentageTurnout="59.38" winningParty="SNP" majority="2689" percentageMajority="8.04">
+      <Candidate paId="60723" firstName="Colin" surname="Keir" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11965" percentageShare="35.77" />
+      </Candidate>
+      <Candidate paId="60768" firstName="Margaret" surname="Smith" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="9276" percentageShare="27.73" />
+      </Candidate>
+      <Candidate paId="60806" firstName="Lesley" surname="Hinds" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7164" percentageShare="21.42" />
+      </Candidate>
+      <Candidate paId="60437" firstName="Gordon" surname="Lindhurst" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="5047" percentageShare="15.09" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

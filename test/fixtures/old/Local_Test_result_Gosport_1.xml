@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Gosport' paId='3194' type='Non-Met' proportion='half' winningParty='C' gainOrHold='no change' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='13'/>
+        <Party name='Lab' paId='314' seats='2'/>
+        <Party name='LD' paId='315' seats='1'/>
+        <Party name='UKIP' paId='317' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+1'/>
+        <Party name='UKIP' paId='317' change='+1'/>
+        <Party name='Lab' paId='314' change='-1'/>
+        <Party name='LD' paId='315' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='22'/>
+        <Party name='LD' paId='315' seats='5'/>
+        <Party name='Lab' paId='314' seats='5'/>
+        <Party name='UKIP' paId='317' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

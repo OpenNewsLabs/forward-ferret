@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:57:17+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="10" name="Argyll &amp; Bute" electorate="49028" turnout="24673" percentageTurnout="50.32" percentageChangeTurnout="-3.68" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="5988" percentageMajority="24.27" percentageChangeMajority="-3.68" swing="5.52" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182719" sex="F" firstName="Angela" surname="Abbott Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="11809" percentageShare="47.86" percentageShareChange="-2.71" />
+      </Candidate>
+      <Candidate paId="182717" sex="M" firstName="Gareth" surname="Cotton Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="5821" percentageShare="23.59" percentageShareChange="+8.33" />
+      </Candidate>
+      <Candidate paId="182718" sex="M" firstName="Alan" surname="Lord Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5392" percentageShare="21.85" percentageShareChange="+9.69" />
+      </Candidate>
+      <Candidate paId="182716" sex="F" firstName="Lynne" surname="Dixon Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1651" percentageShare="6.69" percentageShareChange="-11.62" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="10" name="Argyll &amp; Bute" turnout="26476" percentageTurnout="54.00" winningParty="SNP" majority="8543" percentageMajority="32.27">
+      <Candidate paId="60492" firstName="Michael" surname="Russell" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13390" percentageShare="50.57" />
+      </Candidate>
+      <Candidate paId="60424" firstName="Jamie" surname="McGrigor" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4847" percentageShare="18.31" />
+      </Candidate>
+      <Candidate paId="60782" firstName="Mick" surname="Rice" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="4041" percentageShare="15.26" />
+      </Candidate>
+      <Candidate paId="60473" firstName="Alison" surname="Hay" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="3220" percentageShare="12.16" />
+      </Candidate>
+      <Candidate paId="70900" firstName="George" surname="Doyle" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="542" percentageShare="2.05" />
+      </Candidate>
+      <Candidate paId="70830" firstName="George" surname="White" sex="M">
+        <Party paId="5698" name="Liberal" abbreviation="Lib" votes="436" percentageShare="1.65" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T18:31:43+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="210" name="Newcastle-upon-Tyne" electorate="183853">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="83848" percentageTurnout="45.61" winningAnswerText="Remain a member of the EU" majority="6288" percentageMajority="7.50">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="45068" percentageShare="53.75" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="38780" percentageShare="46.25" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

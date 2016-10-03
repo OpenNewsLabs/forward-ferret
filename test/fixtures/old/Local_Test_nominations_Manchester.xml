@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Manchester' paId='3129' type='Metro' proportion='third'>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='96' seatsOffered='32' unopposedReturns='0' candidates='32'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='32'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='32'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='31'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='13'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='24'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="13" totalNumberOfConstituencies="14" totalVotes="3340046">
+  <Election name="London Assembly Test" date="2016-05-04" type="L" />
+  <Parties>
+    <Party paId="8569" name="Labour" abbreviation="Lab" totalSeats="6" gains="2" losses="4" totalVotes="1287781" percentageShare="38.56" percentageChange="-4.15" />
+    <Party paId="8568" name="Conservative" abbreviation="C" totalSeats="6" gains="3" losses="2" totalVotes="1134055" percentageShare="33.95" percentageChange="+2.00" />
+    <Party paId="8570" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="338069" percentageShare="10.12" percentageChange="+1.28" />
+    <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" totalVotes="244995" percentageShare="7.34" percentageChange="+2.86" />
+    <Party paId="8571" name="Green" abbreviation="Green" totalVotes="241699" percentageShare="7.24" percentageChange="-1.39" />
+    <Party paId="8579" name="Communist League" abbreviation="Comm L" totalVotes="10832" percentageShare="0.32" percentageChange="+0.27" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="82615" percentageShare="2.47" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Barnet &amp; Camden" />
+    <Constituency number="2" name="Bexley &amp; Bromley" />
+    <Constituency number="3" name="Brent &amp; Harrow" />
+    <Constituency number="4" name="City &amp; East" />
+    <Constituency number="5" name="Croydon &amp; Sutton" />
+    <Constituency number="6" name="Ealing &amp; Hillingdon" />
+    <Constituency number="7" name="Enfield &amp; Haringey" />
+    <Constituency number="8" name="Greenwich &amp; Lewisham" />
+    <Constituency number="9" name="Havering &amp; Redbridge" />
+    <Constituency number="10" name="Lambeth &amp; Southwark" />
+    <Constituency number="12" name="North East" />
+    <Constituency number="13" name="South West" />
+    <Constituency number="14" name="West Central" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

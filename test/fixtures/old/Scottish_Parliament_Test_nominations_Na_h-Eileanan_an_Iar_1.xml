@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="61" name="Na h-Eileanan an Iar" electorate="21834">
+      <Candidate paId="182935" sex="M" firstName="Tom" surname="Harris Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182936" previousSittingMember="+" sex="M" firstName="Oliver" surname="Roberts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182937" sex="M" firstName="Stephen" surname="Henderson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182938" previousSittingMember="*" sex="M" firstName="Dennis" surname="Bentley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182939" sex="M" firstName="Stewart" surname="Jackson Test">
+        <Party paId="8507" name="Scottish Christian Party" abbreviation="SCP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="61" name="Na h-Eileanan an Iar" turnout="13011" percentageTurnout="59.59" winningParty="SNP" majority="4772" percentageMajority="36.68">
+      <Candidate paId="60648" firstName="Alasdair" surname="Allan" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="8496" percentageShare="65.30" />
+      </Candidate>
+      <Candidate paId="66486" firstName="Donald" surname="Crichton" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3724" percentageShare="28.62" />
+      </Candidate>
+      <Candidate paId="70784" firstName="Charlie" surname="McGrigor" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="563" percentageShare="4.33" />
+      </Candidate>
+      <Candidate paId="70678" firstName="Peter" surname="Morrison" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="228" percentageShare="1.75" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

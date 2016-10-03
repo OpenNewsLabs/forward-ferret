@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpResult revision="1" declarationTime="2016-04-27T18:22:01+01:00">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="15" name="London" electorate="5732652" turnout="2134279" percentageTurnout="37.23" percentageChangeTurnout="-0.93" winningParty="Lab" majority="355787" percentageMajority="16.67" percentageChangeMajority="-0.93" swing="3.76" swingTo="Lab" swingFrom="C">
+      <Candidate elected="*" previousSittingMember="*" paId="182008" sex="M" firstName="Andrew" surname="Chapman Test" partyListRank="1">
+        <Party paId="8568" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182009" sex="M" firstName="Christopher" surname="Knight Test" partyListRank="2">
+        <Party paId="8568" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="182010" sex="M" firstName="Steven" surname="Robertson Test" partyListRank="3">
+        <Party paId="8568" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="182011" sex="M" firstName="Matthew" surname="Taylor Test" partyListRank="4">
+        <Party paId="8568" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182020" sex="M" firstName="Chris" surname="Morgan Test" partyListRank="1">
+        <Party paId="8569" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182021" sex="M" firstName="Jeremy" surname="George Test" partyListRank="2">
+        <Party paId="8569" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182022" sex="M" firstName="Steve" surname="Burns Test" partyListRank="3">
+        <Party paId="8569" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182031" sex="M" firstName="Steve" surname="Brookes Test" partyListRank="1">
+        <Party paId="8570" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="182042" sex="M" firstName="Anthony" surname="Squire Test" partyListRank="1">
+        <Party paId="8571" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="182043" sex="M" firstName="Michael" surname="Jeremy Test" partyListRank="2">
+        <Party paId="8571" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="182044" sex="F" firstName="Fiona" surname="Bentley Test" partyListRank="3">
+        <Party paId="8571" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Party paId="8569" abbreviation="Lab" name="Labour" votes="1000671" percentageShare="46.89" percentageShareChange="+5.75" />
+      <Party paId="8568" abbreviation="C" name="Conservative" votes="644884" percentageShare="30.22" percentageShareChange="-1.77" />
+      <Party paId="8571" abbreviation="Green" name="Green" votes="167886" percentageShare="7.87" percentageShareChange="-0.68" />
+      <Party paId="8570" abbreviation="LD" name="Liberal Democrat" votes="120300" percentageShare="5.64" percentageShareChange="-1.16" />
+      <Party paId="8612" abbreviation="UKIP" name="UK Independence Party" votes="100998" percentageShare="4.73" percentageShareChange="+0.22" />
+      <Party paId="8575" abbreviation="BNP" name="British National Party" votes="33453" percentageShare="1.57" percentageShareChange="-0.56" />
+      <Party paId="8578" abbreviation="CPA" name="Christian Peoples Alliance The Christian Party" votes="32445" percentageShare="1.52" percentageShareChange="-0.23" />
+      <Party paId="8585" abbreviation="House" name="House Party - Homes for Londoners" votes="10009" percentageShare="0.47" percentageShareChange="+0.10" />
+      <Party paId="8729" abbreviation="Women" name="Women's Equality Party" votes="6778" percentageShare="0.32" />
+      <Party paId="8605" abbreviation="Respect GG" name="Respect (George Galloway)" votes="6667" percentageShare="0.31" />
+      <Party paId="8727" abbreviation="AWP" name="Animal Welfare Party" votes="5678" percentageShare="0.27" />
+      <Party paId="8728" abbreviation="Brit" name="Britain First" votes="4510" percentageShare="0.21" />
+    </Constituency>
+  </Election>
+  <PreviousElection name="London Assembly Test" date="2012-05-03" type="L">
+    <Constituency number="15" name="London" turnout="2215038" percentageTurnout="38.16" winningParty="Lab" majority="202676" percentageMajority="9.15">
+      <Candidate elected="*" paId="80397" firstName="Andrew" surname="Boff" sex="M">
+        <Party paId="6420" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="80395" firstName="Gareth" surname="Bacon" sex="M">
+        <Party paId="6420" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="80396" firstName="Victoria" surname="Borwick" sex="F">
+        <Party paId="6420" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="76029" firstName="Nicky" surname="Gavron" sex="F">
+        <Party paId="6421" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="76030" firstName="Murad" surname="Qureshi" sex="M">
+        <Party paId="6421" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="76031" firstName="Fiona" surname="Twycross" sex="F">
+        <Party paId="6421" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="76032" firstName="Tom" surname="Copley" sex="M">
+        <Party paId="6421" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="76040" firstName="Caroline" surname="Pidgeon" sex="F">
+        <Party paId="6422" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="76041" firstName="Stephen" surname="Knight" sex="M">
+        <Party paId="6422" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="76050" firstName="Jenny" surname="Jones" sex="F">
+        <Party paId="6423" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="76051" firstName="Darren" surname="Johnson" sex="M">
+        <Party paId="6423" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Party paId="6421" abbreviation="Lab" name="Labour" votes="911204" percentageShare="41.14" candidatesElected="4" />
+      <Party paId="6420" abbreviation="C" name="Conservative" votes="708528" percentageShare="31.99" candidatesElected="3" />
+      <Party paId="6423" abbreviation="Green" name="Green" votes="189215" percentageShare="8.54" candidatesElected="2" />
+      <Party paId="6422" abbreviation="LD" name="Liberal Democrat" votes="150447" percentageShare="6.79" candidatesElected="2" />
+      <Party paId="6459" abbreviation="UKIP" name="UK Independence Party" votes="100040" percentageShare="4.52" />
+      <Party paId="6427" abbreviation="BNP" name="British National Party" votes="47024" percentageShare="2.12" />
+      <Party paId="6430" abbreviation="CPA" name="Christian Peoples Alliance The Christian Party" votes="38758" percentageShare="1.75" />
+      <Party paId="6433" abbreviation="Eng Dem" name="English Democrats Party" votes="22025" percentageShare="0.99" />
+      <Party paId="6677" abbreviation="TUSC" name="Trade Unionist and Socialist Coalition" votes="17686" percentageShare="0.80" />
+      <Party paId="6438" abbreviation="Ind" name="Independent" votes="9144" percentageShare="0.41" />
+      <Party paId="6827" abbreviation="House" name="House Party - Homes for Londoners" votes="8126" percentageShare="0.37" />
+      <Party paId="6446" abbreviation="NF" name="National Front" votes="8006" percentageShare="0.36" />
+      <Party paId="6825" abbreviation="ND" name="No description" votes="4835" percentageShare="0.22" />
+    </Constituency>
+  </PreviousElection>
+</TopUpResult>
+

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='West Lancashire' paId='3233' type='Non-Met' proportion='third' winningParty='C' gainOrHold='gain' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='12'/>
+        <Party name='Lab' paId='314' seats='5'/>
+        <Party name='Ind' paId='318' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+6'/>
+        <Party name='Lab' paId='314' change='-6'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='29'/>
+        <Party name='Lab' paId='314' seats='24'/>
+        <Party name='Ind' paId='318' seats='1'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:58:48+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="61" name="Na h-Eileanan an Iar" electorate="21834" turnout="14250" percentageTurnout="65.27" percentageChangeTurnout="+5.67" winningParty="LD" gainOrHold="gain" sittingParty="SNP" majority="466" percentageMajority="3.27" percentageChangeMajority="+5.67" swing="33.41" swingTo="LD" swingFrom="SNP">
+      <Candidate elected="*" paId="182937" sex="M" firstName="Stephen" surname="Henderson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4756" percentageShare="33.38" percentageShareChange="+31.62" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182938" sex="M" firstName="Dennis" surname="Bentley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="4290" percentageShare="30.11" percentageShareChange="-35.19" />
+      </Candidate>
+      <Candidate paId="182935" sex="M" firstName="Tom" surname="Harris Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2567" percentageShare="18.01" percentageShareChange="+13.69" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182936" sex="M" firstName="Oliver" surname="Roberts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="2489" percentageShare="17.47" percentageShareChange="-11.16" />
+      </Candidate>
+      <Candidate paId="182939" sex="M" firstName="Stewart" surname="Jackson Test">
+        <Party paId="8507" name="Scottish Christian Party" abbreviation="SCP" votes="148" percentageShare="1.04" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="61" name="Na h-Eileanan an Iar" turnout="13011" percentageTurnout="59.59" winningParty="SNP" majority="4772" percentageMajority="36.68">
+      <Candidate paId="60648" firstName="Alasdair" surname="Allan" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="8496" percentageShare="65.30" />
+      </Candidate>
+      <Candidate paId="66486" firstName="Donald" surname="Crichton" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3724" percentageShare="28.62" />
+      </Candidate>
+      <Candidate paId="70784" firstName="Charlie" surname="McGrigor" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="563" percentageShare="4.33" />
+      </Candidate>
+      <Candidate paId="70678" firstName="Peter" surname="Morrison" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="228" percentageShare="1.75" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

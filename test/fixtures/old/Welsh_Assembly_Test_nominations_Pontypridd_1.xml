@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="31" name="Pontypridd" electorate="60028">
+      <Candidate paId="181861" sex="M" firstName="Mark" surname="Robertson Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181862" previousSittingMember="*" sex="M" firstName="Richard" surname="Owen Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181863" sex="F" firstName="Patricia" surname="Hall Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181864" sex="M" firstName="Michael" surname="Smith Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181865" sex="M" firstName="Barry" surname="Smith Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181866" sex="M" firstName="Brian" surname="Young Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="31" name="Pontypridd" turnout="23333" percentageTurnout="38.87" winningParty="Lab" majority="7694" percentageMajority="32.97">
+      <Candidate paId="60458" firstName="Mick" surname="Antoniw" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11864" percentageShare="50.85" />
+      </Candidate>
+      <Candidate paId="60474" firstName="Mike" surname="Powell" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="4170" percentageShare="17.87" />
+      </Candidate>
+      <Candidate paId="66517" firstName="Joel" surname="James" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3659" percentageShare="15.68" />
+      </Candidate>
+      <Candidate paId="60894" firstName="Ioan" surname="Bellin" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3139" percentageShare="13.45" />
+      </Candidate>
+      <Candidate paId="71321" firstName="Ken" surname="Owen" sex="M">
+        <Party paId="6188" name="No description" abbreviation="ND" votes="501" percentageShare="2.15" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

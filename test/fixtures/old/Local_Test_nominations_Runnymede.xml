@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Runnymede' paId='3219' type='Non-Met' proportion='third'>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='36' seatsOffered='13' unopposedReturns='0' candidates='15'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='12'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='5'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='2'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='6' seatsOffered='2' unopposedReturns='0' candidates='3'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

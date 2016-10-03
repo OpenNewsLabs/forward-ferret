@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="53" name="Inverness &amp; Nairn" electorate="62168">
+      <Candidate paId="182903" sex="M" firstName="Nigel" surname="Harris Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182904" previousSittingMember="+" sex="M" firstName="Bill" surname="Bhatti Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182905" sex="M" firstName="Hugh" surname="Schofield Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182906" previousSittingMember="*" sex="M" firstName="Bruce" surname="Robinson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="53" name="Inverness &amp; Nairn" turnout="32731" percentageTurnout="52.65" winningParty="SNP" majority="9745" percentageMajority="29.77">
+      <Candidate paId="60687" firstName="Fergus" surname="Ewing" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16870" percentageShare="51.54" />
+      </Candidate>
+      <Candidate paId="60819" firstName="Dave" surname="Stewart" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7125" percentageShare="21.77" />
+      </Candidate>
+      <Candidate paId="60448" firstName="Mary" surname="Scanlon" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="3797" percentageShare="11.60" />
+      </Candidate>
+      <Candidate paId="66468" firstName="Christine" surname="Jardine" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="3763" percentageShare="11.50" />
+      </Candidate>
+      <Candidate paId="70998" firstName="Donald" surname="Boyd" sex="M">
+        <Party paId="5717" name="Scottish Christian Party" abbreviation="SCP" votes="646" percentageShare="1.97" />
+      </Candidate>
+      <Candidate paId="70803" firstName="Ross" surname="Durance" sex="M">
+        <Party paId="5729" name="UK Independence Party" abbreviation="UKIP" votes="530" percentageShare="1.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

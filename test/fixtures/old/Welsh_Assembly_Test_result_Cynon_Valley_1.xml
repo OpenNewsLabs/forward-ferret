@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:30:40+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="18" name="Cynon Valley" electorate="52133" turnout="33320" percentageTurnout="63.91" percentageChangeTurnout="+27.93" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="171" percentageMajority="0.51" percentageChangeMajority="+27.93" swing="27.16" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181777" sex="M" firstName="David" surname="Phillips Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="14040" percentageShare="42.14" percentageShareChange="+33.98" />
+      </Candidate>
+      <Candidate paId="181778" sex="M" firstName="Eddie" surname="Allen Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="13869" percentageShare="41.62" percentageShareChange="-20.35" />
+      </Candidate>
+      <Candidate paId="181780" sex="F" firstName="Liz" surname="Davies Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="2598" percentageShare="7.80" percentageShareChange="-19.45" />
+      </Candidate>
+      <Candidate paId="181779" sex="F" firstName="Mary" surname="Williams Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="1358" percentageShare="4.08" percentageShareChange="+1.45" />
+      </Candidate>
+      <Candidate paId="181782" sex="F" firstName="Sylvia" surname="Miller Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="882" percentageShare="2.65" />
+      </Candidate>
+      <Candidate paId="181781" sex="M" firstName="Peter" surname="Khan Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="573" percentageShare="1.72" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="18" name="Cynon Valley" turnout="18760" percentageTurnout="35.98" winningParty="Lab" majority="6515" percentageMajority="34.73">
+      <Candidate paId="60981" firstName="Christine" surname="Chapman" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11626" percentageShare="61.97" />
+      </Candidate>
+      <Candidate paId="60882" firstName="Dafydd Trystan" surname="Davies" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="5111" percentageShare="27.24" />
+      </Candidate>
+      <Candidate paId="66511" firstName="Dan" surname="Saxton" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="1531" percentageShare="8.16" />
+      </Candidate>
+      <Candidate paId="60938" firstName="Ian" surname="Walton" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="492" percentageShare="2.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

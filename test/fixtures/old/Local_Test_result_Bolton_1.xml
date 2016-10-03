@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Bolton' paId='3117' type='Metro' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='12'/>
+        <Party name='C' paId='313' seats='4'/>
+        <Party name='LD' paId='315' seats='2'/>
+        <Party name='UKIP' paId='317' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='UKIP' paId='317' change='+2'/>
+        <Party name='LD' paId='315' change='+1'/>
+        <Party name='Lab' paId='314' change='-2'/>
+        <Party name='C' paId='313' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='37'/>
+        <Party name='C' paId='313' seats='14'/>
+        <Party name='UKIP' paId='317' seats='5'/>
+        <Party name='LD' paId='315' seats='4'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

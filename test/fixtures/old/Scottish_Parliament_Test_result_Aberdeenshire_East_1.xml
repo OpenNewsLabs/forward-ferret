@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:57:32+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="4" name="Aberdeenshire East" electorate="57591" turnout="30557" percentageTurnout="53.06" percentageChangeTurnout="+0.47" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="8126" percentageMajority="26.59" percentageChangeMajority="+0.47" swing="11.95" swingTo="LD" swingFrom="SNP">
+      <Candidate elected="*" paId="182695" sex="F" firstName="Margaret" surname="Wilkinson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="15846" percentageShare="51.86" percentageShareChange="-12.64" />
+      </Candidate>
+      <Candidate paId="182694" sex="M" firstName="Tony" surname="Chapman Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="7720" percentageShare="25.26" percentageShareChange="+11.27" />
+      </Candidate>
+      <Candidate paId="182693" sex="M" firstName="Eric" surname="Jackson Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="5344" percentageShare="17.49" percentageShareChange="+9.88" />
+      </Candidate>
+      <Candidate paId="182692" sex="M" firstName="Ron" surname="Johnson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1647" percentageShare="5.39" percentageShareChange="-8.51" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="4" name="Aberdeenshire East" turnout="30286" percentageTurnout="52.59" winningParty="SNP" majority="15295" percentageMajority="50.50">
+      <Candidate paId="60645" firstName="Alex" surname="Salmond" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="19533" percentageShare="64.50" />
+      </Candidate>
+      <Candidate paId="60549" firstName="Alison" surname="McInnes" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="4238" percentageShare="13.99" />
+      </Candidate>
+      <Candidate paId="60498" firstName="Geordie" surname="Burnett Stuart" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4211" percentageShare="13.90" />
+      </Candidate>
+      <Candidate paId="60778" firstName="Peter" surname="Smyth" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="2304" percentageShare="7.61" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="2">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="17" name="Clwyd West" electorate="57980" gainOrHold="gain" winningPartyAbbreviation="LD" winningPartyName="Liberal Democrat" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Correction: Liberal Democrat gain from Conservative in Clwyd West">
+      <Candidate previousSittingMember="*" paId="181771" sex="M" firstName="Harry" surname="Wright Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181772" sex="M" firstName="Simon" surname="Jones Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate elected="*" paId="181773" sex="M" firstName="Alun" surname="Lewis Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="181774" sex="M" firstName="Paul" surname="Watson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181775" sex="M" firstName="Alan" surname="Abbott Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181776" sex="M" firstName="David" surname="Harrison Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

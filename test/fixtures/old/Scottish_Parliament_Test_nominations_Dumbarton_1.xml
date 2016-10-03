@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="23" name="Dumbarton" electorate="53470">
+      <Candidate paId="182771" sex="M" firstName="John" surname="McCarthy Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182772" previousSittingMember="*" sex="M" firstName="Philip" surname="Cox Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182773" sex="M" firstName="Richard" surname="Simpson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182774" sex="M" firstName="Peter" surname="Hardy Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182775" sex="F" firstName="Elizabeth" surname="Morris Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="23" name="Dumbarton" turnout="28508" percentageTurnout="53.32" winningParty="Lab" majority="1639" percentageMajority="5.75">
+      <Candidate paId="60794" firstName="Jackie" surname="Baillie" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12562" percentageShare="44.06" />
+      </Candidate>
+      <Candidate paId="60663" firstName="Iain" surname="Robertson" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10923" percentageShare="38.32" />
+      </Candidate>
+      <Candidate paId="60430" firstName="Graham" surname="Smith" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="3395" percentageShare="11.91" />
+      </Candidate>
+      <Candidate paId="70869" firstName="Helen" surname="Watt" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="858" percentageShare="3.01" />
+      </Candidate>
+      <Candidate paId="70889" firstName="George" surname="Rice" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="770" percentageShare="2.70" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:03:03+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="50" name="Glasgow Southside" electorate="52325" turnout="25807" percentageTurnout="49.32" percentageChangeTurnout="+6.11" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="678" percentageMajority="2.63" percentageChangeMajority="+6.11" swing="8.30" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182894" sex="M" firstName="Michael" surname="Davies Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="10754" percentageShare="41.67" percentageShareChange="-12.76" />
+      </Candidate>
+      <Candidate paId="182892" sex="M" firstName="Michael" surname="Fletcher Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="10076" percentageShare="39.04" percentageShareChange="+3.85" />
+      </Candidate>
+      <Candidate paId="182893" sex="M" firstName="Mark" surname="Schofield Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="4063" percentageShare="15.74" percentageShareChange="+13.04" />
+      </Candidate>
+      <Candidate paId="182891" sex="M" firstName="David" surname="Campbell Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="914" percentageShare="3.54" percentageShareChange="-4.12" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="50" name="Glasgow Southside" turnout="22608" percentageTurnout="43.21" winningParty="SNP" majority="4349" percentageMajority="19.24">
+      <Candidate paId="60684" firstName="Nicola" surname="Sturgeon" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="12306" percentageShare="54.43" />
+      </Candidate>
+      <Candidate paId="60816" firstName="Stephen" surname="Curran" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7957" percentageShare="35.20" />
+      </Candidate>
+      <Candidate paId="60446" firstName="David" surname="Meikle" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1733" percentageShare="7.67" />
+      </Candidate>
+      <Candidate paId="66476" firstName="Kenn" surname="Elder" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="612" percentageShare="2.71" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

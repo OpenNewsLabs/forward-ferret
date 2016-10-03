@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Tamworth' paId='3227' type='Non-Met' proportion='third'>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='10' seatsOffered='5' unopposedReturns='0' candidates='10'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='1' seatsOffered='0' unopposedReturns='0' candidates='9'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='18' seatsOffered='4' unopposedReturns='0' candidates='10'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='1' seatsOffered='1' unopposedReturns='0' candidates='4'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='1'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

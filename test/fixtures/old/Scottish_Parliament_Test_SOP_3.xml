@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="3" totalNumberOfConstituencies="73" totalVotes="103307">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="3" totalVotes="53847" percentageShare="52.12" percentageChange="-1.87" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" totalVotes="27764" percentageShare="26.88" percentageChange="+6.04" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalVotes="11512" percentageShare="11.14" percentageChange="-3.56" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalVotes="10184" percentageShare="9.86" percentageChange="+0.18" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="64" name="Perthshire North" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

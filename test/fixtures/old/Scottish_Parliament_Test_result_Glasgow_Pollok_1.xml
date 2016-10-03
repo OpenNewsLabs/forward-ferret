@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T20:03:52+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="47" name="Glasgow Pollok" electorate="58429" turnout="30475" percentageTurnout="52.16" percentageChangeTurnout="+12.94" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="8812" percentageMajority="28.92" percentageChangeMajority="+12.94" swing="15.82" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="182880" sex="M" firstName="Eric" surname="Bentley Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="16908" percentageShare="55.48" percentageShareChange="+10.74" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182878" sex="M" firstName="Charles" surname="Wright Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="8096" percentageShare="26.57" percentageShareChange="-20.89" />
+      </Candidate>
+      <Candidate paId="182877" sex="M" firstName="Alex" surname="McCartney Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2673" percentageShare="8.77" percentageShareChange="+3.11" />
+      </Candidate>
+      <Candidate paId="182879" sex="M" firstName="Martin" surname="Bennett Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="1908" percentageShare="6.26" percentageShareChange="+4.12" />
+      </Candidate>
+      <Candidate paId="182881" sex="M" firstName="Michael" surname="Hughes Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" votes="890" percentageShare="2.92" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="47" name="Glasgow Pollok" turnout="22915" percentageTurnout="39.22" winningParty="Lab" majority="623" percentageMajority="2.72">
+      <Candidate paId="60813" firstName="Johann" surname="Lamont" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10875" percentageShare="47.46" />
+      </Candidate>
+      <Candidate paId="60681" firstName="Chris" surname="Stephens" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10252" percentageShare="44.74" />
+      </Candidate>
+      <Candidate paId="60463" firstName="Andrew" surname="Morrison" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1298" percentageShare="5.66" />
+      </Candidate>
+      <Candidate paId="60641" firstName="Isabel" surname="Nelson" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="490" percentageShare="2.14" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

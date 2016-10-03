@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="18" name="Coatbridge &amp; Chryston" electorate="51206" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Scottish National Party gain from Labour in Coatbridge &amp; Chryston">
+      <Candidate paId="182750" sex="M" firstName="Tim" surname="Newton Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182751" sex="M" firstName="John" surname="Lee Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182752" sex="M" firstName="Robert" surname="Ross Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="182753" sex="F" firstName="Rosie" surname="Turner Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182754" sex="M" firstName="Francis" surname="Lowe Test">
+        <Party paId="8448" name="Green" abbreviation="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

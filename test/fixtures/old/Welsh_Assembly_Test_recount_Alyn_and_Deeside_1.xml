@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Recount revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="3" name="Alyn &amp; Deeside" recount="1" />
+  </Election>
+</Recount>
+

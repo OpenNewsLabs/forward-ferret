@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="104" name="Scotland Central" electorate="486263">
+      <Candidate paId="183197" previousSittingMember="*" sex="M" firstName="Stewart" surname="Byrne Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183198" sex="M" firstName="Mike" surname="Scott Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183199" sex="M" firstName="Clive" surname="Robertson Test" partyListRank="3">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183200" sex="M" firstName="James" surname="Nolan Test" partyListRank="4">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183201" sex="M" firstName="Ray" surname="Murphy Test" partyListRank="5">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183202" sex="M" firstName="Peter" surname="Kelly Test" partyListRank="6">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183203" sex="M" firstName="Gavin" surname="Murray Test" partyListRank="7">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183204" sex="M" firstName="Alan" surname="Kennedy Test" partyListRank="8">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183205" sex="M" firstName="Richard" surname="Muir Test" partyListRank="9">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate paId="183206" sex="M" firstName="John" surname="O'Brien Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183207" sex="M" firstName="John" surname="Reid Test" partyListRank="2">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183208" previousSittingMember="*" sex="M" firstName="Paul" surname="Marshall Test" partyListRank="3">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183209" previousSittingMember="+" sex="M" firstName="Colin" surname="Lee Test" partyListRank="4">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183210" sex="M" firstName="John" surname="Stanley Test" partyListRank="5">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183211" previousSittingMember="*" sex="M" firstName="Nick" surname="Watt Test" partyListRank="6">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183212" previousSittingMember="+" sex="M" firstName="Iain" surname="Smith Test" partyListRank="7">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183213" sex="M" firstName="Martin" surname="Cameron Test" partyListRank="8">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183214" previousSittingMember="+" sex="F" firstName="Anne" surname="Davidson Test" partyListRank="9">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183215" previousSittingMember="*" sex="F" firstName="Nicola" surname="Potter Test" partyListRank="10">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183216" sex="M" firstName="John" surname="Knight Test" partyListRank="11">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183217" sex="M" firstName="Richard" surname="Burgess Test" partyListRank="12">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate paId="183218" sex="M" firstName="Jim" surname="Page Test" partyListRank="1">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183219" sex="M" firstName="Graham" surname="Turner Test" partyListRank="2">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183220" sex="F" firstName="Amy" surname="Mitchell Test" partyListRank="3">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183221" sex="M" firstName="John" surname="Bell Test" partyListRank="4">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183222" sex="M" firstName="Mark" surname="Morgan Test" partyListRank="5">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183223" sex="M" firstName="Christopher" surname="Robinson Test" partyListRank="6">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183224" sex="M" firstName="Malcolm" surname="Smith Test" partyListRank="7">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183225" sex="M" firstName="Graham" surname="Brown Test" partyListRank="8">
+        <Party paId="8446" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate paId="183226" previousSittingMember="+" sex="F" firstName="Jacqui" surname="Scott Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183227" previousSittingMember="+" sex="M" firstName="Alexander" surname="Lewis Test" partyListRank="2">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183228" sex="M" firstName="Michael" surname="Palmer Test" partyListRank="3">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183229" sex="F" firstName="Sue" surname="Johnson Test" partyListRank="4">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183230" previousSittingMember="+" sex="M" firstName="Chris" surname="Clark Test" partyListRank="5">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183231" previousSittingMember="*" sex="M" firstName="Howard" surname="Davis Test" partyListRank="6">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183232" sex="M" firstName="Martin" surname="Foster Test" partyListRank="7">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183233" previousSittingMember="*" sex="F" firstName="Jean" surname="Ward Test" partyListRank="8">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183234" sex="M" firstName="Alan" surname="Lewis Test" partyListRank="9">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183235" sex="M" firstName="Graham" surname="Thompson Test" partyListRank="10">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183236" sex="M" firstName="Stephen" surname="Singh Test" partyListRank="11">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate paId="183237" sex="M" firstName="Richard" surname="Taylor Test" partyListRank="1">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183238" previousSittingMember="*" sex="M" firstName="Robert" surname="Graham Test" partyListRank="2">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183239" sex="M" firstName="James" surname="Bennett Test" partyListRank="3">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183240" sex="M" firstName="Adrian" surname="Watt Test" partyListRank="4">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183241" sex="M" firstName="Tony" surname="Morgan Test" partyListRank="5">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183242" sex="M" firstName="Peter" surname="Brown Test" partyListRank="6">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183243" sex="M" firstName="Nigel" surname="Marsh Test" partyListRank="7">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate paId="183244" sex="M" firstName="Charles" surname="Vincent Test" partyListRank="1">
+        <Party paId="8465" abbreviation="Ind" name="Independent" />
+      </Candidate>
+      <Candidate paId="183254" sex="M" firstName="Bruce" surname="McCabe Test" partyListRank="1">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183255" sex="M" firstName="David" surname="McCabe Test" partyListRank="2">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183256" sex="M" firstName="John" surname="Jones Test" partyListRank="3">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183257" sex="M" firstName="Douglas" surname="Hall Test" partyListRank="4">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183258" sex="M" firstName="David" surname="Griffiths Test" partyListRank="5">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183259" sex="M" firstName="Ian" surname="Allen Test" partyListRank="6">
+        <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" />
+      </Candidate>
+      <Candidate paId="183245" sex="M" firstName="Thomas" surname="Taylor Test" partyListRank="1">
+        <Party paId="8507" abbreviation="SCP" name="Scottish Christian Party" />
+      </Candidate>
+      <Candidate paId="183246" sex="M" firstName="Michael" surname="Francis Test" partyListRank="1">
+        <Party paId="8518" abbreviation="Solidarity" name="Solidarity" />
+      </Candidate>
+      <Candidate paId="183247" sex="M" firstName="Martin" surname="Baker Test" partyListRank="2">
+        <Party paId="8518" abbreviation="Solidarity" name="Solidarity" />
+      </Candidate>
+      <Candidate paId="183248" sex="M" firstName="Michael" surname="Lewis Test" partyListRank="3">
+        <Party paId="8518" abbreviation="Solidarity" name="Solidarity" />
+      </Candidate>
+      <Candidate paId="183249" sex="M" firstName="Mike" surname="Robertson Test" partyListRank="4">
+        <Party paId="8518" abbreviation="Solidarity" name="Solidarity" />
+      </Candidate>
+      <Candidate paId="183250" sex="M" firstName="Malcolm" surname="Rogers Test" partyListRank="5">
+        <Party paId="8518" abbreviation="Solidarity" name="Solidarity" />
+      </Candidate>
+      <Candidate paId="183251" sex="M" firstName="Peter" surname="Knight Test" partyListRank="1">
+        <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="183252" sex="M" firstName="Michael" surname="Taylor Test" partyListRank="2">
+        <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Candidate paId="183253" sex="M" firstName="John" surname="Reid Test" partyListRank="3">
+        <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament Test" date="2011-05-05" type="S">
+    <Constituency number="104" name="Scotland Central" turnout="233560" percentageTurnout="48.03" winningParty="SNP" majority="25802" percentageMajority="11.05">
+      <Candidate elected="*" paId="60508" firstName="Margaret" surname="Mitchell" sex="F">
+        <Party paId="5665" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60854" firstName="Siobhon" surname="McMahon" sex="F">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60849" firstName="Mark" surname="Griffin" sex="M">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60853" firstName="Margaret" surname="McCulloch" sex="F">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60707" firstName="Richard" surname="Lyle" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60659" firstName="John" surname="Wilson" sex="M">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="60695" firstName="Clare" surname="Adamson" sex="F">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Party paId="5669" abbreviation="SNP" name="Scottish National Party" votes="108261" percentageShare="46.35" candidatesElected="3" />
+      <Party paId="5666" abbreviation="Lab" name="Labour" votes="82459" percentageShare="35.31" candidatesElected="3" />
+      <Party paId="5665" abbreviation="C" name="Conservative" votes="14870" percentageShare="6.37" candidatesElected="1" />
+      <Party paId="6176" abbreviation="Pensioners" name="All Scotland Pensioners Party" votes="5793" percentageShare="2.48" />
+      <Party paId="5670" abbreviation="Green" name="Green" votes="5634" percentageShare="2.41" />
+      <Party paId="5668" abbreviation="LD" name="Liberal Democrat" votes="3318" percentageShare="1.42" />
+      <Party paId="5717" abbreviation="SCP" name="Scottish Christian Party" votes="3173" percentageShare="1.36" />
+      <Party paId="5726" abbreviation="Soc Lab" name="Socialist Labour Party" votes="2483" percentageShare="1.06" />
+      <Party paId="5673" abbreviation="BNP" name="British National Party" votes="2214" percentageShare="0.95" />
+      <Party paId="5723" abbreviation="SUP" name="Scottish Unionist Party" votes="1555" percentageShare="0.67" />
+      <Party paId="5729" abbreviation="UKIP" name="UK Independence Party" votes="1263" percentageShare="0.54" />
+      <Party paId="5683" abbreviation="Ind" name="Independent" votes="821" percentageShare="0.35" />
+      <Party paId="5722" abbreviation="SSP" name="Scottish Socialist Party" votes="820" percentageShare="0.35" />
+      <Party paId="5727" abbreviation="Solidarity" name="Solidarity" votes="559" percentageShare="0.24" />
+      <Party paId="6178" abbreviation="Homeland" name="Scottish Homeland Party" votes="337" percentageShare="0.14" />
+    </Constituency>
+  </PreviousElection>
+</TopUpNominations>
+

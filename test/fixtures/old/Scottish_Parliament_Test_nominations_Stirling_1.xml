@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="71" name="Stirling" electorate="51458">
+      <Candidate paId="182981" sex="M" firstName="Ian" surname="Davies Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182982" sex="F" firstName="Louise" surname="Hussain Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182983" sex="M" firstName="Mark" surname="Jones Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182984" previousSittingMember="*" sex="M" firstName="Gordon" surname="White Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="71" name="Stirling" turnout="30406" percentageTurnout="59.09" winningParty="SNP" majority="5670" percentageMajority="18.65">
+      <Candidate paId="60705" firstName="Bruce" surname="Crawford" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14858" percentageShare="48.87" />
+      </Candidate>
+      <Candidate paId="60836" firstName="John" surname="Hendry" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="9188" percentageShare="30.22" />
+      </Candidate>
+      <Candidate paId="60629" firstName="Neil" surname="Benny" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4610" percentageShare="15.16" />
+      </Candidate>
+      <Candidate paId="70741" firstName="Graham" surname="Reed" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1296" percentageShare="4.26" />
+      </Candidate>
+      <Candidate paId="70920" firstName="Jack" surname="Black" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="454" percentageShare="1.49" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

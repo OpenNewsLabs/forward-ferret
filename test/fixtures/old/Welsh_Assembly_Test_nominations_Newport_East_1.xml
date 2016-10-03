@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="28" name="Newport East" electorate="55120">
+      <Candidate paId="181841" sex="F" firstName="Fiona" surname="Campbell Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181842" previousSittingMember="*" sex="F" firstName="Diana" surname="Davies Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181843" sex="M" firstName="Bob" surname="Smith Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181844" sex="M" firstName="Lee" surname="Hopkins Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181845" sex="M" firstName="Steve" surname="Williams Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181846" sex="M" firstName="Tony" surname="Morgan Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="28" name="Newport East" turnout="19460" percentageTurnout="35.30" winningParty="Lab" majority="5388" percentageMajority="27.69">
+      <Candidate paId="60986" firstName="John" surname="Griffiths" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="9888" percentageShare="50.81" />
+      </Candidate>
+      <Candidate paId="60756" firstName="Nick" surname="Webb" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="4500" percentageShare="23.12" />
+      </Candidate>
+      <Candidate paId="60577" firstName="Ed" surname="Townsend" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="3703" percentageShare="19.03" />
+      </Candidate>
+      <Candidate paId="60880" firstName="Chris" surname="Paul" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="1369" percentageShare="7.03" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

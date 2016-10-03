@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionResult roundNumber='1' revision='1' declarationTime='2016-04-20T17:29:32'>
+  <Election name='Bristol mayor test' type='M' date='2016-05-04'>
+    <Constituency number='2' name='Bristol' electorate='326654' turnout='253364' percentageTurnout='77.56' validVotes='253364' quota='126683' paId='510' boundaryChange='false' percentageChangeTurnout='+50.27'>
+      <Round number='1' revision='1' declarationTime='2016-04-20T17:29:32'>
+        <Candidate firstName='Patrick' surname='Norman Test' sex='M' paId='3826' previousSittingMember='*' votes='81545'>
+          <Party name='Bristol 1st' abbreviation='Bristol 1st' paId='1089'/>
+        </Candidate>
+        <Candidate firstName='John' surname='Khan Test' sex='M' paId='3825' votes='52453'>
+          <Party name='Labour' abbreviation='Lab' paId='1086'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Alex' surname='Stanley Test' sex='M' paId='3827' votes='37762'>
+          <Party name='Conservative' abbreviation='C' paId='1085'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='James' surname='Lee Test' sex='M' paId='3828' votes='34330'>
+          <Party name='Green Party' abbreviation='Green' paId='1088'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='John' surname='Shaw Test' sex='M' paId='3829' votes='28437'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='1087'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Margaret' surname='Ritchie Test' sex='F' paId='3833' votes='8765'>
+          <Party name='United Kingdom Independence Party' abbreviation='UKIP' paId='1217'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Peter' surname='Edwards Test' sex='M' paId='3832' votes='3232'>
+          <Party name='Trade Unionist and Socialist Coalition' abbreviation='TUSC' paId='1216'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='James' surname='Jenkins Test' sex='M' paId='3834' votes='2321'>
+          <Party name='Independent James Jenkins Test' abbreviation='Ind' paId='1267'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='John' surname='Davies Test' sex='M' paId='3837' votes='1276'>
+          <Party name='Independent John Davies Test' abbreviation='Ind' paId='1265'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Phillip' surname='Hawkins Test' sex='M' paId='3836' votes='1142'>
+          <Party name='Independent Phillip Hawkins Test' abbreviation='Ind' paId='1266'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Chris' surname='Schofield Test' sex='M' paId='3831' votes='1047'>
+          <Party name='Independent Chris Schofield Test' abbreviation='Ind' paId='1270'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Peter' surname='Jones Test' sex='M' paId='3830' votes='998'>
+          <Party name='Independent Peter Jones Test' abbreviation='Ind' paId='1268'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='John' surname='Robinson Test' sex='M' paId='3835' votes='56'>
+          <Party name='Independent John Robinson Test' abbreviation='Ind' paId='1269'/>
+        </Candidate>
+      </Round>
+    </Constituency>
+  </Election>
+</ElectionResult>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionResult roundNumber='1' revision='1' declarationTime='2016-04-20T17:36:08'>
+  <Election name='Liverpool Mayor test' type='M' date='2016-05-04'>
+    <Constituency number='3' name='Liverpool' electorate='319758' turnout='95701' percentageTurnout='29.93' validVotes='95701' quota='47851' paId='471' boundaryChange='false' percentageChangeTurnout='-0.88'>
+      <Round number='1' revision='1' declarationTime='2016-04-20T17:36:08'>
+        <Candidate firstName='Richard' surname='Ball Test' sex='M' paId='3838' previousSittingMember='*' votes='41098'>
+          <Party name='Labour' abbreviation='Lab' paId='1053'/>
+        </Candidate>
+        <Candidate firstName='Mark' surname='Jenkins Test' sex='M' paId='3842' votes='17566'>
+          <Party name='Conservative' abbreviation='C' paId='1052'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Patricia' surname='Lord Test' sex='F' paId='3840' votes='15487'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='1054'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Adrian' surname='Dixon Test' sex='M' paId='3839' votes='7654'>
+          <Party name='Green' abbreviation='Green' paId='1102'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Simon' surname='Roberts Test' sex='M' paId='3844' votes='5672'>
+          <Party name='Independent Simon Roberts Test' abbreviation='Ind' paId='1271'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Peter' surname='Abbott Test' sex='M' paId='3841' votes='5104'>
+          <Party name='Trade Unionist and Socialist Coalition' abbreviation='TUSC' paId='1218'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='David' surname='Ord Test' sex='M' paId='3843' votes='3120'>
+          <Party name='English Democrats' abbreviation='Eng Dem' paId='1219'/>
+        </Candidate>
+      </Round>
+    </Constituency>
+  </Election>
+</ElectionResult>

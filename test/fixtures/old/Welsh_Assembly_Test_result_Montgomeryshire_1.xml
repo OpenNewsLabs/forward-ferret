@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:26:36+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="26" name="Montgomeryshire" electorate="48675" turnout="28888" percentageTurnout="59.35" percentageChangeTurnout="+12.23" winningParty="Lab" gainOrHold="gain" sittingParty="C" majority="11311" percentageMajority="39.15" percentageChangeMajority="+12.23" swing="41.44" swingTo="Lab" swingFrom="C">
+      <Candidate elected="*" paId="181829" sex="M" firstName="Nick" surname="Taylor Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="16479" percentageShare="57.04" percentageShareChange="+45.67" />
+      </Candidate>
+      <Candidate paId="181831" sex="F" firstName="Anne" surname="Edwards Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="5168" percentageShare="17.89" percentageShareChange="+6.57" />
+      </Candidate>
+      <Candidate paId="181830" sex="M" firstName="Eric" surname="Hayes Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="2829" percentageShare="9.79" percentageShareChange="-23.79" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181828" sex="M" firstName="Stephen" surname="Docherty Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="1878" percentageShare="6.50" percentageShareChange="-37.22" />
+      </Candidate>
+      <Candidate paId="181833" sex="M" firstName="Simon" surname="Thomas Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1339" percentageShare="4.64" />
+      </Candidate>
+      <Candidate paId="181832" sex="M" firstName="Jon" surname="McDonnell Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1195" percentageShare="4.14" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="26" name="Montgomeryshire" turnout="22933" percentageTurnout="47.11" winningParty="C" majority="2324" percentageMajority="10.13">
+      <Candidate paId="60482" firstName="Russell" surname="George" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="10026" percentageShare="43.72" />
+      </Candidate>
+      <Candidate paId="60476" firstName="Wyn" surname="Williams" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="7702" percentageShare="33.58" />
+      </Candidate>
+      <Candidate paId="66528" firstName="Nick" surname="Colbourne" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="2609" percentageShare="11.38" />
+      </Candidate>
+      <Candidate paId="60886" firstName="David" surname="Senior" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2596" percentageShare="11.32" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

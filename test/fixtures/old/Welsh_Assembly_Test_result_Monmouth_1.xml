@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:53:24+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="25" name="Monmouth" electorate="64857" turnout="41492" percentageTurnout="63.97" percentageChangeTurnout="+17.72" winningParty="Lab" gainOrHold="gain" sittingParty="C" majority="5897" percentageMajority="14.21" percentageChangeMajority="+17.72" swing="31.96" swingTo="Lab" swingFrom="C">
+      <Candidate elected="*" paId="181821" sex="M" firstName="Ken" surname="Cameron Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="20369" percentageShare="49.09" percentageShareChange="+19.19" />
+      </Candidate>
+      <Candidate paId="181822" sex="M" firstName="Peter" surname="Smith Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="14472" percentageShare="34.88" percentageShareChange="+25.09" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181820" sex="M" firstName="Ashley" surname="Francis Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="2310" percentageShare="5.57" percentageShareChange="-44.72" />
+      </Candidate>
+      <Candidate paId="181823" sex="M" firstName="Mark" surname="Gardner Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="1318" percentageShare="3.18" percentageShareChange="-4.37" />
+      </Candidate>
+      <Candidate paId="181826" sex="M" firstName="Nick" surname="Jones Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1001" percentageShare="2.41" />
+      </Candidate>
+      <Candidate paId="181824" sex="M" firstName="Andrew" surname="Lewis Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="976" percentageShare="2.35" />
+      </Candidate>
+      <Candidate paId="181825" sex="F" firstName="Sylvia" surname="Ward Test">
+        <Party paId="8635" name="English Democrats Party" abbreviation="Eng Dem" votes="634" percentageShare="1.53" percentageShareChange="-0.95" />
+      </Candidate>
+      <Candidate paId="181827" sex="M" firstName="William" surname="Jenkins Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" votes="412" percentageShare="0.99" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="25" name="Monmouth" turnout="30001" percentageTurnout="46.26" winningParty="C" majority="6117" percentageMajority="20.39">
+      <Candidate paId="60755" firstName="Nick" surname="Ramsay" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="15087" percentageShare="50.29" />
+      </Candidate>
+      <Candidate paId="60985" firstName="Mark" surname="Whitcutt" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8970" percentageShare="29.90" />
+      </Candidate>
+      <Candidate paId="60941" firstName="Janet" surname="Ellard" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2937" percentageShare="9.79" />
+      </Candidate>
+      <Candidate paId="66523" firstName="Fiona" surname="Cross" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2263" percentageShare="7.54" />
+      </Candidate>
+      <Candidate paId="71206" firstName="Steve" surname="Uncles" sex="M">
+        <Party paId="5742" name="English Democrats Party" abbreviation="Eng Dem" votes="744" percentageShare="2.48" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

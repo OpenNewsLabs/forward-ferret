@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:49:00+01:00">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="7" name="Enfield &amp; Haringey" electorate="375758" turnout="245923" percentageTurnout="65.45" percentageChangeTurnout="+27.75" winningParty="C" gainOrHold="gain" sittingParty="Lab" majority="79762" percentageMajority="32.43" percentageChangeMajority="+27.75" swing="28.92" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" paId="181959" sex="M" firstName="Phillip" surname="Green Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" votes="138772" percentageShare="56.43" percentageShareChange="+30.64" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181960" sex="M" firstName="Colin" surname="Cooper Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" votes="59010" percentageShare="24.00" percentageShareChange="-27.21" />
+      </Candidate>
+      <Candidate paId="181963" sex="M" firstName="Andrew" surname="Singh Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" votes="18293" percentageShare="7.44" percentageShareChange="+4.47" />
+      </Candidate>
+      <Candidate paId="181961" sex="F" firstName="Joan" surname="Francis Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" votes="12215" percentageShare="4.97" percentageShareChange="-4.44" />
+      </Candidate>
+      <Candidate paId="181962" sex="F" firstName="Jane" surname="Mitchell Test">
+        <Party paId="8571" name="Green" abbreviation="Green" votes="10193" percentageShare="4.14" percentageShareChange="-4.35" />
+      </Candidate>
+      <Candidate paId="181964" sex="M" firstName="Gerry" surname="Roberts Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" votes="7440" percentageShare="3.03" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="7" name="Enfield &amp; Haringey" turnout="144585" percentageTurnout="37.70" winningParty="Lab" majority="36741" percentageMajority="25.41">
+      <Candidate paId="76020" firstName="Joanne" surname="McCartney" sex="F">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="74034" percentageShare="51.20" />
+      </Candidate>
+      <Candidate paId="80385" firstName="Andy" surname="Hemsted" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="37293" percentageShare="25.79" />
+      </Candidate>
+      <Candidate paId="84765" firstName="Dawn" surname="Barnes" sex="F">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="13601" percentageShare="9.41" />
+      </Candidate>
+      <Candidate paId="80414" firstName="Peter" surname="Krakowiak" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="12278" percentageShare="8.49" />
+      </Candidate>
+      <Candidate paId="80430" firstName="Peter" surname="Staveley" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="4298" percentageShare="2.97" />
+      </Candidate>
+      <Candidate paId="84735" firstName="Marie" surname="Nicholas" sex="M">
+        <Party paId="6427" name="British National Party" abbreviation="BNP" votes="3081" percentageShare="2.13" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

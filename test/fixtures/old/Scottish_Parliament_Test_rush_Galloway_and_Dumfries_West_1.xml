@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="42" name="Galloway &amp; Dumfries West" electorate="56611" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Scottish National Party gain from Conservative in Galloway &amp; Dumfries West">
+      <Candidate paId="182853" sex="F" firstName="Anne" surname="Dhillon Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182854" sex="M" firstName="Andrew" surname="Lloyd Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182855" sex="M" firstName="Andrew" surname="Campbell Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="182856" sex="M" firstName="Michael" surname="Hope Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

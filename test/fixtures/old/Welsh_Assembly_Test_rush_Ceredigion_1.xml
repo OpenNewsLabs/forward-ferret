@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="15" name="Ceredigion" electorate="56983" gainOrHold="hold" winningPartyAbbreviation="PC" winningPartyName="Plaid Cymru" sittingPartyAbbreviation="PC" sittingPartyName="Plaid Cymru" change="false" paStyleMessageText="Plaid Cymru hold Ceredigion">
+      <Candidate paId="181759" sex="M" firstName="John" surname="Brennan Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181760" sex="M" firstName="John" surname="Clarke Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181761" sex="M" firstName="John" surname="Thomson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181762" sex="M" firstName="Adam" surname="Davies Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181763" sex="M" firstName="Doug" surname="Hunt Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181764" sex="M" firstName="David" surname="Morris Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

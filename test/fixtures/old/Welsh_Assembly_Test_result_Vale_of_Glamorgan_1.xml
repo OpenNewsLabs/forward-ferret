@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:44:24+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="38" name="Vale of Glamorgan" electorate="71062" turnout="45977" percentageTurnout="64.70" percentageChangeTurnout="+17.90" winningParty="PC" gainOrHold="gain" sittingParty="Lab" majority="8065" percentageMajority="17.54" percentageChangeMajority="+17.90" swing="26.40" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" paId="181906" sex="M" firstName="Mike" surname="Kennedy Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="19301" percentageShare="41.98" percentageShareChange="+29.88" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181904" sex="M" firstName="Robert" surname="Holmes Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="11236" percentageShare="24.44" percentageShareChange="-22.91" />
+      </Candidate>
+      <Candidate paId="181905" sex="M" firstName="David" surname="Lord Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="10248" percentageShare="22.29" percentageShareChange="+17.74" />
+      </Candidate>
+      <Candidate paId="181903" sex="M" firstName="Phillip" surname="Nolan Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="2747" percentageShare="5.97" percentageShareChange="-30.02" />
+      </Candidate>
+      <Candidate paId="181907" sex="F" firstName="Ruth" surname="O'Donnell Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="1785" percentageShare="3.88" />
+      </Candidate>
+      <Candidate paId="181908" sex="M" firstName="Peter" surname="Davies Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="660" percentageShare="1.44" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="38" name="Vale of Glamorgan" turnout="33254" percentageTurnout="46.80" winningParty="Lab" majority="3775" percentageMajority="11.35">
+      <Candidate paId="60993" firstName="Jane" surname="Hutt" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="15746" percentageShare="47.35" />
+      </Candidate>
+      <Candidate paId="60485" firstName="Angela" surname="Jones-Evans" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="11971" percentageShare="36.00" />
+      </Candidate>
+      <Candidate paId="60892" firstName="Ian" surname="Johnson" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="4024" percentageShare="12.10" />
+      </Candidate>
+      <Candidate paId="60944" firstName="Damian" surname="Chick" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1513" percentageShare="4.55" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

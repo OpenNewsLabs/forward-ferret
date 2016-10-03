@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T18:59:14+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="110" name="East Riding of Yorkshire" electorate="256254">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="130351" percentageTurnout="50.87" winningAnswerText="Remain a member of the EU" majority="33015" percentageMajority="25.33">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="81683" percentageShare="62.66" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="48668" percentageShare="37.34" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

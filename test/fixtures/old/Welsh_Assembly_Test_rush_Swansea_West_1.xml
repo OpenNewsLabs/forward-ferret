@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="35" name="Swansea West" electorate="62345" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Conservative gain from Labour in Swansea West">
+      <Candidate elected="*" paId="181885" sex="M" firstName="John" surname="Cotton Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="181886" sex="M" firstName="Stephen" surname="Ball Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181887" sex="M" firstName="Colin" surname="Coleman Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181888" sex="M" firstName="Gordon" surname="Anderson Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181889" sex="F" firstName="Sarah" surname="Lloyd Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181891" sex="F" firstName="Joan" surname="Robertson Test">
+        <Party paId="8765" name="Socialist Party of Great Britain" abbreviation="SPGB" />
+      </Candidate>
+      <Candidate paId="181890" sex="M" firstName="Alan" surname="Ross Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

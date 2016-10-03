@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="41" name="Fife North East" electorate="58858">
+      <Candidate paId="182849" sex="F" firstName="Angela" surname="Wilson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182850" sex="M" firstName="James" surname="Taylor Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182851" previousSittingMember="+" sex="M" firstName="Peter" surname="Roberts Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182852" previousSittingMember="*" sex="M" firstName="Gordon" surname="Fletcher Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="41" name="Fife North East" turnout="29676" percentageTurnout="50.42" winningParty="SNP" majority="2592" percentageMajority="8.73">
+      <Candidate paId="60696" firstName="Rod" surname="Campbell" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="11029" percentageShare="37.16" />
+      </Candidate>
+      <Candidate paId="60769" firstName="Iain" surname="Smith" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="8437" percentageShare="28.43" />
+      </Candidate>
+      <Candidate paId="60441" firstName="Miles" surname="Briggs" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="5618" percentageShare="18.93" />
+      </Candidate>
+      <Candidate paId="60828" firstName="Colin" surname="Davidson" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3613" percentageShare="12.17" />
+      </Candidate>
+      <Candidate paId="70811" firstName="Mike" surname="Scott-Hayward" sex="M">
+        <Party paId="5729" name="UK Independence Party" abbreviation="UKIP" votes="979" percentageShare="3.30" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

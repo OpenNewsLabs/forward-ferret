@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:00:50+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="9" name="Angus South" electorate="54922" turnout="36424" percentageTurnout="66.32" percentageChangeTurnout="+15.99" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="2800" percentageMajority="7.69" percentageChangeMajority="+15.99" swing="23.81" swingTo="LD" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182715" sex="M" firstName="John" surname="Booth Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="15541" percentageShare="42.67" percentageShareChange="-15.81" />
+      </Candidate>
+      <Candidate paId="182714" sex="F" firstName="Gillian" surname="Moore Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="12741" percentageShare="34.98" percentageShareChange="+31.82" />
+      </Candidate>
+      <Candidate paId="182712" sex="M" firstName="Michael" surname="Morgan Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="6397" percentageShare="17.56" percentageShareChange="-2.63" />
+      </Candidate>
+      <Candidate paId="182713" sex="F" firstName="Dawn" surname="Holmes Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1745" percentageShare="4.79" percentageShareChange="-8.60" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="9" name="Angus South" turnout="27643" percentageTurnout="50.33" winningParty="SNP" majority="10583" percentageMajority="38.28">
+      <Candidate paId="60651" firstName="Graeme" surname="Dey" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16164" percentageShare="58.47" />
+      </Candidate>
+      <Candidate paId="60501" firstName="Hugh" surname="Campbell Adamson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="5581" percentageShare="20.19" />
+      </Candidate>
+      <Candidate paId="60781" firstName="Willie" surname="Campbell" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3703" percentageShare="13.40" />
+      </Candidate>
+      <Candidate paId="70878" firstName="David" surname="Fairweather" sex="M">
+        <Party paId="6172" name="Angus Independents Representatives" abbreviation="Angus Ind" votes="1321" percentageShare="4.78" />
+      </Candidate>
+      <Candidate paId="70729" firstName="Clive" surname="Sneddon" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="874" percentageShare="3.16" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

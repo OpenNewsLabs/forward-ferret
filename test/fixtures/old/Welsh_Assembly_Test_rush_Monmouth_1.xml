@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="25" name="Monmouth" electorate="64857" gainOrHold="gain" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Labour gain from Conservative in Monmouth">
+      <Candidate previousSittingMember="*" paId="181820" sex="M" firstName="Ashley" surname="Francis Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181821" sex="M" firstName="Ken" surname="Cameron Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181822" sex="M" firstName="Peter" surname="Smith Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181823" sex="M" firstName="Mark" surname="Gardner Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181824" sex="M" firstName="Andrew" surname="Lewis Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181825" sex="F" firstName="Sylvia" surname="Ward Test">
+        <Party paId="8635" name="English Democrats Party" abbreviation="Eng Dem" />
+      </Candidate>
+      <Candidate paId="181827" sex="M" firstName="William" surname="Jenkins Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181826" sex="M" firstName="Nick" surname="Jones Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="2">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="68" name="Rutherglen" electorate="57777">
+      <Candidate paId="182968" sex="M" firstName="David" surname="Browne Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182969" previousSittingMember="*" sex="F" firstName="Helen" surname="Gibson Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182970" sex="F" firstName="Barbara" surname="Hussain Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182971" sex="M" firstName="Tim" surname="Jackson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="68" name="Rutherglen" turnout="27122" percentageTurnout="46.94" winningParty="Lab" majority="1779" percentageMajority="6.56">
+      <Candidate paId="60834" firstName="James" surname="Kelly" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12489" percentageShare="46.05" />
+      </Candidate>
+      <Candidate paId="60703" firstName="Jim" surname="McGuigan" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10710" percentageShare="39.49" />
+      </Candidate>
+      <Candidate paId="60514" firstName="Martyn" surname="McIntyre" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2096" percentageShare="7.73" />
+      </Candidate>
+      <Candidate paId="70740" firstName="Lisa" surname="Strachan" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1194" percentageShare="4.40" />
+      </Candidate>
+      <Candidate paId="70995" firstName="Caroline" surname="Johnstone" sex="F">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="633" percentageShare="2.33" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

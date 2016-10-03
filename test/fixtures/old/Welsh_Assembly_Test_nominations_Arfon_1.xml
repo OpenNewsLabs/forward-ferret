@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="4" name="Arfon" electorate="41093">
+      <Candidate paId="181691" sex="M" firstName="Kevin" surname="Phillips Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181692" sex="M" firstName="Andrew" surname="Simpson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181693" sex="M" firstName="Jason" surname="Roberts Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181694" sex="M" firstName="Ian" surname="Muir Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="4" name="Arfon" turnout="17664" percentageTurnout="42.99" winningParty="PC" majority="5394" percentageMajority="30.54">
+      <Candidate paId="60877" firstName="Alun Ffred" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="10024" percentageShare="56.75" />
+      </Candidate>
+      <Candidate paId="70701" firstName="Christina" surname="Rees" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="4630" percentageShare="26.21" />
+      </Candidate>
+      <Candidate paId="70760" firstName="Aled" surname="Davies" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2209" percentageShare="12.51" />
+      </Candidate>
+      <Candidate paId="60932" firstName="Rhys" surname="Jones" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="801" percentageShare="4.53" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

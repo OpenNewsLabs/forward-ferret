@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="56" name="Linlithgow" electorate="65025">
+      <Candidate paId="182915" sex="M" firstName="Nigel" surname="Vincent Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182916" sex="M" firstName="James" surname="Smith Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182917" sex="M" firstName="Jim" surname="Taylor Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182918" previousSittingMember="*" sex="M" firstName="Alasdair" surname="Lloyd Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="56" name="Linlithgow" turnout="34182" percentageTurnout="52.57" winningParty="SNP" majority="4091" percentageMajority="11.97">
+      <Candidate paId="60690" firstName="Fiona" surname="Hyslop" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="17027" percentageShare="49.81" />
+      </Candidate>
+      <Candidate paId="60469" firstName="Mary" surname="Mulligan" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12936" percentageShare="37.84" />
+      </Candidate>
+      <Candidate paId="60449" firstName="Christopher" surname="Donnelly" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2646" percentageShare="7.74" />
+      </Candidate>
+      <Candidate paId="70874" firstName="Jenni" surname="Lang" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1015" percentageShare="2.97" />
+      </Candidate>
+      <Candidate paId="70880" firstName="Mike" surname="Coyle" sex="M">
+        <Party paId="6174" name="National Front" abbreviation="Nat Front" votes="558" percentageShare="1.63" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:40:06+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="4" name="Arfon" electorate="41093" turnout="22428" percentageTurnout="54.58" percentageChangeTurnout="+11.59" winningParty="Lab" gainOrHold="gain" sittingParty="PC" majority="8373" percentageMajority="37.33" percentageChangeMajority="+11.59" swing="35.52" swingTo="Lab" swingFrom="PC">
+      <Candidate elected="*" paId="181692" sex="M" firstName="Andrew" surname="Simpson Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="12346" percentageShare="55.05" percentageShareChange="+28.84" />
+      </Candidate>
+      <Candidate paId="181691" sex="M" firstName="Kevin" surname="Phillips Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="3973" percentageShare="17.71" percentageShareChange="+5.21" />
+      </Candidate>
+      <Candidate paId="181694" sex="M" firstName="Ian" surname="Muir Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="3262" percentageShare="14.54" percentageShareChange="-42.20" />
+      </Candidate>
+      <Candidate paId="181693" sex="M" firstName="Jason" surname="Roberts Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="2847" percentageShare="12.69" percentageShareChange="+8.16" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="4" name="Arfon" turnout="17664" percentageTurnout="42.99" winningParty="PC" majority="5394" percentageMajority="30.54">
+      <Candidate paId="60877" firstName="Alun Ffred" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="10024" percentageShare="56.75" />
+      </Candidate>
+      <Candidate paId="70701" firstName="Christina" surname="Rees" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="4630" percentageShare="26.21" />
+      </Candidate>
+      <Candidate paId="70760" firstName="Aled" surname="Davies" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2209" percentageShare="12.51" />
+      </Candidate>
+      <Candidate paId="60932" firstName="Rhys" surname="Jones" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="801" percentageShare="4.53" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="64" name="Perthshire North" electorate="53412">
+      <Candidate paId="182949" previousSittingMember="+" sex="M" firstName="Roger" surname="Johnson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182950" sex="M" firstName="Alex" surname="Marsh Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182951" sex="M" firstName="Jim" surname="Thompson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182952" previousSittingMember="*" sex="M" firstName="David" surname="Morris Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="64" name="Perthshire North" turnout="29953" percentageTurnout="56.08" winningParty="SNP" majority="10353" percentageMajority="34.56">
+      <Candidate paId="60699" firstName="John" surname="Swinney" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="18219" percentageShare="60.83" />
+      </Candidate>
+      <Candidate paId="60452" firstName="Murdo" surname="Fraser" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="7866" percentageShare="26.26" />
+      </Candidate>
+      <Candidate paId="60830" firstName="Pete" surname="Cheema" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="2672" percentageShare="8.92" />
+      </Candidate>
+      <Candidate paId="70679" firstName="Victor" surname="Clements" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1196" percentageShare="3.99" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

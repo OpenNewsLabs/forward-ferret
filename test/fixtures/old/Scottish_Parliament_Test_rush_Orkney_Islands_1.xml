@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="62" name="Orkney Islands" electorate="16393" gainOrHold="gain" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="LD" sittingPartyName="Liberal Democrat" change="true" paStyleMessageText="Scottish National Party gain from Liberal Democrat in Orkney Islands">
+      <Candidate paId="182940" sex="M" firstName="Mark" surname="Newton Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182941" sex="M" firstName="John" surname="Roberts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182942" sex="M" firstName="Andrew" surname="Allan Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" paId="182943" sex="M" firstName="Gordon" surname="Owen Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182944" sex="M" firstName="John" surname="Davies Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

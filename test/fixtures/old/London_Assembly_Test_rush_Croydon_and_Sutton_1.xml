@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="5" name="Croydon &amp; Sutton" electorate="400137" gainOrHold="gain" winningPartyAbbreviation="Lab" winningPartyName="Labour" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Labour gain from Conservative in Croydon &amp; Sutton">
+      <Candidate previousSittingMember="*" paId="181947" sex="M" firstName="Adam" surname="Griffiths Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate elected="*" paId="181948" sex="M" firstName="Jeremy" surname="Edwards Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181949" sex="F" firstName="Janet" surname="Rogers Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181950" sex="M" firstName="Nick" surname="Arnott Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181953" sex="M" firstName="Tony" surname="Smith Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181951" sex="M" firstName="Andrew" surname="Francis Test">
+        <Party paId="8596" name="National Front" abbreviation="NF" />
+      </Candidate>
+      <Candidate paId="181952" sex="F" firstName="Alison" surname="Wallace Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

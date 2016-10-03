@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:26:36+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="2" name="Aberdeen Donside" electorate="56145" turnout="40943" percentageTurnout="72.92" percentageChangeTurnout="+25.26" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="11538" percentageMajority="28.18" percentageChangeMajority="+25.26" swing="9.50" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182687" sex="M" firstName="Malcolm" surname="Hawkins Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="21689" percentageShare="52.97" percentageShareChange="-2.29" />
+      </Candidate>
+      <Candidate paId="182684" sex="M" firstName="Robert" surname="Robertson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="10151" percentageShare="24.79" percentageShareChange="+16.70" />
+      </Candidate>
+      <Candidate paId="182686" sex="M" firstName="John" surname="Cook Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="7468" percentageShare="18.24" percentageShareChange="+12.24" />
+      </Candidate>
+      <Candidate paId="182685" sex="M" firstName="Tim" surname="Taylor Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1635" percentageShare="3.99" percentageShareChange="-24.46" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="2" name="Aberdeen Donside" turnout="26761" percentageTurnout="47.66" winningParty="SNP" majority="7175" percentageMajority="26.81">
+      <Candidate paId="60643" firstName="Brian" surname="Adam" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14790" percentageShare="55.27" />
+      </Candidate>
+      <Candidate paId="60776" firstName="Barney" surname="Crockett" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7615" percentageShare="28.46" />
+      </Candidate>
+      <Candidate paId="60497" firstName="Ross" surname="Thomson" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2166" percentageShare="8.09" />
+      </Candidate>
+      <Candidate paId="70861" firstName="Millie" surname="McLeod" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1606" percentageShare="6.00" />
+      </Candidate>
+      <Candidate paId="70882" firstName="David" surname="Henderson" sex="M">
+        <Party paId="5683" name="Independent" abbreviation="Ind" votes="371" percentageShare="1.39" />
+      </Candidate>
+      <Candidate paId="70883" firstName="Christopher" surname="Willett" sex="M">
+        <Party paId="6174" name="National Front" abbreviation="Nat Front" votes="213" percentageShare="0.80" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+  <PreviousElection name="Aberdeen Donside" date="2013-06-20" type="B">
+    <Constituency number="1" name="Aberdeen Donside" turnout="23378" percentageTurnout="38.81" winningParty="SNP" majority="2025" percentageMajority="8.66">
+      <Candidate paId="0" firstName="" surname="McDonald" sex="M">
+        <Party paId="7216" name="Scottish National Party" abbreviation="SNP" votes="9814" percentageShare="41.98" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Young" sex="M">
+        <Party paId="7214" name="Labour" abbreviation="Lab" votes="7789" percentageShare="33.32" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Jardine" sex="M">
+        <Party paId="7215" name="Liberal Democrat" abbreviation="LD" votes="1940" percentageShare="8.30" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Thomson" sex="M">
+        <Party paId="7213" name="Conservative" abbreviation="C" votes="1791" percentageShare="7.66" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Inglis" sex="M">
+        <Party paId="7220" name="UK Independence Party" abbreviation="UKIP" votes="1128" percentageShare="4.83" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Reekie" sex="M">
+        <Party paId="7219" name="Green" abbreviation="Green" votes="410" percentageShare="1.75" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="MacDonald" sex="M">
+        <Party paId="7218" name="National Front" abbreviation="Nat Front" votes="249" percentageShare="1.07" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Morrow" sex="M">
+        <Party paId="7221" name="Scottish Christian Party" abbreviation="SCP" votes="222" percentageShare="0.95" />
+      </Candidate>
+      <Candidate paId="0" firstName="" surname="Trolland" sex="M">
+        <Party paId="7222" name="Scottish Democratic Alliance" abbreviation="SDA" votes="35" percentageShare="0.15" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

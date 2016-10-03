@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="14" name="Carrick, Cumnock &amp; Doon Valley" electorate="59368">
+      <Candidate paId="182732" sex="F" firstName="Elaine" surname="Owen Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182733" sex="M" firstName="John" surname="Holden Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182734" sex="M" firstName="Graham" surname="Gardner Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182735" sex="M" firstName="James" surname="Wright Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="14" name="Carrick, Cumnock &amp; Doon Valley" turnout="28703" percentageTurnout="48.35" winningParty="SNP" majority="2581" percentageMajority="8.99">
+      <Candidate paId="60655" firstName="Adam" surname="Ingram" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13250" percentageShare="46.16" />
+      </Candidate>
+      <Candidate paId="60785" firstName="Richard" surname="Leonard" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10669" percentageShare="37.17" />
+      </Candidate>
+      <Candidate paId="60426" firstName="Peter" surname="Kennerley" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4160" percentageShare="14.49" />
+      </Candidate>
+      <Candidate paId="70863" firstName="Andrew" surname="Chamberlain" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="624" percentageShare="2.17" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

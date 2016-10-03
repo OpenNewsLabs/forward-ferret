@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="39" name="Wrexham" electorate="53516">
+      <Candidate paId="181909" sex="M" firstName="John" surname="Wright Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181910" previousSittingMember="*" sex="M" firstName="Mark" surname="Murphy Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181911" sex="M" firstName="David" surname="Mitchell Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181912" sex="M" firstName="David" surname="O'Donnell Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181913" sex="M" firstName="Nicholas" surname="Stewart Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181914" sex="M" firstName="Michael" surname="Cotton Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="39" name="Wrexham" turnout="18687" percentageTurnout="34.92" winningParty="Lab" majority="3337" percentageMajority="17.86">
+      <Candidate paId="60994" firstName="Lesley" surname="Griffiths" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8368" percentageShare="44.78" />
+      </Candidate>
+      <Candidate paId="60481" firstName="John" surname="Marek" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="5031" percentageShare="26.92" />
+      </Candidate>
+      <Candidate paId="60581" firstName="Bill" surname="Brereton" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="2692" percentageShare="14.41" />
+      </Candidate>
+      <Candidate paId="60898" firstName="Marc" surname="Jones" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2596" percentageShare="13.89" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

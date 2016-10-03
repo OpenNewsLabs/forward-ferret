@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="73" name="Uddingston &amp; Bellshill" electorate="55584">
+      <Candidate paId="182989" sex="F" firstName="Karen" surname="Moore Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182990" previousSittingMember="*" sex="M" firstName="Alan" surname="Watts Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182991" sex="M" firstName="John" surname="Anderson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182992" previousSittingMember="+" sex="M" firstName="Paul" surname="Hawkins Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="73" name="Uddingston &amp; Bellshill" turnout="24995" percentageTurnout="44.97" winningParty="Lab" majority="714" percentageMajority="2.86">
+      <Candidate paId="60471" firstName="Michael" surname="McMahon" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="11531" percentageShare="46.13" />
+      </Candidate>
+      <Candidate paId="60707" firstName="Richard" surname="Lyle" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10817" percentageShare="43.28" />
+      </Candidate>
+      <Candidate paId="60515" firstName="Mark" surname="Brown" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2117" percentageShare="8.47" />
+      </Candidate>
+      <Candidate paId="70876" firstName="Fraser" surname="Macgregor" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="530" percentageShare="2.12" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

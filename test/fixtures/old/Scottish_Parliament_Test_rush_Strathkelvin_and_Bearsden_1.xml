@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="72" name="Strathkelvin &amp; Bearsden" electorate="59323" gainOrHold="gain" winningPartyAbbreviation="LD" winningPartyName="Liberal Democrat" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="true" paStyleMessageText="Liberal Democrat gain from Scottish National Party in Strathkelvin &amp; Bearsden">
+      <Candidate paId="182985" sex="M" firstName="Alan" surname="Griffiths Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182986" sex="M" firstName="Robert" surname="Rogers Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate elected="*" paId="182987" sex="M" firstName="Jim" surname="Holden Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182988" sex="M" firstName="Mike" surname="Skinner Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

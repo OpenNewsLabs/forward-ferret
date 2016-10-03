@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="38" name="Vale of Glamorgan" electorate="71062">
+      <Candidate paId="181903" sex="M" firstName="Phillip" surname="Nolan Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181904" previousSittingMember="*" sex="M" firstName="Robert" surname="Holmes Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181905" sex="M" firstName="David" surname="Lord Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181906" sex="M" firstName="Mike" surname="Kennedy Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181907" sex="F" firstName="Ruth" surname="O'Donnell Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181908" sex="M" firstName="Peter" surname="Davies Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="38" name="Vale of Glamorgan" turnout="33254" percentageTurnout="46.80" winningParty="Lab" majority="3775" percentageMajority="11.35">
+      <Candidate paId="60993" firstName="Jane" surname="Hutt" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="15746" percentageShare="47.35" />
+      </Candidate>
+      <Candidate paId="60485" firstName="Angela" surname="Jones-Evans" sex="F">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="11971" percentageShare="36.00" />
+      </Candidate>
+      <Candidate paId="60892" firstName="Ian" surname="Johnson" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="4024" percentageShare="12.10" />
+      </Candidate>
+      <Candidate paId="60944" firstName="Damian" surname="Chick" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1513" percentageShare="4.55" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

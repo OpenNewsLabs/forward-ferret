@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T20:00:49+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="55" name="Kirkcaldy" electorate="60079" turnout="30136" percentageTurnout="50.16" percentageChangeTurnout="+3.88" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="1000" percentageMajority="3.32" percentageChangeMajority="+3.88" swing="1.33" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="182914" sex="M" firstName="Bill" surname="Watts Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="12678" percentageShare="42.07" percentageShareChange="-3.17" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182912" sex="M" firstName="Philip" surname="Taylor Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="11678" percentageShare="38.75" percentageShareChange="-5.84" />
+      </Candidate>
+      <Candidate paId="182913" sex="M" firstName="Malcolm" surname="Campbell Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="3890" percentageShare="12.91" percentageShareChange="+9.96" />
+      </Candidate>
+      <Candidate paId="182911" sex="M" firstName="Michael" surname="Potter Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="1890" percentageShare="6.27" percentageShareChange="-0.95" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="55" name="Kirkcaldy" turnout="27803" percentageTurnout="46.28" winningParty="SNP" majority="182" percentageMajority="0.65">
+      <Candidate paId="60689" firstName="David" surname="Torrance" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="12579" percentageShare="45.24" />
+      </Candidate>
+      <Candidate paId="60821" firstName="Marilyn" surname="Livingstone" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12397" percentageShare="44.59" />
+      </Candidate>
+      <Candidate paId="60510" firstName="Ian" surname="McFarlane" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2007" percentageShare="7.22" />
+      </Candidate>
+      <Candidate paId="70737" firstName="John" surname="Mainland" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="820" percentageShare="2.95" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

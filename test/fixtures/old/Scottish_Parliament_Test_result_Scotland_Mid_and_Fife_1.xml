@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpResult revision="1" declarationTime="2016-04-27T18:19:52+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="105" name="Scotland Mid &amp; Fife" electorate="494779" turnout="267451" percentageTurnout="54.05" percentageChangeTurnout="+1.88" winningParty="SNP" majority="63456" percentageMajority="23.73" percentageChangeMajority="+1.88" swing="1.78" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="183260" sex="M" firstName="Peter" surname="Harper Test" partyListRank="1">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="183261" sex="M" firstName="Mohammed" surname="Jackson Test" partyListRank="2">
+        <Party paId="8443" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183269" sex="M" firstName="David" surname="Kemp Test" partyListRank="1">
+        <Party paId="8444" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="183289" sex="M" firstName="Jimmy" surname="Cole Test" partyListRank="1">
+        <Party paId="8447" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Candidate elected="*" paId="183301" sex="M" firstName="Nigel" surname="Miller Test" partyListRank="1">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="183302" sex="M" firstName="Mark" surname="Jackson Test" partyListRank="2">
+        <Party paId="8448" abbreviation="Green" name="Green" />
+      </Candidate>
+      <Candidate elected="*" paId="183316" sex="M" firstName="Ken" surname="Lewis Test" partyListRank="1">
+        <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" />
+      </Candidate>
+      <Party paId="8447" abbreviation="SNP" name="Scottish National Party" votes="123567" percentageShare="46.20" percentageShareChange="+1.00" />
+      <Party paId="8444" abbreviation="Lab" name="Labour" votes="60111" percentageShare="22.48" percentageShareChange="-2.56" />
+      <Party paId="8443" abbreviation="C" name="Conservative" votes="46776" percentageShare="17.49" percentageShareChange="+3.37" />
+      <Party paId="8446" abbreviation="LD" name="Liberal Democrat" votes="18764" percentageShare="7.02" percentageShareChange="+1.17" />
+      <Party paId="8448" abbreviation="Green" name="Green" votes="12332" percentageShare="4.61" percentageShareChange="+0.38" />
+      <Party paId="8520" abbreviation="UKIP" name="UK Independence Party" votes="5112" percentageShare="1.91" percentageShareChange="+0.81" />
+      <Party paId="8731" abbreviation="RISE" name="Respect, Independence, Socialism and Environmentalism" votes="500" percentageShare="0.19" />
+      <Party paId="8730" abbreviation="SLP" name="Scottish Libertarian Party" votes="188" percentageShare="0.07" />
+      <Party paId="8518" abbreviation="Solidarity" name="Solidarity" votes="101" percentageShare="0.04" percentageShareChange="-0.04" />
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament Test" date="2011-05-05" type="S">
+    <Constituency number="105" name="Scotland Mid &amp; Fife" turnout="258163" percentageTurnout="52.18" winningParty="SNP" majority="52068" percentageMajority="20.17">
+      <Candidate elected="*" paId="60452" firstName="Murdo" surname="Fraser" sex="M">
+        <Party paId="5665" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60453" firstName="Elizabeth" surname="Smith" sex="F">
+        <Party paId="5665" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" paId="60844" firstName="John" surname="Park" sex="M">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60823" firstName="Claire" surname="Baker" sex="F">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60786" firstName="Richard" surname="Simpson" sex="M">
+        <Party paId="5666" abbreviation="Lab" name="Labour" />
+      </Candidate>
+      <Candidate elected="*" paId="60542" firstName="Willie" surname="Rennie" sex="M">
+        <Party paId="5668" abbreviation="LD" name="Liberal Democrat" />
+      </Candidate>
+      <Candidate elected="*" paId="60724" firstName="Annabelle" surname="Ewing" sex="F">
+        <Party paId="5669" abbreviation="SNP" name="Scottish National Party" />
+      </Candidate>
+      <Party paId="5669" abbreviation="SNP" name="Scottish National Party" votes="116691" percentageShare="45.20" candidatesElected="1" />
+      <Party paId="5666" abbreviation="Lab" name="Labour" votes="64623" percentageShare="25.03" candidatesElected="3" />
+      <Party paId="5665" abbreviation="C" name="Conservative" votes="36458" percentageShare="14.12" candidatesElected="2" />
+      <Party paId="5668" abbreviation="LD" name="Liberal Democrat" votes="15103" percentageShare="5.85" candidatesElected="1" />
+      <Party paId="5670" abbreviation="Green" name="Green" votes="10914" percentageShare="4.23" />
+      <Party paId="6176" abbreviation="Pensioners" name="All Scotland Pensioners Party" votes="4113" percentageShare="1.59" />
+      <Party paId="5729" abbreviation="UKIP" name="UK Independence Party" votes="2838" percentageShare="1.10" />
+      <Party paId="5726" abbreviation="Soc Lab" name="Socialist Labour Party" votes="1771" percentageShare="0.69" />
+      <Party paId="5673" abbreviation="BNP" name="British National Party" votes="1726" percentageShare="0.67" />
+      <Party paId="5683" abbreviation="Ind" name="Independent" votes="1466" percentageShare="0.57" />
+      <Party paId="5722" abbreviation="SSP" name="Scottish Socialist Party" votes="834" percentageShare="0.32" />
+      <Party paId="5717" abbreviation="SCP" name="Scottish Christian Party" votes="786" percentageShare="0.30" />
+      <Party paId="5675" abbreviation="CPA" name="Christian Peoples Alliance" votes="638" percentageShare="0.25" />
+      <Party paId="5727" abbreviation="Solidarity" name="Solidarity" votes="202" percentageShare="0.08" />
+    </Constituency>
+  </PreviousElection>
+</TopUpResult>
+

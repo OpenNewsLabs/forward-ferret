@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Crawley' paId='3186' type='Non-Met' proportion='third' winningParty='C' gainOrHold='gain' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='7'/>
+        <Party name='C' paId='313' seats='6'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+1'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='19'/>
+        <Party name='Lab' paId='314' seats='18'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="12" name="North East" electorate="500374">
+      <Candidate paId="181989" sex="M" firstName="John" surname="Cooke Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181990" previousSittingMember="*" sex="M" firstName="Barry" surname="Kerr Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181991" sex="M" firstName="Martin" surname="Wilkinson Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181992" sex="M" firstName="Alan" surname="Miller Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181993" sex="M" firstName="Stephen" surname="O'Brien Test">
+        <Party paId="8579" name="Communist League" abbreviation="Comm L" />
+      </Candidate>
+      <Candidate paId="181994" sex="M" firstName="Ian" surname="Hunt Test">
+        <Party paId="8605" name="Respect (George Galloway)" abbreviation="Respect GG" />
+      </Candidate>
+      <Candidate paId="181995" sex="M" firstName="Roger" surname="Williams Test">
+        <Party paId="8609" name="The Socialist Party (GB)" abbreviation="SPGB" />
+      </Candidate>
+      <Candidate paId="181996" sex="M" firstName="John" surname="Harris Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="12" name="North East" turnout="191995" percentageTurnout="38.33" winningParty="Lab" majority="66188" percentageMajority="34.47">
+      <Candidate paId="76015" firstName="Jennette" surname="Arnold" sex="F">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="101902" percentageShare="53.08" />
+      </Candidate>
+      <Candidate paId="80390" firstName="Naomi" surname="Newstead" sex="F">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="35714" percentageShare="18.60" />
+      </Candidate>
+      <Candidate paId="76057" firstName="Caroline" surname="Allen" sex="F">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="29677" percentageShare="15.46" />
+      </Candidate>
+      <Candidate paId="84772" firstName="Farooq" surname="Qureshi" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="13237" percentageShare="6.89" />
+      </Candidate>
+      <Candidate paId="80433" firstName="Paul" surname="Wiffen" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="6623" percentageShare="3.45" />
+      </Candidate>
+      <Candidate paId="84757" firstName="Ijaz" surname="Hayat" sex="M">
+        <Party paId="6438" name="Independent" abbreviation="Ind" votes="4842" percentageShare="2.52" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

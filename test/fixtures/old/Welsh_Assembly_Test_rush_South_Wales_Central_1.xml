@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TopUpRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="101" name="South Wales Central" electorate="506293">
+      <Candidate elected="*" previousSittingMember="*" paId="181369" sex="M" firstName="Ben" surname="Campbell Test" partyListRank="1">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181370" sex="M" firstName="Michael" surname="Holmes Test" partyListRank="2">
+        <Party paId="8623" abbreviation="C" name="Conservative" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="181387" sex="F" firstName="Joan" surname="Williams Test" partyListRank="1">
+        <Party paId="8627" abbreviation="PC" name="Plaid Cymru" />
+      </Candidate>
+      <Candidate elected="*" paId="181399" sex="M" firstName="David" surname="Donnelly Test" partyListRank="1">
+        <Party paId="8628" abbreviation="Green" name="Green" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</TopUpRush>
+

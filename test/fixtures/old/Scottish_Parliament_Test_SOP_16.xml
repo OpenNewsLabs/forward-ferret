@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="16" totalNumberOfConstituencies="73" totalVotes="560774">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="15" gains="3" losses="1" totalVotes="290233" percentageShare="51.76" percentageChange="+7.28" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalSeats="1" gains="1" totalVotes="117607" percentageShare="20.97" percentageChange="+6.67" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" losses="3" totalVotes="88010" percentageShare="15.69" percentageChange="-15.70" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalVotes="59679" percentageShare="10.64" percentageChange="+1.59" />
+    <Party paId="8465" name="Independent" abbreviation="Ind" totalVotes="3580" percentageShare="0.64" percentageChange="+0.15" />
+    <Party paId="8448" name="Green" abbreviation="Green" totalVotes="718" percentageShare="0.13" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="947" percentageShare="0.17" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Aberdeen Central" />
+    <Constituency number="2" name="Aberdeen Donside" />
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" />
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" />
+    <Constituency number="16" name="Clydebank &amp; Milngavie" />
+    <Constituency number="17" name="Clydesdale" />
+    <Constituency number="18" name="Coatbridge &amp; Chryston" />
+    <Constituency number="24" name="Dumfriesshire" />
+    <Constituency number="27" name="Dunfermline" />
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" />
+    <Constituency number="35" name="Edinburgh Southern" />
+    <Constituency number="38" name="Falkirk East" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="64" name="Perthshire North" />
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Worcester' paId='3238' type='Non-Met' proportion='third' winningParty='NOC' gainOrHold='lose to NOC' sittingParty='C'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='8'/>
+        <Party name='C' paId='313' seats='2'/>
+        <Party name='Green' paId='316' seats='2'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='Lab' paId='314' change='+2'/>
+        <Party name='Green' paId='316' change='+1'/>
+        <Party name='C' paId='313' change='-3'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='17'/>
+        <Party name='C' paId='313' seats='16'/>
+        <Party name='Green' paId='316' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

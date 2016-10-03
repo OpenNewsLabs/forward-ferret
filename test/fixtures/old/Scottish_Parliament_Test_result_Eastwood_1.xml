@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:59:14+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="30" name="Eastwood" electorate="50476" turnout="34330" percentageTurnout="68.01" percentageChangeTurnout="+4.77" winningParty="SNP" gainOrHold="gain" sittingParty="Lab" majority="8627" percentageMajority="25.13" percentageChangeMajority="+4.77" swing="34.23" swingTo="SNP" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="+" paId="182805" sex="M" firstName="James" surname="Davidson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="19371" percentageShare="56.43" percentageShareChange="+32.06" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182802" sex="F" firstName="Helen" surname="Taylor Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="10744" percentageShare="31.30" percentageShareChange="-2.06" />
+      </Candidate>
+      <Candidate paId="182804" sex="F" firstName="Jean" surname="Hayes Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="3090" percentageShare="9.00" percentageShareChange="+6.39" />
+      </Candidate>
+      <Candidate previousSittingMember="*" paId="182803" sex="F" firstName="Liz" surname="Harvey Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="1125" percentageShare="3.28" percentageShareChange="-36.39" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="30" name="Eastwood" turnout="31924" percentageTurnout="63.25" winningParty="Lab" majority="2012" percentageMajority="6.30">
+      <Candidate paId="60800" firstName="Ken" surname="Macintosh" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12662" percentageShare="39.66" />
+      </Candidate>
+      <Candidate paId="60432" firstName="Jackson" surname="Carlaw" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="10650" percentageShare="33.36" />
+      </Candidate>
+      <Candidate paId="60669" firstName="Stewart" surname="Maxwell" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="7777" percentageShare="24.36" />
+      </Candidate>
+      <Candidate paId="70870" firstName="Gordon" surname="Cochrane" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="835" percentageShare="2.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

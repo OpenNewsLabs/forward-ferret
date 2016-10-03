@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:22:32+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="31" name="Pontypridd" electorate="60028" turnout="40083" percentageTurnout="66.77" percentageChangeTurnout="+27.90" winningParty="Lab" gainOrHold="hold" sittingParty="Lab" majority="2776" percentageMajority="6.93" percentageChangeMajority="+27.90" swing="14.12" swingTo="C" swingFrom="Lab">
+      <Candidate elected="*" previousSittingMember="*" paId="181862" sex="M" firstName="Richard" surname="Owen Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="18513" percentageShare="46.19" percentageShareChange="-4.66" />
+      </Candidate>
+      <Candidate paId="181861" sex="M" firstName="Mark" surname="Robertson Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="15737" percentageShare="39.26" percentageShareChange="+23.58" />
+      </Candidate>
+      <Candidate paId="181864" sex="M" firstName="Michael" surname="Smith Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="4102" percentageShare="10.23" percentageShareChange="-3.22" />
+      </Candidate>
+      <Candidate paId="181863" sex="F" firstName="Patricia" surname="Hall Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="835" percentageShare="2.08" percentageShareChange="-15.79" />
+      </Candidate>
+      <Candidate paId="181865" sex="M" firstName="Barry" surname="Smith Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="543" percentageShare="1.35" />
+      </Candidate>
+      <Candidate paId="181866" sex="M" firstName="Brian" surname="Young Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="353" percentageShare="0.88" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="31" name="Pontypridd" turnout="23333" percentageTurnout="38.87" winningParty="Lab" majority="7694" percentageMajority="32.97">
+      <Candidate paId="60458" firstName="Mick" surname="Antoniw" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="11864" percentageShare="50.85" />
+      </Candidate>
+      <Candidate paId="60474" firstName="Mike" surname="Powell" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="4170" percentageShare="17.87" />
+      </Candidate>
+      <Candidate paId="66517" firstName="Joel" surname="James" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3659" percentageShare="15.68" />
+      </Candidate>
+      <Candidate paId="60894" firstName="Ioan" surname="Bellin" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3139" percentageShare="13.45" />
+      </Candidate>
+      <Candidate paId="71321" firstName="Ken" surname="Owen" sex="M">
+        <Party paId="6188" name="No description" abbreviation="ND" votes="501" percentageShare="2.15" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

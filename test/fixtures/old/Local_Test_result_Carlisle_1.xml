@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Carlisle' paId='3179' type='Non-Met' proportion='third' winningParty='NOC' gainOrHold='lose to NOC' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='9'/>
+        <Party name='Lab' paId='314' seats='6'/>
+        <Party name='LD' paId='315' seats='1'/>
+        <Party name='Ind' paId='318' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+4'/>
+        <Party name='Lab' paId='314' change='-4'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='25'/>
+        <Party name='C' paId='313' seats='24'/>
+        <Party name='Ind' paId='318' seats='2'/>
+        <Party name='LD' paId='315' seats='1'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="43" name="Glasgow Anniesland" electorate="55411">
+      <Candidate paId="182857" sex="M" firstName="Alex" surname="Mitchell Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182858" sex="M" firstName="Paul" surname="Mitchell Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182859" sex="M" firstName="Edward" surname="Scott Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182860" previousSittingMember="*" sex="F" firstName="Louise" surname="Powell Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="43" name="Glasgow Anniesland" turnout="23918" percentageTurnout="43.16" winningParty="SNP" majority="7" percentageMajority="0.03">
+      <Candidate paId="60494" firstName="Bill" surname="Kidd" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10329" percentageShare="43.19" />
+      </Candidate>
+      <Candidate paId="60809" firstName="Bill" surname="Butler" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10322" percentageShare="43.16" />
+      </Candidate>
+      <Candidate paId="70855" firstName="Matthew" surname="Smith" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2011" percentageShare="8.41" />
+      </Candidate>
+      <Candidate paId="60526" firstName="Paul" surname="McGarry" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1000" percentageShare="4.18" />
+      </Candidate>
+      <Candidate paId="70956" firstName="Marc" surname="Livingstone" sex="M">
+        <Party paId="5677" name="Communist Party of Britain" abbreviation="Comm Brit" votes="256" percentageShare="1.07" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

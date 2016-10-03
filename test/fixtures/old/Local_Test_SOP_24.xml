@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalStateOfParties numberOfResults='24' totalNumberOfCouncils='124'>
+  <Election date='2016-05-05' paId='82'/>
+  <Parties>
+    <Party paId='313' name='Conservative' abbreviation='C' totalCouncils='8' changeInControl='+1' seatsWon='232' netChangeInSeats='+26'/>
+    <Party paId='314' name='Labour' abbreviation='Lab' totalCouncils='9' changeInControl='-1' seatsWon='195' netChangeInSeats='-24'/>
+    <Party paId='315' name='Liberal Democrat' abbreviation='LD' totalCouncils='1' changeInControl='0' seatsWon='65' netChangeInSeats='-6'/>
+    <Party paId='316' name='Green Party' abbreviation='Green' totalCouncils='0' changeInControl='0' seatsWon='5' netChangeInSeats='-11'/>
+    <Party paId='317' name='United Kingdom Independence Party' abbreviation='UKIP' totalCouncils='0' changeInControl='0' seatsWon='16' netChangeInSeats='+5'/>
+    <Party paId='318' name='Independent/Other' abbreviation='Ind' totalCouncils='0' changeInControl='0' seatsWon='38' netChangeInSeats='+3'/>
+    <Party paId='319' name='Liberal' abbreviation='Lib' totalCouncils='0' changeInControl='0' seatsWon='2' netChangeInSeats='-1'/>
+    <Party name='No Overall Control' abbreviation='NOC' totalCouncils='6' changeInControl='0' seatsWon='0' netChangeInSeats='0'/>
+  </Parties>
+  <CouncilsIncluded>
+    <Council name='Adur' paId='3170' type='Non-Met' proportion='half'/>
+    <Council name='Amber Valley' paId='3171' type='Non-Met' proportion='third'/>
+    <Council name='Barnsley' paId='3115' type='Metro' proportion='third'/>
+    <Council name='Basildon' paId='3172' type='Non-Met' proportion='third'/>
+    <Council name='Basingstoke &amp; Deane' paId='3173' type='Non-Met' proportion='third'/>
+    <Council name='Blackburn with Darwen' paId='3151' type='Unitary' proportion='third'/>
+    <Council name='Bristol' paId='3152' type='Unitary' proportion='all'/>
+    <Council name='Cannock Chase' paId='3178' type='Non-Met' proportion='third'/>
+    <Council name='Carlisle' paId='3179' type='Non-Met' proportion='third'/>
+    <Council name='Castle Point' paId='3180' type='Non-Met' proportion='third'/>
+    <Council name='Cheltenham' paId='3181' type='Non-Met' proportion='half'/>
+    <Council name='Cherwell' paId='3182' type='Non-Met' proportion='all'/>
+    <Council name='Chorley' paId='3183' type='Non-Met' proportion='third'/>
+    <Council name='Colchester' paId='3184' type='Non-Met' proportion='all'/>
+    <Council name='Craven' paId='3185' type='Non-Met' proportion='third'/>
+    <Council name='Crawley' paId='3186' type='Non-Met' proportion='third'/>
+    <Council name='Derby' paId='3153' type='Unitary' proportion='third'/>
+    <Council name='Halton' paId='3154' type='Unitary' proportion='third'/>
+    <Council name='Hartlepool' paId='3155' type='Unitary' proportion='third'/>
+    <Council name='Kingston-upon-Hull' paId='3156' type='Unitary' proportion='third'/>
+    <Council name='Milton Keynes' paId='3157' type='Unitary' proportion='third'/>
+    <Council name='North East Lincolnshire' paId='3158' type='Unitary' proportion='third'/>
+    <Council name='Peterborough' paId='3159' type='Unitary' proportion='all'/>
+    <Council name='St Albans' paId='3221' type='Non-Met' proportion='third'/>
+  </CouncilsIncluded>
+</LocalStateOfParties>

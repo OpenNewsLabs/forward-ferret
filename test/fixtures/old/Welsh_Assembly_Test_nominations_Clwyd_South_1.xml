@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="16" name="Clwyd South" electorate="54499">
+      <Candidate paId="181765" sex="M" firstName="Andrew" surname="Lewis Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181766" previousSittingMember="*" sex="M" firstName="Graham" surname="George Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181767" sex="M" firstName="Nick" surname="Forbes Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181768" sex="M" firstName="Peter" surname="Sheppard Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181769" sex="M" firstName="David" surname="Wood Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181770" sex="M" firstName="David" surname="Shaw Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="16" name="Clwyd South" turnout="20037" percentageTurnout="36.77" winningParty="Lab" majority="2659" percentageMajority="13.27">
+      <Candidate paId="60979" firstName="Ken" surname="Skates" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="8500" percentageShare="42.42" />
+      </Candidate>
+      <Candidate paId="60478" firstName="Paul" surname="Rogers" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="5841" percentageShare="29.15" />
+      </Candidate>
+      <Candidate paId="60520" firstName="Mabon" surname="ap Gwynfor" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="3719" percentageShare="18.56" />
+      </Candidate>
+      <Candidate paId="60937" firstName="Bruce" surname="Roberts" sex="M">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1977" percentageShare="9.87" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

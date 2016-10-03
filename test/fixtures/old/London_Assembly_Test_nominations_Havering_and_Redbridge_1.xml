@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="9" name="Havering &amp; Redbridge" electorate="383584">
+      <Candidate paId="181971" sex="M" firstName="Neil" surname="Fletcher Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181972" sex="F" firstName="Jane" surname="James Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181973" sex="M" firstName="David" surname="Harris Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181974" sex="M" firstName="David" surname="Roberts Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181975" sex="M" firstName="Jim" surname="Robinson Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="London" date="2012-05-03" type="L">
+    <Constituency number="9" name="Havering &amp; Redbridge" turnout="141766" percentageTurnout="36.37" winningParty="C" majority="3899" percentageMajority="2.75">
+      <Candidate paId="80389" firstName="Roger" surname="Evans" sex="M">
+        <Party paId="6420" name="Conservative" abbreviation="C" votes="53285" percentageShare="37.59" />
+      </Candidate>
+      <Candidate paId="76025" firstName="Mandy" surname="Richards" sex="F">
+        <Party paId="6421" name="Labour" abbreviation="Lab" votes="49386" percentageShare="34.84" />
+      </Candidate>
+      <Candidate paId="80423" firstName="Lawrence" surname="Webb" sex="M">
+        <Party paId="6459" name="UK Independence Party" abbreviation="UKIP" votes="9471" percentageShare="6.68" />
+      </Candidate>
+      <Candidate paId="84775" firstName="Malvin" surname="Brown" sex="M">
+        <Party paId="6452" name="Residents' Association of London" abbreviation="Res London" votes="8239" percentageShare="5.81" />
+      </Candidate>
+      <Candidate paId="84769" firstName="Farrukh" surname="Islam" sex="M">
+        <Party paId="6422" name="Liberal Democrat" abbreviation="LD" votes="6435" percentageShare="4.54" />
+      </Candidate>
+      <Candidate paId="84731" firstName="Robert" surname="Taylor" sex="M">
+        <Party paId="6427" name="British National Party" abbreviation="BNP" votes="5234" percentageShare="3.69" />
+      </Candidate>
+      <Candidate paId="80416" firstName="Haroon" surname="Saad" sex="M">
+        <Party paId="6423" name="Green" abbreviation="Green" votes="5207" percentageShare="3.67" />
+      </Candidate>
+      <Candidate paId="84742" firstName="Mark" surname="Twiddy" sex="M">
+        <Party paId="6433" name="English Democrats Party" abbreviation="Eng Dem" votes="2573" percentageShare="1.81" />
+      </Candidate>
+      <Candidate paId="84766" firstName="Richard" surname="Edmonds" sex="M">
+        <Party paId="6446" name="National Front" abbreviation="NF" votes="1936" percentageShare="1.37" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

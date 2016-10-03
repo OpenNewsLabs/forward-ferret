@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Kingston-upon-Hull' paId='3156' type='Unitary' proportion='third'>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='40' seatsOffered='11' unopposedReturns='0' candidates='20'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='15' seatsOffered='7' unopposedReturns='0' candidates='20'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='2' seatsOffered='1' unopposedReturns='0' candidates='20'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='2' seatsOffered='1' unopposedReturns='0' candidates='3'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='20'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="7" name="Almond Valley" electorate="59896">
+      <Candidate paId="182704" sex="M" firstName="Paul" surname="Chapman Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182705" previousSittingMember="+" sex="M" firstName="Ian" surname="Phillips Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182706" sex="M" firstName="David" surname="Page Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182707" previousSittingMember="*" sex="M" firstName="Julian" surname="Wallace Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="7" name="Almond Valley" turnout="30737" percentageTurnout="51.32" winningParty="SNP" majority="5542" percentageMajority="18.03">
+      <Candidate paId="60649" firstName="Angela" surname="Constance" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="16704" percentageShare="54.34" />
+      </Candidate>
+      <Candidate paId="60780" firstName="Lawrence" surname="Fitzpatrick" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="11162" percentageShare="36.31" />
+      </Candidate>
+      <Candidate paId="60500" firstName="Andrew" surname="Hardie" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1886" percentageShare="6.14" />
+      </Candidate>
+      <Candidate paId="70862" firstName="Emma" surname="Sykes" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="656" percentageShare="2.13" />
+      </Candidate>
+      <Candidate paId="70879" firstName="Neil" surname="McIvor" sex="M">
+        <Party paId="6174" name="National Front" abbreviation="Nat Front" votes="329" percentageShare="1.07" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

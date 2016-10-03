@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Eastleigh' paId='3188' type='Non-Met' proportion='third' winningParty='LD' gainOrHold='no change' sittingParty='LD'>
+      <ElectedCouncillors>
+        <Party name='LD' paId='315' seats='10'/>
+        <Party name='C' paId='313' seats='5'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+3'/>
+        <Party name='LD' paId='315' change='-3'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='LD' paId='315' seats='35'/>
+        <Party name='C' paId='313' seats='9'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="20" name="Cumbernauld &amp; Kilsyth" electorate="48006">
+      <Candidate paId="182759" sex="M" firstName="David" surname="Harper Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182760" previousSittingMember="+" sex="M" firstName="Mark" surname="Cox Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182761" sex="M" firstName="Peter" surname="Grant Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182762" previousSittingMember="*" sex="M" firstName="Stewart" surname="Roberts Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="20" name="Cumbernauld &amp; Kilsyth" turnout="25254" percentageTurnout="52.61" winningParty="SNP" majority="3459" percentageMajority="13.70">
+      <Candidate paId="60661" firstName="Jamie" surname="Hepburn" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13595" percentageShare="53.83" />
+      </Candidate>
+      <Candidate paId="60791" firstName="Cathie" surname="Craigie" sex="F">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10136" percentageShare="40.14" />
+      </Candidate>
+      <Candidate paId="66389" firstName="James" surname="Boswell" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1156" percentageShare="4.58" />
+      </Candidate>
+      <Candidate paId="70867" firstName="Martin" surname="Oliver" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="367" percentageShare="1.45" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

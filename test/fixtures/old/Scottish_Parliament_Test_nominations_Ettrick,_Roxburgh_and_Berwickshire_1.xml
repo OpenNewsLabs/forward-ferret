@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="37" name="Ettrick, Roxburgh &amp; Berwickshire" electorate="54327">
+      <Candidate paId="182833" previousSittingMember="*" sex="M" firstName="Derek" surname="Anderson Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182834" sex="F" firstName="Jean" surname="Squire Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182835" previousSittingMember="+" sex="F" firstName="Hazel" surname="Kennedy Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182836" previousSittingMember="+" sex="M" firstName="Geoff" surname="Kemp Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="37" name="Ettrick, Roxburgh &amp; Berwickshire" turnout="28816" percentageTurnout="53.04" winningParty="C" majority="5334" percentageMajority="18.51">
+      <Candidate paId="60438" firstName="John" surname="Lamont" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="12933" percentageShare="44.88" />
+      </Candidate>
+      <Candidate paId="60675" firstName="Paul" surname="Wheelhouse" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="7599" percentageShare="26.37" />
+      </Candidate>
+      <Candidate paId="66386" firstName="Euan" surname="Robson" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="4990" percentageShare="17.32" />
+      </Candidate>
+      <Candidate paId="66484" firstName="Rab" surname="Stewart" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="2986" percentageShare="10.36" />
+      </Candidate>
+      <Candidate paId="70887" firstName="Jesse" surname="Rae" sex="F">
+        <Party paId="5705" name="No Description" abbreviation="ND" votes="308" percentageShare="1.07" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

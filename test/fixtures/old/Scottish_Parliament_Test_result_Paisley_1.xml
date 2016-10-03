@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:57:54+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="63" name="Paisley" electorate="52066" turnout="26475" percentageTurnout="50.85" percentageChangeTurnout="+1.70" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="5981" percentageMajority="22.59" percentageChangeMajority="+1.70" swing="5.67" swingTo="C" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182948" sex="M" firstName="Mike" surname="Francis Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="11966" percentageShare="45.20" percentageShareChange="+2.55" />
+      </Candidate>
+      <Candidate paId="182945" sex="F" firstName="Alison" surname="Taylor Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="5985" percentageShare="22.61" percentageShareChange="+13.90" />
+      </Candidate>
+      <Candidate paId="182947" sex="M" firstName="Edward" surname="Harvey Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5720" percentageShare="21.61" percentageShareChange="+14.64" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182946" sex="M" firstName="Keith" surname="Smith Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="2804" percentageShare="10.59" percentageShareChange="-31.09" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="63" name="Paisley" turnout="25590" percentageTurnout="49.15" winningParty="SNP" majority="248" percentageMajority="0.97">
+      <Candidate paId="60698" firstName="George" surname="Adam" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="10913" percentageShare="42.65" />
+      </Candidate>
+      <Candidate paId="70728" firstName="Evan" surname="Williams" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="10665" percentageShare="41.68" />
+      </Candidate>
+      <Candidate paId="60466" firstName="Gordon" surname="McCaskill" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="2229" percentageShare="8.71" />
+      </Candidate>
+      <Candidate paId="60562" firstName="Eileen" surname="McCartin" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1783" percentageShare="6.97" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

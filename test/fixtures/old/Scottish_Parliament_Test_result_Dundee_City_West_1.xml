@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T20:02:52+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="26" name="Dundee City West" electorate="53841" turnout="37132" percentageTurnout="68.97" percentageChangeTurnout="+23.53" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="3326" percentageMajority="8.96" percentageChangeMajority="+23.53" swing="8.61" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182788" sex="M" firstName="Michael" surname="Donnelly Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14087" percentageShare="37.94" percentageShareChange="-19.66" />
+      </Candidate>
+      <Candidate previousSittingMember="+" paId="182786" sex="F" firstName="Nicola" surname="Evans Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="10761" percentageShare="28.98" percentageShareChange="-2.43" />
+      </Candidate>
+      <Candidate paId="182785" sex="M" firstName="George" surname="Martin Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="6130" percentageShare="16.51" percentageShareChange="+9.87" />
+      </Candidate>
+      <Candidate paId="182787" sex="M" firstName="Colin" surname="Johnson Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5042" percentageShare="13.58" percentageShareChange="+9.23" />
+      </Candidate>
+      <Candidate paId="182789" sex="M" firstName="Martin" surname="Wallace Test">
+        <Party paId="8769" name="Trade Unionist and Socialist Coalition" abbreviation="TUSC" votes="1112" percentageShare="2.99" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="26" name="Dundee City West" turnout="24461" percentageTurnout="45.43" winningParty="SNP" majority="6405" percentageMajority="26.18">
+      <Candidate paId="60666" firstName="Joe" surname="Fitzpatrick" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14089" percentageShare="57.60" />
+      </Candidate>
+      <Candidate paId="60797" firstName="Richard" surname="McCready" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="7684" percentageShare="31.41" />
+      </Candidate>
+      <Candidate paId="60429" firstName="Colin" surname="Stewart" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="1625" percentageShare="6.64" />
+      </Candidate>
+      <Candidate paId="60554" firstName="Alison" surname="Burns" sex="F">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1063" percentageShare="4.35" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

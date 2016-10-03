@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="London Assembly Test" date="2016-05-04" type="L">
+    <Constituency number="4" name="City &amp; East" electorate="501400" gainOrHold="gain" winningPartyAbbreviation="C" winningPartyName="Conservative" sittingPartyAbbreviation="Lab" sittingPartyName="Labour" change="true" paStyleMessageText="Conservative gain from Labour in City &amp; East">
+      <Candidate elected="*" paId="181939" sex="M" firstName="Ashley" surname="Waller Test">
+        <Party paId="8568" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181940" sex="M" firstName="Ian" surname="Wallace Test">
+        <Party paId="8569" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181941" sex="F" firstName="Eleanor" surname="Lee Test">
+        <Party paId="8570" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181942" sex="F" firstName="Elizabeth" surname="Dixon Test">
+        <Party paId="8571" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181945" sex="M" firstName="Rob" surname="Brown Test">
+        <Party paId="8725" name="All People's Party" abbreviation="APP" />
+      </Candidate>
+      <Candidate paId="181943" sex="M" firstName="Mark" surname="Hill Test">
+        <Party paId="8605" name="Respect (George Galloway)" abbreviation="Respect GG" />
+      </Candidate>
+      <Candidate paId="181946" sex="M" firstName="Malcolm" surname="Johnson Test">
+        <Party paId="8726" name="Take Back The City" abbreviation="TBTC" />
+      </Candidate>
+      <Candidate paId="181944" sex="M" firstName="Nigel" surname="Ross Test">
+        <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

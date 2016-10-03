@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="12" totalNumberOfConstituencies="14" totalVotes="3075741">
+  <Election name="London Assembly Test" date="2016-05-04" type="L" />
+  <Parties>
+    <Party paId="8569" name="Labour" abbreviation="Lab" totalSeats="5" gains="2" losses="4" totalVotes="1143613" percentageShare="37.18" percentageChange="-4.68" />
+    <Party paId="8568" name="Conservative" abbreviation="C" totalSeats="6" gains="3" losses="2" totalVotes="1103621" percentageShare="35.88" percentageChange="+2.89" />
+    <Party paId="8570" name="Liberal Democrat" abbreviation="LD" totalSeats="1" gains="1" totalVotes="318543" percentageShare="10.36" percentageChange="+1.74" />
+    <Party paId="8571" name="Green" abbreviation="Green" totalVotes="221849" percentageShare="7.21" percentageChange="-1.17" />
+    <Party paId="8612" name="UK Independence Party" abbreviation="UKIP" totalVotes="214956" percentageShare="6.99" percentageChange="+2.37" />
+    <Party paId="8579" name="Communist League" abbreviation="Comm L" totalVotes="10832" percentageShare="0.35" percentageChange="+0.29" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="62327" percentageShare="2.03" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Barnet &amp; Camden" />
+    <Constituency number="2" name="Bexley &amp; Bromley" />
+    <Constituency number="3" name="Brent &amp; Harrow" />
+    <Constituency number="4" name="City &amp; East" />
+    <Constituency number="5" name="Croydon &amp; Sutton" />
+    <Constituency number="6" name="Ealing &amp; Hillingdon" />
+    <Constituency number="7" name="Enfield &amp; Haringey" />
+    <Constituency number="8" name="Greenwich &amp; Lewisham" />
+    <Constituency number="9" name="Havering &amp; Redbridge" />
+    <Constituency number="12" name="North East" />
+    <Constituency number="13" name="South West" />
+    <Constituency number="14" name="West Central" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

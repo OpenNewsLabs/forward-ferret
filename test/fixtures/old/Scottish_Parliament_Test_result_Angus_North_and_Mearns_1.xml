@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:58:20+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="8" name="Angus North &amp; Mearns" electorate="52124" turnout="39281" percentageTurnout="75.36" percentageChangeTurnout="+27.55" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="5351" percentageMajority="13.62" percentageChangeMajority="+27.55" swing="14.26" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" paId="182711" sex="M" firstName="Bernard" surname="Gibson Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="15673" percentageShare="39.90" percentageShareChange="-14.92" />
+      </Candidate>
+      <Candidate paId="182709" sex="M" firstName="Andrew" surname="Brown Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="10322" percentageShare="26.28" percentageShareChange="+13.60" />
+      </Candidate>
+      <Candidate paId="182708" sex="M" firstName="David" surname="Jones Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="7654" percentageShare="19.49" percentageShareChange="-6.09" />
+      </Candidate>
+      <Candidate paId="182710" sex="M" firstName="Stephen" surname="Jones Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="5632" percentageShare="14.34" percentageShareChange="+7.41" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="8" name="Angus North &amp; Mearns" turnout="24920" percentageTurnout="47.81" winningParty="SNP" majority="7286" percentageMajority="29.24">
+      <Candidate paId="60650" firstName="Nigel" surname="Don" sex="M">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13660" percentageShare="54.82" />
+      </Candidate>
+      <Candidate paId="60423" firstName="Alex" surname="Johnstone" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="6374" percentageShare="25.58" />
+      </Candidate>
+      <Candidate paId="60841" firstName="Kevin" surname="Hutchens" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="3160" percentageShare="12.68" />
+      </Candidate>
+      <Candidate paId="60552" firstName="Sanjay" surname="Samani" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="1726" percentageShare="6.93" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Southend-on-Sea' paId='3165' type='Unitary' proportion='third' winningParty='NOC' gainOrHold='no change' sittingParty='NOC'>
+      <ElectedCouncillors>
+        <Party name='C' paId='313' seats='8'/>
+        <Party name='LD' paId='315' seats='3'/>
+        <Party name='Ind' paId='318' seats='3'/>
+        <Party name='Lab' paId='314' seats='2'/>
+        <Party name='UKIP' paId='317' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='C' paId='313' change='+2'/>
+        <Party name='UKIP' paId='317' change='+1'/>
+        <Party name='Ind' paId='318' change='-2'/>
+        <Party name='Lab' paId='314' change='-1'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='C' paId='313' seats='24'/>
+        <Party name='Ind' paId='318' seats='12'/>
+        <Party name='Lab' paId='314' seats='8'/>
+        <Party name='LD' paId='315' seats='4'/>
+        <Party name='UKIP' paId='317' seats='3'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

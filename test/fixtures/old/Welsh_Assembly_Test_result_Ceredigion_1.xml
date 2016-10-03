@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T19:19:28+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="15" name="Ceredigion" electorate="56983" turnout="33103" percentageTurnout="58.09" percentageChangeTurnout="+7.07" winningParty="PC" gainOrHold="hold" sittingParty="PC" majority="5948" percentageMajority="17.97" percentageChangeMajority="+7.07" swing="7.31" swingTo="Lab" swingFrom="PC">
+      <Candidate elected="*" previousSittingMember="*" paId="181762" sex="M" firstName="Adam" surname="Davies Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="13904" percentageShare="42.00" percentageShareChange="+0.66" />
+      </Candidate>
+      <Candidate paId="181760" sex="M" firstName="John" surname="Clarke Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="7956" percentageShare="24.03" percentageShareChange="+15.28" />
+      </Candidate>
+      <Candidate paId="181761" sex="M" firstName="John" surname="Thomson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="4589" percentageShare="13.86" percentageShareChange="-21.37" />
+      </Candidate>
+      <Candidate paId="181759" sex="M" firstName="John" surname="Brennan Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="2780" percentageShare="8.40" percentageShareChange="-1.08" />
+      </Candidate>
+      <Candidate paId="181763" sex="M" firstName="Doug" surname="Hunt Test">
+        <Party paId="8628" name="Green" abbreviation="Green" votes="2387" percentageShare="7.21" percentageShareChange="+2.00" />
+      </Candidate>
+      <Candidate paId="181764" sex="M" firstName="David" surname="Morris Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1487" percentageShare="4.49" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="15" name="Ceredigion" turnout="29076" percentageTurnout="51.03" winningParty="PC" majority="1777" percentageMajority="6.11">
+      <Candidate paId="60889" firstName="Elin" surname="Jones" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="12020" percentageShare="41.34" />
+      </Candidate>
+      <Candidate paId="60936" firstName="Liz" surname="Evans" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="10243" percentageShare="35.23" />
+      </Candidate>
+      <Candidate paId="66510" firstName="Luke" surname="Evetts" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="2755" percentageShare="9.48" />
+      </Candidate>
+      <Candidate paId="66526" firstName="Richard" surname="Boudier" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="2544" percentageShare="8.75" />
+      </Candidate>
+      <Candidate paId="66477" firstName="Chris" surname="Simpson" sex="M">
+        <Party paId="5736" name="Green" abbreviation="Green" votes="1514" percentageShare="5.21" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

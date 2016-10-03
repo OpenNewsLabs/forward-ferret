@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="72" name="Strathkelvin &amp; Bearsden" electorate="59323">
+      <Candidate paId="182985" sex="M" firstName="Alan" surname="Griffiths Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182986" sex="M" firstName="Robert" surname="Rogers Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182987" sex="M" firstName="Jim" surname="Holden Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="182988" sex="M" firstName="Mike" surname="Skinner Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="72" name="Strathkelvin &amp; Bearsden" turnout="33752" percentageTurnout="56.90" winningParty="SNP" majority="1802" percentageMajority="5.34">
+      <Candidate paId="60706" firstName="Fiona" surname="McLeod" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="14258" percentageShare="42.24" />
+      </Candidate>
+      <Candidate paId="60837" firstName="David" surname="Whitton" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="12456" percentageShare="36.90" />
+      </Candidate>
+      <Candidate paId="60468" firstName="Stephanie" surname="Fraser" sex="F">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="4438" percentageShare="13.15" />
+      </Candidate>
+      <Candidate paId="60561" firstName="Gordon" surname="MacDonald" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="2600" percentageShare="7.70" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:51:47+01:00">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="58" name="Midlothian South, Tweeddale &amp; Lauderdale" electorate="57781" turnout="29453" percentageTurnout="50.97" percentageChangeTurnout="-4.13" winningParty="SNP" gainOrHold="hold" sittingParty="SNP" majority="4573" percentageMajority="15.53" percentageChangeMajority="-4.13" swing="5.65" swingTo="Lab" swingFrom="SNP">
+      <Candidate elected="*" previousSittingMember="*" paId="182926" sex="M" firstName="Matthew" surname="Coleman Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" votes="14859" percentageShare="50.45" percentageShareChange="+6.94" />
+      </Candidate>
+      <Candidate paId="182924" sex="F" firstName="Liz" surname="Jones Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" votes="10286" percentageShare="34.92" percentageShareChange="+18.24" />
+      </Candidate>
+      <Candidate paId="182923" sex="M" firstName="Ken" surname="Stewart Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" votes="2215" percentageShare="7.52" percentageShareChange="-4.23" />
+      </Candidate>
+      <Candidate paId="182925" sex="F" firstName="Fiona" surname="Berry Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" votes="2093" percentageShare="7.11" percentageShareChange="-20.94" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Scottish Parliament" date="2011-05-05" type="S">
+    <Constituency number="58" name="Midlothian South, Tweeddale &amp; Lauderdale" turnout="31841" percentageTurnout="55.11" winningParty="SNP" majority="4924" percentageMajority="15.46">
+      <Candidate paId="60693" firstName="Christine" surname="Grahame" sex="F">
+        <Party paId="5669" name="Scottish National Party" abbreviation="SNP" votes="13855" percentageShare="43.51" />
+      </Candidate>
+      <Candidate paId="60772" firstName="Jeremy" surname="Purvis" sex="M">
+        <Party paId="5668" name="Liberal Democrat" abbreviation="LD" votes="8931" percentageShare="28.05" />
+      </Candidate>
+      <Candidate paId="60825" firstName="Ian" surname="Miller" sex="M">
+        <Party paId="5666" name="Labour" abbreviation="Lab" votes="5312" percentageShare="16.68" />
+      </Candidate>
+      <Candidate paId="60450" firstName="Peter" surname="Duncan" sex="M">
+        <Party paId="5665" name="Conservative" abbreviation="C" votes="3743" percentageShare="11.76" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

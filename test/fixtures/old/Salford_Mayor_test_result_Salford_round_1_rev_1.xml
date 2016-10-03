@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionResult roundNumber='1' revision='1' declarationTime='2016-04-20T17:45:42'>
+  <Election name='Salford Mayor test' type='M' date='2016-05-04'>
+    <Constituency number='4' name='Salford' electorate='174800' turnout='106681' percentageTurnout='61.03' validVotes='106681' quota='53341' paId='469' boundaryChange='false' percentageChangeTurnout='+35.36'>
+      <Round number='1' revision='1' declarationTime='2016-04-20T17:45:42'>
+        <Candidate resultStatus='*' firstName='Jennifer' surname='Simpson Test' sex='F' paId='3845' votes='55986'>
+          <Party name='Labour' abbreviation='Lab' paId='1045'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Christopher' surname='Donnelly Test' sex='M' paId='3846' votes='25674'>
+          <Party name='Conservative' abbreviation='C' paId='1044'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='Tom' surname='Martin Test' sex='M' paId='3848' votes='14709'>
+          <Party name='UK Independence Party' abbreviation='UKIP' paId='1047'/>
+        </Candidate>
+        <Candidate resultStatus='-' firstName='William' surname='Wilkinson Test' sex='M' paId='3847' votes='10312'>
+          <Party name='Green' abbreviation='Green' paId='1220'/>
+        </Candidate>
+      </Round>
+    </Constituency>
+  </Election>
+</ElectionResult>

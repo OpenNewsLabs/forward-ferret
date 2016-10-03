@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S">
+    <Constituency number="45" name="Glasgow Kelvin" electorate="61893" gainOrHold="hold" winningPartyAbbreviation="SNP" winningPartyName="Scottish National Party" sittingPartyAbbreviation="SNP" sittingPartyName="Scottish National Party" change="false" paStyleMessageText="Scottish National Party hold Glasgow Kelvin">
+      <Candidate paId="182867" sex="F" firstName="Ruth" surname="Dhillon Test">
+        <Party paId="8443" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="182868" sex="M" firstName="Andrew" surname="White Test">
+        <Party paId="8444" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="182869" sex="F" firstName="Barbara" surname="Edwards Test">
+        <Party paId="8446" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="*" paId="182870" sex="M" firstName="Paul" surname="Harper Test">
+        <Party paId="8447" name="Scottish National Party" abbreviation="SNP" />
+      </Candidate>
+      <Candidate paId="182871" sex="M" firstName="Peter" surname="Cunningham Test">
+        <Party paId="8448" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="182872" sex="M" firstName="Stephen" surname="Griffiths Test">
+        <Party paId="8465" name="Independent" abbreviation="Ind" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+

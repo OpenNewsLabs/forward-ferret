@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostResult revision="1" declarationTime="2016-04-27T18:29:01+01:00">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="19" name="Delyn" electorate="53996" turnout="35303" percentageTurnout="65.38" percentageChangeTurnout="+22.43" winningParty="PC" gainOrHold="gain" sittingParty="Lab" majority="8889" percentageMajority="25.18" percentageChangeMajority="+22.43" swing="32.65" swingTo="PC" swingFrom="Lab">
+      <Candidate elected="*" paId="181786" sex="M" firstName="Donald" surname="Miller Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" votes="16548" percentageShare="46.87" percentageShareChange="+34.29" />
+      </Candidate>
+      <Candidate paId="181783" sex="M" firstName="Richard" surname="Bennett Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" votes="7659" percentageShare="21.70" percentageShareChange="-11.99" />
+      </Candidate>
+      <Candidate paId="181784" sex="M" firstName="Daniel" surname="Lee Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" votes="5334" percentageShare="15.11" percentageShareChange="-31.00" />
+      </Candidate>
+      <Candidate paId="181785" sex="M" firstName="Frank" surname="Robinson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" votes="3795" percentageShare="10.75" percentageShareChange="+3.13" />
+      </Candidate>
+      <Candidate paId="181787" sex="M" firstName="Nigel" surname="MacDonald Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" votes="1967" percentageShare="5.57" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="19" name="Delyn" turnout="23194" percentageTurnout="42.96" winningParty="Lab" majority="2881" percentageMajority="12.42">
+      <Candidate paId="60982" firstName="Sandy" surname="Mewies" sex="F">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="10695" percentageShare="46.11" />
+      </Candidate>
+      <Candidate paId="60484" firstName="Matt" surname="Wright" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="7814" percentageShare="33.69" />
+      </Candidate>
+      <Candidate paId="66521" firstName="Carrie" surname="Harper" sex="F">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="2918" percentageShare="12.58" />
+      </Candidate>
+      <Candidate paId="60939" firstName="Michele" surname="Jones" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1767" percentageShare="7.62" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostResult>
+

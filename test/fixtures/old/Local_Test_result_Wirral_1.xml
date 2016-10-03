@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionResult revision='1'>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Wirral' paId='3149' type='Metro' proportion='third' winningParty='Lab' gainOrHold='no change' sittingParty='Lab'>
+      <ElectedCouncillors>
+        <Party name='Lab' paId='314' seats='13'/>
+        <Party name='C' paId='313' seats='5'/>
+        <Party name='LD' paId='315' seats='3'/>
+        <Party name='Green' paId='316' seats='1'/>
+      </ElectedCouncillors>
+      <Changes>
+        <Party name='LD' paId='315' change='+1'/>
+        <Party name='Green' paId='316' change='+1'/>
+        <Party name='C' paId='313' change='-2'/>
+      </Changes>
+      <NewCouncil>
+        <Party name='Lab' paId='314' seats='39'/>
+        <Party name='C' paId='313' seats='19'/>
+        <Party name='LD' paId='315' seats='6'/>
+        <Party name='Green' paId='316' seats='2'/>
+      </NewCouncil>
+    </Council>
+  </Election>
+</LocalElectionResult>

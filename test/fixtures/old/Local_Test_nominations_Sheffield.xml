@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Sheffield' paId='3139' type='Metro' proportion='all' boundaryChange='true'>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='59' seatsOffered='59' unopposedReturns='0' candidates='84'/>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='17' seatsOffered='17' unopposedReturns='0' candidates='84'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='4' seatsOffered='4' unopposedReturns='0' candidates='84'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='4' seatsOffered='4' unopposedReturns='0' candidates='42'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='25'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='0' seatsOffered='0' unopposedReturns='0' candidates='53'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

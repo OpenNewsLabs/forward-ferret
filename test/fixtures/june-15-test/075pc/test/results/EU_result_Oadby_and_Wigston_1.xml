@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReferendumResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ReferendumResult.xsd" revision="1" declarationTime="2016-06-15T18:50:57+01:00">
+  <Referendum name="EU" date="2016-06-23">
+    <VotingArea number="233" name="Oadby &amp; Wigston" electorate="42080">
+      <Proposition text="Should the UK remain a member of the EU or leave the EU?" turnout="22213" percentageTurnout="52.79" winningAnswerText="Remain a member of the EU" majority="5209" percentageMajority="23.45">
+        <Answer winning="true" text="Remain a member of the EU" shortText="Remain Test" votes="13711" percentageShare="61.73" />
+        <Answer winning="false" text="Leave the EU" shortText="Leave Test" votes="8502" percentageShare="38.27" />
+      </Proposition>
+    </VotingArea>
+  </Referendum>
+</ReferendumResult>
+

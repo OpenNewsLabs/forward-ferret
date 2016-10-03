@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ElectionNominations revision='2'>
+  <Election name='Liverpool Mayor test' type='M' date='2016-05-04'>
+    <Constituency number='3' name='Liverpool' electorate='319758' paId='471' boundaryChange='false'>
+      <Candidate firstName='Mark' surname='Jenkins Test' sex='M' paId='3842'>
+        <Party name='Conservative' abbreviation='C' paId='1052'/>
+      </Candidate>
+      <Candidate firstName='Richard' surname='Ball Test' sex='M' paId='3838' previousSittingMember='*'>
+        <Party name='Labour' abbreviation='Lab' paId='1053'/>
+      </Candidate>
+      <Candidate firstName='Patricia' surname='Lord Test' sex='F' paId='3840'>
+        <Party name='Liberal Democrat' abbreviation='LD' paId='1054'/>
+      </Candidate>
+      <Candidate firstName='Adrian' surname='Dixon Test' sex='M' paId='3839'>
+        <Party name='Green' abbreviation='Green' paId='1102'/>
+      </Candidate>
+      <Candidate firstName='David' surname='Ord Test' sex='M' paId='3843'>
+        <Party name='English Democrats' abbreviation='Eng Dem' paId='1219'/>
+      </Candidate>
+      <Candidate firstName='Peter' surname='Abbott Test' sex='M' paId='3841'>
+        <Party name='Trade Unionist and Socialist Coalition' abbreviation='TUSC' paId='1218'/>
+      </Candidate>
+      <Candidate firstName='Simon' surname='Roberts Test' sex='M' paId='3844'>
+        <Party name='Independent Simon Roberts Test' abbreviation='Ind' paId='1271'/>
+      </Candidate>
+      <PreviousFirstRoundResultsSummary>
+        <Candidate resultStatus='*' firstName='Joe' surname='Anderson' sex='M' rushText='City council leader Joe Anderson' paId='1996' votes='58448'>
+          <Party name='Labour' abbreviation='Lab' paId='637'/>
+        </Candidate>
+        <Candidate firstName='Liam' surname='Fogarty' sex='M' paId='2000' votes='8292'>
+          <Party name='Independent' abbreviation='Ind' paId='641'/>
+        </Candidate>
+        <Candidate firstName='Richard' surname='Kemp' sex='M' paId='2002' votes='6238'>
+          <Party name='Liberal Democrat' abbreviation='LD' paId='638'/>
+        </Candidate>
+        <Candidate firstName='John' surname='Coyne' sex='M' paId='1999' votes='5175'>
+          <Party name='Green' abbreviation='Green' paId='639'/>
+        </Candidate>
+        <Candidate firstName='Tony' surname='Mulhearn' sex='M' paId='2003' votes='4792'>
+          <Party name='Trade Unionist and Socialist Coalition' abbreviation='TUSC' paId='643'/>
+        </Candidate>
+        <Candidate firstName='Steve' surname='Radford' sex='M' paId='2004' votes='4442'>
+          <Party name='Liberal Party' abbreviation='Lib' paId='644'/>
+        </Candidate>
+        <Candidate firstName='Tony' surname='Caldeira' sex='M' paId='1998' votes='4425'>
+          <Party name='Conservative' abbreviation='C' paId='636'/>
+        </Candidate>
+        <Candidate firstName='Adam' surname='Heatherington' sex='M' paId='2001' votes='2352'>
+          <Party name='United Kingdom Independence Party' abbreviation='UKIP' paId='642'/>
+        </Candidate>
+        <Candidate firstName='Paul' surname='Rimmer' sex='M' paId='2005' votes='1400'>
+          <Party name='English Democrats' abbreviation='Eng Dem' paId='645'/>
+        </Candidate>
+        <Candidate firstName='Jeff' surname='Berman' sex='M' paId='1997' votes='1362'>
+          <Party name='Liverpool Independent Party' abbreviation='Liverpool Ind' paId='640'/>
+        </Candidate>
+        <Candidate firstName='Mike' surname='Whitby' sex='M' paId='2007' votes='1015'>
+          <Party name='British National Party' abbreviation='BNP' paId='647'/>
+        </Candidate>
+        <Candidate firstName='Peter' surname='Tierney' sex='M' paId='2006' votes='566'>
+          <Party name='National Front' abbreviation='NF' paId='646'/>
+        </Candidate>
+        <CandidatesElected>
+          <Candidate firstName='Joe' surname='Anderson' sex='M' rushText='City council leader Joe Anderson' paId='1996'>
+            <Party name='Labour' abbreviation='Lab' paId='637'/>
+          </Candidate>
+        </CandidatesElected>
+      </PreviousFirstRoundResultsSummary>
+    </Constituency>
+  </Election>
+</ElectionNominations>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<LocalElectionNominations>
+  <Election date='2016-05-05' paId='82'>
+    <Council name='Bradford' paId='3118' type='Metro' proportion='third'>
+      <Party name='Liberal Democrat' abbreviation='LD' paId='315' seatsHeld='9' seatsOffered='3' unopposedReturns='0' candidates='30'/>
+      <Party name='Conservative' abbreviation='C' paId='313' seatsHeld='23' seatsOffered='7' unopposedReturns='0' candidates='30'/>
+      <Party name='Green Party' abbreviation='Green' paId='316' seatsHeld='3' seatsOffered='1' unopposedReturns='0' candidates='26'/>
+      <Party name='UK Independence Party' abbreviation='UKIP' paId='317' seatsHeld='1' seatsOffered='0' unopposedReturns='0' candidates='20'/>
+      <Party name='Labour' abbreviation='Lab' paId='314' seatsHeld='46' seatsOffered='12' unopposedReturns='0' candidates='30'/>
+      <Party name='Independent/Other' abbreviation='Ind' paId='318' seatsHeld='8' seatsOffered='7' unopposedReturns='0' candidates='11'/>
+    </Council>
+  </Election>
+</LocalElectionNominations>

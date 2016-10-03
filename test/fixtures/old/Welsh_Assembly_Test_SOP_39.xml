@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="39" totalNumberOfConstituencies="40" totalVotes="1457384">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W" />
+  <Parties>
+    <Party paId="8624" name="Labour" abbreviation="Lab" totalSeats="23" gains="7" losses="12" totalVotes="525986" percentageShare="36.09" percentageChange="-7.28" />
+    <Party paId="8623" name="Conservative" abbreviation="C" totalSeats="8" gains="6" losses="4" totalVotes="316821" percentageShare="21.74" percentageChange="-3.76" />
+    <Party paId="8627" name="Plaid Cymru" abbreviation="PC" totalSeats="6" gains="6" losses="4" totalVotes="279435" percentageShare="19.17" percentageChange="+0.60" />
+    <Party paId="8626" name="Liberal Democrat" abbreviation="LD" totalSeats="2" gains="2" losses="1" totalVotes="206411" percentageShare="14.16" percentageChange="+4.38" />
+    <Party paId="8628" name="Green" abbreviation="Green" totalVotes="60068" percentageShare="4.12" />
+    <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" totalVotes="59910" percentageShare="4.11" />
+    <Party paId="8637" name="Independent" abbreviation="Ind" totalVotes="5579" percentageShare="0.38" percentageChange="-0.97" />
+    <Party paId="8635" name="English Democrats Party" abbreviation="Eng Dem" totalVotes="634" percentageShare="0.04" percentageChange="-0.04" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="2540" percentageShare="0.17" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="1" name="Aberavon" />
+    <Constituency number="2" name="Aberconwy" />
+    <Constituency number="3" name="Alyn &amp; Deeside" />
+    <Constituency number="4" name="Arfon" />
+    <Constituency number="5" name="Blaenau Gwent" />
+    <Constituency number="6" name="Brecon &amp; Radnorshire" />
+    <Constituency number="7" name="Bridgend" />
+    <Constituency number="8" name="Caerphilly" />
+    <Constituency number="9" name="Cardiff Central" />
+    <Constituency number="10" name="Cardiff North" />
+    <Constituency number="11" name="Cardiff South &amp; Penarth" />
+    <Constituency number="12" name="Cardiff West" />
+    <Constituency number="13" name="Carmarthen East &amp; Dinefwr" />
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" />
+    <Constituency number="16" name="Clwyd South" />
+    <Constituency number="17" name="Clwyd West" />
+    <Constituency number="18" name="Cynon Valley" />
+    <Constituency number="19" name="Delyn" />
+    <Constituency number="20" name="Dwyfor Meirionnydd" />
+    <Constituency number="21" name="Gower" />
+    <Constituency number="22" name="Islwyn" />
+    <Constituency number="23" name="Llanelli" />
+    <Constituency number="24" name="Merthyr Tydfil &amp; Rhymney" />
+    <Constituency number="25" name="Monmouth" />
+    <Constituency number="26" name="Montgomeryshire" />
+    <Constituency number="27" name="Neath" />
+    <Constituency number="28" name="Newport East" />
+    <Constituency number="29" name="Newport West" />
+    <Constituency number="30" name="Ogmore" />
+    <Constituency number="31" name="Pontypridd" />
+    <Constituency number="32" name="Preseli Pembrokeshire" />
+    <Constituency number="33" name="Rhondda" />
+    <Constituency number="34" name="Swansea East" />
+    <Constituency number="35" name="Swansea West" />
+    <Constituency number="36" name="Torfaen" />
+    <Constituency number="37" name="Vale of Clwyd" />
+    <Constituency number="38" name="Vale of Glamorgan" />
+    <Constituency number="39" name="Wrexham" />
+    <Constituency number="40" name="Ynys Mon" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

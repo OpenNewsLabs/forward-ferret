@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostStateOfParties numberOfResults="12" totalNumberOfConstituencies="73" totalVotes="415109">
+  <Election name="Scottish Parliament Test" date="2016-05-04" type="S" />
+  <Parties>
+    <Party paId="8447" name="Scottish National Party" abbreviation="SNP" totalSeats="12" gains="2" totalVotes="211681" percentageShare="50.99" percentageChange="+3.45" />
+    <Party paId="8443" name="Conservative" abbreviation="C" totalVotes="87040" percentageShare="20.97" percentageChange="+8.41" />
+    <Party paId="8444" name="Labour" abbreviation="Lab" losses="2" totalVotes="67471" percentageShare="16.25" percentageChange="-13.93" />
+    <Party paId="8446" name="Liberal Democrat" abbreviation="LD" totalVotes="43980" percentageShare="10.59" percentageChange="+1.87" />
+    <Party paId="8465" name="Independent" abbreviation="Ind" totalVotes="3393" percentageShare="0.82" percentageChange="+0.16" />
+    <Party paId="8448" name="Green" abbreviation="Green" totalVotes="718" percentageShare="0.17" />
+    <Party paId="-9999" name="Others" abbreviation="Others" totalVotes="826" percentageShare="0.20" />
+  </Parties>
+  <ConstituenciesIncluded>
+    <Constituency number="2" name="Aberdeen Donside" />
+    <Constituency number="3" name="Aberdeen South &amp; Kincardine North" />
+    <Constituency number="13" name="Caithness, Sutherland &amp; Ross" />
+    <Constituency number="15" name="Clackmannanshire &amp; Dunblane" />
+    <Constituency number="16" name="Clydebank &amp; Milngavie" />
+    <Constituency number="18" name="Coatbridge &amp; Chryston" />
+    <Constituency number="27" name="Dunfermline" />
+    <Constituency number="33" name="Edinburgh Northern &amp; Leith" />
+    <Constituency number="38" name="Falkirk East" />
+    <Constituency number="40" name="Fife Mid &amp; Glenrothes" />
+    <Constituency number="64" name="Perthshire North" />
+    <Constituency number="65" name="Perthshire South &amp; Kinross-shire" />
+  </ConstituenciesIncluded>
+</FirstPastThePostStateOfParties>
+

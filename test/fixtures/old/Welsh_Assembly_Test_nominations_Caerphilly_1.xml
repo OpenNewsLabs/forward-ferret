@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostNominations revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="8" name="Caerphilly" electorate="62049">
+      <Candidate paId="181712" sex="M" firstName="Jon" surname="Taylor Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181713" sex="M" firstName="Tony" surname="Jones Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181714" sex="M" firstName="Greg" surname="Hill Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate paId="181715" previousSittingMember="+" sex="F" firstName="Isabel" surname="Newton Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181716" sex="M" firstName="Charles" surname="Cunningham Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181717" sex="M" firstName="Jeremy" surname="Lee Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+  <PreviousElection name="Welsh Assembly" date="2011-05-05" type="W">
+    <Constituency number="8" name="Caerphilly" turnout="25570" percentageTurnout="41.21" winningParty="Lab" majority="4924" percentageMajority="19.26">
+      <Candidate paId="60974" firstName="Jeff" surname="Cuthbert" sex="M">
+        <Party paId="5732" name="Labour" abbreviation="Lab" votes="12521" percentageShare="48.97" />
+      </Candidate>
+      <Candidate paId="60522" firstName="Ron" surname="Davies" sex="M">
+        <Party paId="5735" name="Plaid Cymru" abbreviation="PC" votes="7597" percentageShare="29.71" />
+      </Candidate>
+      <Candidate paId="66508" firstName="Owen" surname="Meredith" sex="M">
+        <Party paId="5731" name="Conservative" abbreviation="C" votes="3368" percentageShare="13.17" />
+      </Candidate>
+      <Candidate paId="60935" firstName="Kay" surname="David" sex="F">
+        <Party paId="5734" name="Liberal Democrat" abbreviation="LD" votes="1062" percentageShare="4.15" />
+      </Candidate>
+      <Candidate paId="71313" firstName="Anthony" surname="King" sex="M">
+        <Party paId="5738" name="British National Party" abbreviation="BNP" votes="1022" percentageShare="4.00" />
+      </Candidate>
+    </Constituency>
+  </PreviousElection>
+</FirstPastThePostNominations>
+

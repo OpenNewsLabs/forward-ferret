@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FirstPastThePostRush revision="1">
+  <Election name="Welsh Assembly Test" date="2016-05-04" type="W">
+    <Constituency number="14" name="Carmarthen West &amp; Pembrokeshire South" electorate="58435" gainOrHold="gain" winningPartyAbbreviation="PC" winningPartyName="Plaid Cymru" sittingPartyAbbreviation="C" sittingPartyName="Conservative" change="true" paStyleMessageText="Plaid Cymru gain from Conservative in Carmarthen West &amp; Pembrokeshire South">
+      <Candidate previousSittingMember="*" paId="181752" sex="M" firstName="James" surname="Knight Test">
+        <Party paId="8623" name="Conservative" abbreviation="C" />
+      </Candidate>
+      <Candidate paId="181753" sex="M" firstName="Ken" surname="Martin Test">
+        <Party paId="8624" name="Labour" abbreviation="Lab" />
+      </Candidate>
+      <Candidate paId="181754" sex="M" firstName="John" surname="Stevenson Test">
+        <Party paId="8626" name="Liberal Democrat" abbreviation="LD" />
+      </Candidate>
+      <Candidate elected="*" previousSittingMember="+" paId="181755" sex="M" firstName="Andrew" surname="McCartney Test">
+        <Party paId="8627" name="Plaid Cymru" abbreviation="PC" />
+      </Candidate>
+      <Candidate paId="181756" sex="M" firstName="Robert" surname="Hutton Test">
+        <Party paId="8628" name="Green" abbreviation="Green" />
+      </Candidate>
+      <Candidate paId="181758" sex="M" firstName="Michael" surname="Jones Test">
+        <Party paId="8637" name="Independent" abbreviation="Ind" />
+      </Candidate>
+      <Candidate paId="181757" sex="M" firstName="Christopher" surname="Ball Test">
+        <Party paId="8663" name="UK Independence Party" abbreviation="UKIP" />
+      </Candidate>
+    </Constituency>
+  </Election>
+</FirstPastThePostRush>
+
